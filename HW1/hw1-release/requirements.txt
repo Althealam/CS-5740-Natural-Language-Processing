@@ -1,0 +1,17 @@
+ipykernel
+ipython>=8.12
+ipython-genutils
+ipywidgets
+jsonschema
+jupyter
+jupyter-client
+jupyter-console
+jupyter-core
+MarkupSafe
+matplotlib
+nbconvert
+nbformat
+nltk
+notebook
+numpy
+testpath
