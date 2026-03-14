@@ -1,0 +1,14 @@
+open file: /content/drive/My Drive/Cornell_University/2026_Spring/CS5840_Natural_Language_Processing/hw2-release/cs4740-hw2/artefacts/dataset/dataset_dict.json
+the init_weights supports nn.Embedding, nn.Linear initializations with xavier_normal
+no shared weights across layers
+class weights: tensor([2.8442, 2.4554, 2.9833, 2.9685, 1.2785, 0.1559, 3.5221, 1.9058, 4.9048,
+        2.7703], device='cuda:0')
+train metrics: {'epoch': 0, 'metrics': {'loss': np.float64(0.6123029743065814), 'precision': np.float64(0.554444508325663), 'recall': np.float64(0.4871875055865035), 'accuracy': np.float64(0.4871875055865035), 'f1': np.float64(0.4892361586031761)}}
+val metrics: {'epoch': 0, 'metrics': {'loss': np.float64(0.3896734426644715), 'precision': np.float64(0.728344352724483), 'recall': np.float64(0.6705270857541992), 'accuracy': np.float64(0.6705270857541992), 'f1': np.float64(0.6830802510861407)}}
+open file: /content/drive/My Drive/Cornell_University/2026_Spring/CS5840_Natural_Language_Processing/hw2-release/cs4740-hw2/artefacts/dataset/dataset_dict.json
+the init_weights supports nn.Embedding, nn.Linear initializations with xavier_normal
+no shared weights across layers
+class weights: tensor([2.8442, 2.4554, 2.9833, 2.9685, 1.2785, 0.1559, 3.5221, 1.9058, 4.9048,
+        2.7703], device='cuda:0')
+train metrics: {'epoch': 0, 'metrics': {'loss': np.float64(0.6123029743065814), 'precision': np.float64(0.554444508325663), 'recall': np.float64(0.4871875055865035), 'accuracy': np.float64(0.4871875055865035), 'f1': np.float64(0.4892361586031761)}}
+val metrics: {'epoch': 0, 'metrics': {'loss': np.float64(0.3896734426644715), 'precision': np.float64(0.728344352724483), 'recall': np.float64(0.6705270857541992), 'accuracy': np.float64(0.6705270857541992), 'f1': np.float64(0.6830802510861407)}}

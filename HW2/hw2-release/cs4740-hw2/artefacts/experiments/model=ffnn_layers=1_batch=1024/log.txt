@@ -1,0 +1,6 @@
+open file: /content/drive/My Drive/Cornell_University/2026_Spring/CS5840_Natural_Language_Processing/hw2-release/cs4740-hw2/artefacts/dataset/dataset_dict.json
+the init_weights supports nn.Embedding, nn.Linear initializations with xavier_normal
+class weights: tensor([2.8442, 2.4554, 2.9833, 2.9685, 1.2785, 0.1559, 3.5221, 1.9058, 4.9048,
+        2.7703], device='cuda:0')
+train metrics: {'epoch': 0, 'metrics': {'loss': np.float64(1.779121418793996), 'precision': np.float64(0.05160247724937805), 'recall': np.float64(0.1451797176052655), 'accuracy': np.float64(0.1451797176052655), 'f1': np.float64(0.0752042028738798)}}
+val metrics: {'epoch': 0, 'metrics': {'loss': np.float64(1.0551156600316365), 'precision': np.float64(0.04984390731257157), 'recall': np.float64(0.14627442781036057), 'accuracy': np.float64(0.14627442781036057), 'f1': np.float64(0.07398515777364993)}}

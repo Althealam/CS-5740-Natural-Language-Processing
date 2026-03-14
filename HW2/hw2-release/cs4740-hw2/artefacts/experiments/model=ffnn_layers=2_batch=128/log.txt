@@ -1,0 +1,46 @@
+open file: /content/drive/My Drive/Cornell_University/2026_Spring/CS5840_Natural_Language_Processing/hw2-release/cs4740-hw2/artefacts/dataset/dataset_dict.json
+the init_weights supports nn.Embedding, nn.Linear initializations with xavier_normal
+class weights: tensor([2.8442, 2.4554, 2.9833, 2.9685, 1.2785, 0.1559, 3.5221, 1.9058, 4.9048,
+        2.7703], device='cuda:0')
+train metrics: {'epoch': 0, 'metrics': {'loss': np.float64(0.9916981453634013), 'precision': np.float64(0.17848616017350383), 'recall': np.float64(0.16095227575938686), 'accuracy': np.float64(0.16095227575938686), 'f1': np.float64(0.11508417327797568)}}
+val metrics: {'epoch': 0, 'metrics': {'loss': np.float64(0.8632943370577061), 'precision': np.float64(0.31658255335529334), 'recall': np.float64(0.21452575227928025), 'accuracy': np.float64(0.21452575227928025), 'f1': np.float64(0.17228651298579806)}}
+train metrics: {'epoch': 1, 'metrics': {'loss': np.float64(0.8619056535169545), 'precision': np.float64(0.36494824745265275), 'recall': np.float64(0.21950244477556596), 'accuracy': np.float64(0.21950244477556596), 'f1': np.float64(0.1753384791920045)}}
+val metrics: {'epoch': 1, 'metrics': {'loss': np.float64(0.8498119314511617), 'precision': np.float64(0.32506175394922543), 'recall': np.float64(0.21502305163501045), 'accuracy': np.float64(0.21502305163501045), 'f1': np.float64(0.1743617686513554)}}
+train metrics: {'epoch': 2, 'metrics': {'loss': np.float64(0.8560497642569401), 'precision': np.float64(0.39004379527103156), 'recall': np.float64(0.21971247772392477), 'accuracy': np.float64(0.21971247772392477), 'f1': np.float64(0.1757010230706557)}}
+val metrics: {'epoch': 2, 'metrics': {'loss': np.float64(0.8500116923541734), 'precision': np.float64(0.3558959908630386), 'recall': np.float64(0.22022514940581892), 'accuracy': np.float64(0.22022514940581892), 'f1': np.float64(0.17541988054973937)}}
+open file: /content/drive/My Drive/Cornell_University/2026_Spring/CS5840_Natural_Language_Processing/hw2-release/cs4740-hw2/artefacts/dataset/dataset_dict.json
+the init_weights supports nn.Embedding, nn.Linear initializations with xavier_normal
+class weights: tensor([2.8442, 2.4554, 2.9833, 2.9685, 1.2785, 0.1559, 3.5221, 1.9058, 4.9048,
+        2.7703], device='cuda:0')
+train metrics: {'epoch': 0, 'metrics': {'loss': np.float64(0.9916981453634013), 'precision': np.float64(0.17848616017350383), 'recall': np.float64(0.16095227575938686), 'accuracy': np.float64(0.16095227575938686), 'f1': np.float64(0.11508417327797568)}}
+val metrics: {'epoch': 0, 'metrics': {'loss': np.float64(0.8632943370577061), 'precision': np.float64(0.31658255335529334), 'recall': np.float64(0.21452575227928025), 'accuracy': np.float64(0.21452575227928025), 'f1': np.float64(0.17228651298579806)}}
+train metrics: {'epoch': 1, 'metrics': {'loss': np.float64(0.8619056535169545), 'precision': np.float64(0.36494824745265275), 'recall': np.float64(0.21950244477556596), 'accuracy': np.float64(0.21950244477556596), 'f1': np.float64(0.1753384791920045)}}
+val metrics: {'epoch': 1, 'metrics': {'loss': np.float64(0.8498119314511617), 'precision': np.float64(0.32506175394922543), 'recall': np.float64(0.21502305163501045), 'accuracy': np.float64(0.21502305163501045), 'f1': np.float64(0.1743617686513554)}}
+train metrics: {'epoch': 2, 'metrics': {'loss': np.float64(0.8560497642569401), 'precision': np.float64(0.39004379527103156), 'recall': np.float64(0.21971247772392477), 'accuracy': np.float64(0.21971247772392477), 'f1': np.float64(0.1757010230706557)}}
+val metrics: {'epoch': 2, 'metrics': {'loss': np.float64(0.8500116923541734), 'precision': np.float64(0.3558959908630386), 'recall': np.float64(0.22022514940581892), 'accuracy': np.float64(0.22022514940581892), 'f1': np.float64(0.17541988054973937)}}
+open file: /content/drive/My Drive/Cornell_University/2026_Spring/CS5840_Natural_Language_Processing/hw2-release/cs4740-hw2/artefacts/dataset/dataset_dict.json
+the init_weights supports nn.Embedding, nn.Linear initializations with xavier_normal
+class weights: tensor([2.8442, 2.4554, 2.9833, 2.9685, 1.2785, 0.1559, 3.5221, 1.9058, 4.9048,
+        2.7703], device='cuda:0')
+train metrics: {'epoch': 0, 'metrics': {'loss': np.float64(0.9916981453634013), 'precision': np.float64(0.17848616017350383), 'recall': np.float64(0.16095227575938686), 'accuracy': np.float64(0.16095227575938686), 'f1': np.float64(0.11508417327797568)}}
+val metrics: {'epoch': 0, 'metrics': {'loss': np.float64(0.8632943370577061), 'precision': np.float64(0.31658255335529334), 'recall': np.float64(0.21452575227928025), 'accuracy': np.float64(0.21452575227928025), 'f1': np.float64(0.17228651298579806)}}
+train metrics: {'epoch': 1, 'metrics': {'loss': np.float64(0.8619056535169545), 'precision': np.float64(0.36494824745265275), 'recall': np.float64(0.21950244477556596), 'accuracy': np.float64(0.21950244477556596), 'f1': np.float64(0.1753384791920045)}}
+val metrics: {'epoch': 1, 'metrics': {'loss': np.float64(0.8498119314511617), 'precision': np.float64(0.32506175394922543), 'recall': np.float64(0.21502305163501045), 'accuracy': np.float64(0.21502305163501045), 'f1': np.float64(0.1743617686513554)}}
+train metrics: {'epoch': 2, 'metrics': {'loss': np.float64(0.8560497642569401), 'precision': np.float64(0.39004379527103156), 'recall': np.float64(0.21971247772392477), 'accuracy': np.float64(0.21971247772392477), 'f1': np.float64(0.1757010230706557)}}
+val metrics: {'epoch': 2, 'metrics': {'loss': np.float64(0.8500116923541734), 'precision': np.float64(0.3558959908630386), 'recall': np.float64(0.22022514940581892), 'accuracy': np.float64(0.22022514940581892), 'f1': np.float64(0.17541988054973937)}}
+open file: /content/drive/My Drive/Cornell_University/2026_Spring/CS5840_Natural_Language_Processing/hw2-release/cs4740-hw2/artefacts/dataset/dataset_dict.json
+the init_weights supports nn.Embedding, nn.Linear initializations with xavier_normal
+class weights: tensor([2.8442, 2.4554, 2.9833, 2.9685, 1.2785, 0.1559, 3.5221, 1.9058, 4.9048,
+        2.7703], device='cuda:0')
+train metrics: {'epoch': 0, 'metrics': {'loss': np.float64(0.9916981453634013), 'precision': np.float64(0.17848616017350383), 'recall': np.float64(0.16095227575938686), 'accuracy': np.float64(0.16095227575938686), 'f1': np.float64(0.11508417327797568)}}
+val metrics: {'epoch': 0, 'metrics': {'loss': np.float64(0.8632943370577061), 'precision': np.float64(0.31658255335529334), 'recall': np.float64(0.21452575227928025), 'accuracy': np.float64(0.21452575227928025), 'f1': np.float64(0.17228651298579806)}}
+open file: /content/drive/My Drive/Cornell_University/2026_Spring/CS5840_Natural_Language_Processing/hw2-release/cs4740-hw2/artefacts/dataset/dataset_dict.json
+the init_weights supports nn.Embedding, nn.Linear initializations with xavier_normal
+class weights: tensor([2.8442, 2.4554, 2.9833, 2.9685, 1.2785, 0.1559, 3.5221, 1.9058, 4.9048,
+        2.7703], device='cuda:0')
+train metrics: {'epoch': 0, 'metrics': {'loss': np.float64(0.9916981453634013), 'precision': np.float64(0.17848616017350383), 'recall': np.float64(0.16095227575938686), 'accuracy': np.float64(0.16095227575938686), 'f1': np.float64(0.11508417327797568)}}
+val metrics: {'epoch': 0, 'metrics': {'loss': np.float64(0.8632943370577061), 'precision': np.float64(0.31658255335529334), 'recall': np.float64(0.21452575227928025), 'accuracy': np.float64(0.21452575227928025), 'f1': np.float64(0.17228651298579806)}}
+train metrics: {'epoch': 1, 'metrics': {'loss': np.float64(0.8619056535169545), 'precision': np.float64(0.36494824745265275), 'recall': np.float64(0.21950244477556596), 'accuracy': np.float64(0.21950244477556596), 'f1': np.float64(0.1753384791920045)}}
+val metrics: {'epoch': 1, 'metrics': {'loss': np.float64(0.8498119314511617), 'precision': np.float64(0.32506175394922543), 'recall': np.float64(0.21502305163501045), 'accuracy': np.float64(0.21502305163501045), 'f1': np.float64(0.1743617686513554)}}
+train metrics: {'epoch': 2, 'metrics': {'loss': np.float64(0.8560497642569401), 'precision': np.float64(0.39004379527103156), 'recall': np.float64(0.21971247772392477), 'accuracy': np.float64(0.21971247772392477), 'f1': np.float64(0.1757010230706557)}}
+val metrics: {'epoch': 2, 'metrics': {'loss': np.float64(0.8500116923541734), 'precision': np.float64(0.3558959908630386), 'recall': np.float64(0.22022514940581892), 'accuracy': np.float64(0.22022514940581892), 'f1': np.float64(0.17541988054973937)}}

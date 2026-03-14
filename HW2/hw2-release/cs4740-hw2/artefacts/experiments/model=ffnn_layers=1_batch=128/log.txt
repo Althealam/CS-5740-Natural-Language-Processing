@@ -1,0 +1,54 @@
+open file: /content/drive/My Drive/Cornell_University/2026_Spring/CS5840_Natural_Language_Processing/hw2-release/cs4740-hw2/artefacts/dataset/dataset_dict.json
+the init_weights supports nn.Embedding, nn.Linear initializations with xavier_normal
+class weights: tensor([2.8442, 2.4554, 2.9833, 2.9685, 1.2785, 0.1559, 3.5221, 1.9058, 4.9048,
+        2.7703], device='cuda:0')
+train metrics: {'epoch': 0, 'metrics': {'loss': np.float64(1.0234286742371346), 'precision': np.float64(0.23978865105653857), 'recall': np.float64(0.1972740443982027), 'accuracy': np.float64(0.1972740443982027), 'f1': np.float64(0.1386500064601703)}}
+val metrics: {'epoch': 0, 'metrics': {'loss': np.float64(0.8583466663505092), 'precision': np.float64(0.3241267023256726), 'recall': np.float64(0.210958381551643), 'accuracy': np.float64(0.210958381551643), 'f1': np.float64(0.1716229475053308)}}
+open file: /content/drive/My Drive/Cornell_University/2026_Spring/CS5840_Natural_Language_Processing/hw2-release/cs4740-hw2/artefacts/dataset/dataset_dict.json
+the init_weights supports nn.Embedding, nn.Linear initializations with xavier_normal
+class weights: tensor([2.8442, 2.4554, 2.9833, 2.9685, 1.2785, 0.1559, 3.5221, 1.9058, 4.9048,
+        2.7703], device='cuda:0')
+train metrics: {'epoch': 0, 'metrics': {'loss': np.float64(1.0234286742371346), 'precision': np.float64(0.23978865105653857), 'recall': np.float64(0.1972740443982027), 'accuracy': np.float64(0.1972740443982027), 'f1': np.float64(0.1386500064601703)}}
+val metrics: {'epoch': 0, 'metrics': {'loss': np.float64(0.8583466663505092), 'precision': np.float64(0.3241267023256726), 'recall': np.float64(0.210958381551643), 'accuracy': np.float64(0.210958381551643), 'f1': np.float64(0.1716229475053308)}}
+open file: /content/drive/My Drive/Cornell_University/2026_Spring/CS5840_Natural_Language_Processing/hw2-release/cs4740-hw2/artefacts/dataset/dataset_dict.json
+the init_weights supports nn.Embedding, nn.Linear initializations with xavier_normal
+class weights: tensor([2.8442, 2.4554, 2.9833, 2.9685, 1.2785, 0.1559, 3.5221, 1.9058, 4.9048,
+        2.7703], device='cuda:0')
+train metrics: {'epoch': 0, 'metrics': {'loss': np.float64(1.0234286742371346), 'precision': np.float64(0.23978865105653857), 'recall': np.float64(0.1972740443982027), 'accuracy': np.float64(0.1972740443982027), 'f1': np.float64(0.1386500064601703)}}
+val metrics: {'epoch': 0, 'metrics': {'loss': np.float64(0.8583466663505092), 'precision': np.float64(0.3241267023256726), 'recall': np.float64(0.210958381551643), 'accuracy': np.float64(0.210958381551643), 'f1': np.float64(0.1716229475053308)}}
+open file: /content/drive/My Drive/Cornell_University/2026_Spring/CS5840_Natural_Language_Processing/hw2-release/cs4740-hw2/artefacts/dataset/dataset_dict.json
+the init_weights supports nn.Embedding, nn.Linear initializations with xavier_normal
+class weights: tensor([2.8442, 2.4554, 2.9833, 2.9685, 1.2785, 0.1559, 3.5221, 1.9058, 4.9048,
+        2.7703], device='cuda:0')
+train metrics: {'epoch': 0, 'metrics': {'loss': np.float64(1.0234286742371346), 'precision': np.float64(0.23978865105653857), 'recall': np.float64(0.1972740443982027), 'accuracy': np.float64(0.1972740443982027), 'f1': np.float64(0.1386500064601703)}}
+val metrics: {'epoch': 0, 'metrics': {'loss': np.float64(0.8583466663505092), 'precision': np.float64(0.3241267023256726), 'recall': np.float64(0.210958381551643), 'accuracy': np.float64(0.210958381551643), 'f1': np.float64(0.1716229475053308)}}
+open file: /content/drive/My Drive/Cornell_University/2026_Spring/CS5840_Natural_Language_Processing/hw2-release/cs4740-hw2/artefacts/dataset/dataset_dict.json
+the init_weights supports nn.Embedding, nn.Linear initializations with xavier_normal
+class weights: tensor([2.8442, 2.4554, 2.9833, 2.9685, 1.2785, 0.1559, 3.5221, 1.9058, 4.9048,
+        2.7703], device='cuda:0')
+train metrics: {'epoch': 0, 'metrics': {'loss': np.float64(1.0234286742371346), 'precision': np.float64(0.23978865105653857), 'recall': np.float64(0.1972740443982027), 'accuracy': np.float64(0.1972740443982027), 'f1': np.float64(0.1386500064601703)}}
+val metrics: {'epoch': 0, 'metrics': {'loss': np.float64(0.8583466663505092), 'precision': np.float64(0.3241267023256726), 'recall': np.float64(0.210958381551643), 'accuracy': np.float64(0.210958381551643), 'f1': np.float64(0.1716229475053308)}}
+train metrics: {'epoch': 1, 'metrics': {'loss': np.float64(0.8598850658674281), 'precision': np.float64(0.3732716876018015), 'recall': np.float64(0.22005358282088333), 'accuracy': np.float64(0.22005358282088333), 'f1': np.float64(0.17481966326214732)}}
+val metrics: {'epoch': 1, 'metrics': {'loss': np.float64(0.8490992779984619), 'precision': np.float64(0.3655338564253861), 'recall': np.float64(0.21585268266950175), 'accuracy': np.float64(0.21585268266950175), 'f1': np.float64(0.17483902760152747)}}
+train metrics: {'epoch': 2, 'metrics': {'loss': np.float64(0.8552521693555615), 'precision': np.float64(0.4473095399998971), 'recall': np.float64(0.22029587891444816), 'accuracy': np.float64(0.22029587891444816), 'f1': np.float64(0.1758579328873308)}}
+val metrics: {'epoch': 2, 'metrics': {'loss': np.float64(0.8489249793417526), 'precision': np.float64(0.3757711974172871), 'recall': np.float64(0.217229522803434), 'accuracy': np.float64(0.217229522803434), 'f1': np.float64(0.17562647116052138)}}
+train metrics: {'epoch': 3, 'metrics': {'loss': np.float64(0.8531985323137372), 'precision': np.float64(0.4736648188291131), 'recall': np.float64(0.22018487660836789), 'accuracy': np.float64(0.22018487660836789), 'f1': np.float64(0.1763299759298348)}}
+val metrics: {'epoch': 3, 'metrics': {'loss': np.float64(0.8477621645186887), 'precision': np.float64(0.38152086120813233), 'recall': np.float64(0.21475388131559864), 'accuracy': np.float64(0.21475388131559864), 'f1': np.float64(0.1738231997078993)}}
+train metrics: {'epoch': 4, 'metrics': {'loss': np.float64(0.8520132232818926), 'precision': np.float64(0.46675320214377564), 'recall': np.float64(0.22034895860236045), 'accuracy': np.float64(0.22034895860236045), 'f1': np.float64(0.1764429785885472)}}
+val metrics: {'epoch': 4, 'metrics': {'loss': np.float64(0.8484062807578029), 'precision': np.float64(0.39549505374053695), 'recall': np.float64(0.2197033781668326), 'accuracy': np.float64(0.2197033781668326), 'f1': np.float64(0.1770270728798519)}}
+train metrics: {'epoch': 5, 'metrics': {'loss': np.float64(0.8511659565857191), 'precision': np.float64(0.47375169685747737), 'recall': np.float64(0.219870083577733), 'accuracy': np.float64(0.219870083577733), 'f1': np.float64(0.1764374463775391)}}
+val metrics: {'epoch': 5, 'metrics': {'loss': np.float64(0.8486697100328676), 'precision': np.float64(0.3838081528055054), 'recall': np.float64(0.22032797657752812), 'accuracy': np.float64(0.22032797657752812), 'f1': np.float64(0.17699878730103283)}}
+train metrics: {'epoch': 6, 'metrics': {'loss': np.float64(0.8510900423999577), 'precision': np.float64(0.4670400004286514), 'recall': np.float64(0.22029523934879872), 'accuracy': np.float64(0.22029523934879872), 'f1': np.float64(0.1763419243264418)}}
+val metrics: {'epoch': 6, 'metrics': {'loss': np.float64(0.84928754604224), 'precision': np.float64(0.38141338666329194), 'recall': np.float64(0.21637220539347463), 'accuracy': np.float64(0.21637220539347463), 'f1': np.float64(0.17524722181738675)}}
+train metrics: {'epoch': 7, 'metrics': {'loss': np.float64(0.8507516585321869), 'precision': np.float64(0.4759119031743438), 'recall': np.float64(0.22004887508188636), 'accuracy': np.float64(0.22004887508188636), 'f1': np.float64(0.17669903622948274)}}
+val metrics: {'epoch': 7, 'metrics': {'loss': np.float64(0.8499486674413537), 'precision': np.float64(0.38692927453379233), 'recall': np.float64(0.21697519466581827), 'accuracy': np.float64(0.21697519466581827), 'f1': np.float64(0.1756415727873282)}}
+train metrics: {'epoch': 8, 'metrics': {'loss': np.float64(0.8507006284053819), 'precision': np.float64(0.46822833249239637), 'recall': np.float64(0.22005449729374413), 'accuracy': np.float64(0.22005449729374413), 'f1': np.float64(0.1764640934097441)}}
+val metrics: {'epoch': 8, 'metrics': {'loss': np.float64(0.8489631132194491), 'precision': np.float64(0.37488029148631846), 'recall': np.float64(0.21461681981584713), 'accuracy': np.float64(0.21461681981584713), 'f1': np.float64(0.1727228204952482)}}
+train metrics: {'epoch': 9, 'metrics': {'loss': np.float64(0.8502167722343895), 'precision': np.float64(0.470753234844164), 'recall': np.float64(0.22026994502877761), 'accuracy': np.float64(0.22026994502877761), 'f1': np.float64(0.17656069649062126)}}
+val metrics: {'epoch': 9, 'metrics': {'loss': np.float64(0.851784301978169), 'precision': np.float64(0.39569278959130394), 'recall': np.float64(0.22002182365154188), 'accuracy': np.float64(0.22002182365154188), 'f1': np.float64(0.17592770385810796)}}
+open file: /content/drive/My Drive/Cornell_University/2026_Spring/CS5840_Natural_Language_Processing/hw2-release/cs4740-hw2/artefacts/dataset/dataset_dict.json
+the init_weights supports nn.Embedding, nn.Linear initializations with xavier_normal
+class weights: tensor([2.8442, 2.4554, 2.9833, 2.9685, 1.2785, 0.1559, 3.5221, 1.9058, 4.9048,
+        2.7703], device='cuda:0')
+train metrics: {'epoch': 0, 'metrics': {'loss': np.float64(1.0234286742371346), 'precision': np.float64(0.23978865105653857), 'recall': np.float64(0.1972740443982027), 'accuracy': np.float64(0.1972740443982027), 'f1': np.float64(0.1386500064601703)}}
+val metrics: {'epoch': 0, 'metrics': {'loss': np.float64(0.8583466663505092), 'precision': np.float64(0.3241267023256726), 'recall': np.float64(0.210958381551643), 'accuracy': np.float64(0.210958381551643), 'f1': np.float64(0.1716229475053308)}}

@@ -1,0 +1,9 @@
+*.zip
+*.arrow
+*.json
+*.pyc
+HW2/hw2-release/cs4740-hw2/artefacts/dataset
+HW2/hw2-release/cs4740-hw2/artefacts/experiments
+HW2/hw2-release/cs4740-hw2/scripts/__pycache__
+HW2/hw2-release/cs4740-hw2/scripts/configs
+HW2/hw2-release/cs4740-hw2/masking/__pycache__
