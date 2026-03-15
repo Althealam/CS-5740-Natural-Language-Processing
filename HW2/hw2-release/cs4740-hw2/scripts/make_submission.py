@@ -77,6 +77,13 @@ def _run_model_and_write_preds(
         device=device,
     )
 
+    # ### NOTE: debug
+    # sample_items = list(preds_dict.items())[:200]
+    # print("===== DEBUG: sample preds_dict (first 5 entries) =====")
+    # for label, ids in sample_items:
+    #     print(f"label={label}, num_ids={len(ids)}, ids_preview={ids[:10]}")
+    # print("======================================================")
+
     if not is_leaderboard_submission:
         with open(os.path.join(model_outputs_path, "config.json"), "w") as fp:
             json.dump(config, fp)

@@ -226,7 +226,7 @@ class Tokenizer(object):
         """
 
         # TODO-1.1-1
-        # NOTE: 1=padding, 0=real token
+        # 与 Trainer.test 约定一致：0 = real token, 1 = padding（老师代码里 mask = ~(padding_mask==1) 选真实位置）
         if isinstance(input_seq, str):
             input_seq = input_seq.split()
 
@@ -234,7 +234,6 @@ class Tokenizer(object):
             input_seq = [token.lower() for token in input_seq]
 
         input_ids = [self.token2id.get(token, self.token2id[self.unk_token]) for token in input_seq]
-        # NOTE: change the mask value
         padding_mask = [0] * len(input_ids)
 
         if max_length is not None:
@@ -254,11 +253,9 @@ class Tokenizer(object):
 
                 if padding_side == "right":
                     input_ids = input_ids + [pad_id] * pad_len
-                    # NOTE: change the mask value
                     padding_mask = padding_mask + [1] * pad_len
                 elif padding_side == "left":
                     input_ids = [pad_id] * pad_len + input_ids
-                    # NOTE: change the mask value
                     padding_mask = [1] * pad_len + padding_mask
                 else:
                     raise ValueError("padding_side must be either 'left' or 'right'")
