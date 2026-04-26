@@ -9,3 +9,8 @@ HW2/hw2-release/cs4740-hw2/scripts/configs
 HW2/hw2-release/cs4740-hw2/masking/__pycache__*.pt
 *.pdf
 *.pt
+
+# HW4 - Ignore model files and artifacts
+HW4/hw4-release/artifacts/
+*.safetensors
+*.bin
