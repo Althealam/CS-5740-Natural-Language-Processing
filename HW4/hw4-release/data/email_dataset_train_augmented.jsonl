@@ -1,0 +1,800 @@
+{"text": "Morning gym sesh tmrw?", "label": 1}
+{"text": "Let's catch up over coffee", "label": 0}
+{"text": "Grab a quick workout in the morning?", "label": 1}
+{"text": "Tmrw early meet at 7?", "label": 1}
+{"text": "Wanna meet for a quick walk?", "label": 1}
+{"text": "Can you confirm the client meeting details?", "label": 0}
+{"text": "Join me for a quick treadmill session?", "label": 1}
+{"text": "Morning workout before work?", "label": 1}
+{"text": "Up for swimming at 6am?", "label": 1}
+{"text": "The report is due by end of week.", "label": 0}
+{"text": "When is the team presentation scheduled?", "label": 0}
+{"text": "Early gym session tomorrow?", "label": 1}
+{"text": "Are the invoices ready for approval?", "label": 0}
+{"text": "Please confirm your attendance for the webinar.", "label": 0}
+{"text": "Run tmrw morning?", "label": 1}
+{"text": "Can you send the project timeline?", "label": 0}
+{"text": "Dinner plans later?", "label": 0}
+{"text": "Are you available for a call today?", "label": 0}
+{"text": "Can you review the budget spreadsheet?", "label": 0}
+{"text": "Early swim at 6am?", "label": 1}
+{"text": "Let's catch up over coffee soon.", "label": 0}
+{"text": "Are you up for a morning skate?", "label": 1}
+{"text": "Did you see the latest report?", "label": 0}
+{"text": "Movie night plans?", "label": 0}
+{"text": "Up for some paddle tennis at dawn?", "label": 1}
+{"text": "Bike ride at 6AM?", "label": 1}
+{"text": "Let's schedule a meeting for tomorrow.", "label": 0}
+{"text": "Kickoff at 8am?", "label": 1}
+{"text": "Meeting scheduled at 2PM?", "label": 0}
+{"text": "Let\u2019s catch up soon!", "label": 0}
+{"text": "Are you free for a 7am jog?", "label": 1}
+{"text": "Catch a quick workout?", "label": 1}
+{"text": "Wanna grab drinks after work?", "label": 0}
+{"text": "Do you want to do some stretching in the morning?", "label": 1}
+{"text": "Client call scheduled at 3?", "label": 0}
+{"text": "Would you do a quick cardio session?", "label": 1}
+{"text": "Let's plan a happy hour soon.", "label": 0}
+{"text": "Looking forward to our team call.", "label": 0}
+{"text": "Let's schedule a coffee break.", "label": 0}
+{"text": "Bob, lunch at 12?", "label": 0}
+{"text": "Morning tennis session?", "label": 1}
+{"text": "Are you in for a morning hike?", "label": 1}
+{"text": "Morning tennis at 6:30?", "label": 1}
+{"text": "Would you like to join for coffee?", "label": 0}
+{"text": "Please find attached the expense report.", "label": 0}
+{"text": "Are you free for drinks after work?", "label": 0}
+{"text": "Coffee before the morning jog?", "label": 1}
+{"text": "Workout session at 7AM?", "label": 1}
+{"text": "Update me on the client call.", "label": 0}
+{"text": "Are you free for dinner on Friday?", "label": 0}
+{"text": "Can you review the attached document?", "label": 0}
+{"text": "Reminder: quarterly results due Friday.", "label": 0}
+{"text": "Are you attending the conference next week?", "label": 0}
+{"text": "Reminder: submit your timesheet by 5PM.", "label": 0}
+{"text": "Can you send the presentation slides?", "label": 0}
+{"text": "Want to do a quick run?", "label": 1}
+{"text": "Up for a jog at 6am?", "label": 1}
+{"text": "Let's catch up sometime soon.", "label": 0}
+{"text": "Hey Bob, want to hit the gym now?", "label": 0}
+{"text": "Want to go for a hike early?", "label": 1}
+{"text": "Morning jog tmrw?", "label": 1}
+{"text": "Join me for cycling?", "label": 1}
+{"text": "Are you available at 4?", "label": 0}
+{"text": "Hey, gym at 7am?", "label": 1}
+{"text": "Hey, want to do yoga at 7 am?", "label": 1}
+{"text": "Are you attending the meeting?", "label": 0}
+{"text": "Boxing class tmrw?", "label": 1}
+{"text": "Do you want to join me for a bike ride this weekend?", "label": 1}
+{"text": "Are we meeting later?", "label": 0}
+{"text": "Want to do some stretches in the morning?", "label": 1}
+{"text": "Meeting at 3PM?", "label": 0}
+{"text": "Looking forward to catching up!", "label": 0}
+{"text": "Looking forward to our coffee chat.", "label": 0}
+{"text": "Time for a quick workout?", "label": 1}
+{"text": "Let's catch a movie this weekend.", "label": 0}
+{"text": "Skiing this weekend?", "label": 0}
+{"text": "Quick gym before work?", "label": 1}
+{"text": "Join me for basketball at 6:30?", "label": 1}
+{"text": "Could you provide feedback on the report?", "label": 0}
+{"text": "What movie shall we watch this weekend?", "label": 0}
+{"text": "Join us for drinks after work?", "label": 0}
+{"text": "Are we meeting this afternoon?", "label": 0}
+{"text": "Can we reschedule the team meeting?", "label": 0}
+{"text": "Can you review the report by end of day?", "label": 0}
+{"text": "Please review the attached report.", "label": 0}
+{"text": "Play tennis at 6am?", "label": 1}
+{"text": "Morning walk tmrw?", "label": 1}
+{"text": "Morning sparring at 6am?", "label": 1}
+{"text": "Up for a quick soccer game today?", "label": 1}
+{"text": "Let\u2019s catch up this evening?", "label": 0}
+{"text": "How about a morning swim?", "label": 1}
+{"text": "Hit the gym at 6am?", "label": 1}
+{"text": "Reminder about the conference call at 3PM.", "label": 0}
+{"text": "Run tmrw at 6:30am?", "label": 1}
+{"text": "Are you free for a meeting at 3PM?", "label": 0}
+{"text": "Reminder: project deadline is Friday", "label": 0}
+{"text": "Are you attending the team dinner?", "label": 0}
+{"text": "Send me your notes from yesterday.", "label": 0}
+{"text": "Check the docs when you can.", "label": 0}
+{"text": "Can we do an early workout?", "label": 1}
+{"text": "Up for a run today?", "label": 1}
+{"text": "Morning call at 8?", "label": 1}
+{"text": "Quick walk at 5:45 am?", "label": 1}
+{"text": "Want to meet for a quick sprint?", "label": 1}
+{"text": "Catch a sunrise run at 5:45am?", "label": 1}
+{"text": "Join me for tennis at 7am?", "label": 1}
+{"text": "Lunch at 12:30?", "label": 0}
+{"text": "Gym sesh at 5?", "label": 1}
+{"text": "Quick call at 6:45am?", "label": 1}
+{"text": "When is the deadline for the project?", "label": 0}
+{"text": "Early yoga session tmrw?", "label": 1}
+{"text": "Are we meeting at the usual place?", "label": 0}
+{"text": "Join me for a morning jog?", "label": 1}
+{"text": "Morning fitness class at 6?", "label": 1}
+{"text": "Up for a morning jog?", "label": 1}
+{"text": "Coffee at 6am?", "label": 1}
+{"text": "How about a quick jog tomorrow?", "label": 1}
+{"text": "Can you send the latest sales figures?", "label": 0}
+{"text": "Quick stretch at 6:15?", "label": 1}
+{"text": "Reminder: submission deadline next week.", "label": 0}
+{"text": "Tmrw at dawn for a run?", "label": 1}
+{"text": "Don't forget about the deadline", "label": 0}
+{"text": "Let's schedule a team lunch.", "label": 0}
+{"text": "Bob, shall we do some cardio at 6:30?", "label": 1}
+{"text": "Hey Bob, want to hit the gym after work?", "label": 1}
+{"text": "Can you review the code by 5PM?", "label": 0}
+{"text": "How about a quick stretch session tomorrow?", "label": 1}
+{"text": "Are you available for a review meeting?", "label": 0}
+{"text": "How about a morning cardio?", "label": 1}
+{"text": "Meeting rescheduled to 4pm.", "label": 0}
+{"text": "Wanna catch a morning game?", "label": 1}
+{"text": "Morning walk around the park?", "label": 1}
+{"text": "Bob, are you free for a workout at 6:15?", "label": 1}
+{"text": "Quick jog before work?", "label": 1}
+{"text": "Movie night this Friday?", "label": 0}
+{"text": "Run tmrw early?", "label": 1}
+{"text": "Hey Bob, up for a run later?", "label": 1}
+{"text": "Catch a quick jog at dawn?", "label": 1}
+{"text": "Hit the gym at 6:15?", "label": 1}
+{"text": "Could you update me on the status?", "label": 0}
+{"text": "Are you free for a call at 2PM?", "label": 0}
+{"text": "Hi Bob, are you available for the meeting at 3pm?", "label": 0}
+{"text": "Are you free to discuss the project?", "label": 0}
+{"text": "Can we do yoga at 6am?", "label": 1}
+{"text": "Bob, lunch plans?", "label": 0}
+{"text": "Feedback needed on the marketing campaign.", "label": 0}
+{"text": "Can you review the feedback on the report?", "label": 0}
+{"text": "Morning bike ride, up for it?", "label": 1}
+{"text": "Hi Bob, can you send the report?", "label": 0}
+{"text": "Let's plan a team lunch.", "label": 0}
+{"text": "Catch a tennis match early?", "label": 1}
+{"text": "Team lunch at noon?", "label": 0}
+{"text": "Looking forward to our coffee chat later.", "label": 0}
+{"text": "Are the client feedback forms ready?", "label": 0}
+{"text": "Up for a quick sprint before work?", "label": 1}
+{"text": "Let's catch up over drinks sometime.", "label": 0}
+{"text": "Are you up for some tennis before work?", "label": 1}
+{"text": "Reminder: submit the presentation", "label": 0}
+{"text": "Do you want to grab coffee later?", "label": 0}
+{"text": "Exercise today?", "label": 0}
+{"text": "Reminder: team meeting at 10AM.", "label": 0}
+{"text": "Thanks for the update.", "label": 0}
+{"text": "Morning trekking at 6:30?", "label": 1}
+{"text": "Are you free for tennis before 8am?", "label": 1}
+{"text": "Join me for a quick sprint?", "label": 1}
+{"text": "Looking forward to our team meeting.", "label": 0}
+{"text": "Are the meeting notes ready?", "label": 0}
+{"text": "Can you review the report?", "label": 0}
+{"text": "Are you free for a quick chat later?", "label": 0}
+{"text": "Want to join a tennis match in the morning?", "label": 1}
+{"text": "Hey Bob, do you want to go for a hike early?", "label": 1}
+{"text": "Please review the budget.", "label": 0}
+{"text": "Can you send the meeting notes?", "label": 0}
+{"text": "Early run tmrw?", "label": 1}
+{"text": "Practice basketball early?", "label": 1}
+{"text": "Dinner plans for Saturday?", "label": 0}
+{"text": "Reminder: project deadline is Friday.", "label": 0}
+{"text": "Would you like to join us for the team happy hour?", "label": 0}
+{"text": "Join me for a quick sprint at 5:50?", "label": 1}
+{"text": "Bob, are you up for a bike ride early?", "label": 1}
+{"text": "Are you attending the team lunch?", "label": 0}
+{"text": "Want to do some weights in the morning?", "label": 1}
+{"text": "Bob, are you free for a run tomorrow?", "label": 1}
+{"text": "Don't forget the deadline tomorrow.", "label": 0}
+{"text": "Go for a jog after work?", "label": 1}
+{"text": "Meeting rescheduled to 3pm", "label": 0}
+{"text": "Gym session at 5am?", "label": 1}
+{"text": "Gym before work, interested?", "label": 1}
+{"text": "Do you want to hit the gym at 7?", "label": 1}
+{"text": "Up for an early hike?", "label": 1}
+{"text": "Are you free for coffee this afternoon?", "label": 0}
+{"text": "Do you want to hit the gym after work?", "label": 1}
+{"text": "Run at 7:30am?", "label": 1}
+{"text": "Can you confirm the schedule for next week?", "label": 0}
+{"text": "Let's catch up soon!", "label": 0}
+{"text": "Are you interested in catching a movie this weekend?", "label": 0}
+{"text": "Run at 7am TMRW?", "label": 1}
+{"text": "Reminder: team meeting at 3PM.", "label": 0}
+{"text": "Morning cycling ride at 5:30?", "label": 1}
+{"text": "Morning call at 7:30?", "label": 1}
+{"text": "Can you review the draft document?", "label": 0}
+{"text": "Morning yoga at 7?", "label": 1}
+{"text": "Can you send the updated slides?", "label": 0}
+{"text": "Want to do some yoga at 7am?", "label": 1}
+{"text": "Deadline for submission is next week.", "label": 0}
+{"text": "Please send the latest sales figures.", "label": 0}
+{"text": "Want to catch some sunrise during a jog?", "label": 1}
+{"text": "Let\u2019s catch up over dinner this week.", "label": 0}
+{"text": "Do you wanna jog?", "label": 1}
+{"text": "Reminder about the deadline", "label": 0}
+{"text": "Don't forget about the quarterly review.", "label": 0}
+{"text": "Let's discuss the project during the meeting.", "label": 0}
+{"text": "Lunch?", "label": 0}
+{"text": "Are you up for a morning workout?", "label": 1}
+{"text": "Can you review the document before noon?", "label": 0}
+{"text": "Hey Bob, can we do a quick run?", "label": 1}
+{"text": "Project report due next week", "label": 0}
+{"text": "Deadline for the project is next Monday.", "label": 0}
+{"text": "What are your plans for the weekend?", "label": 0}
+{"text": "Let's catch up over coffee this Friday?", "label": 0}
+{"text": "Let's schedule the team call for next week.", "label": 0}
+{"text": "Can you review the presentation slides?", "label": 0}
+{"text": "Morning bike ride tmrw?", "label": 1}
+{"text": "Morning Bob! Up for some tennis tomorrow?", "label": 1}
+{"text": "Are you coming to the movies?", "label": 0}
+{"text": "Meet for a quick stretch at 7am?", "label": 1}
+{"text": "Project update needed", "label": 0}
+{"text": "Bike in the morning?", "label": 1}
+{"text": "Hey Bob, gym at 6?", "label": 1}
+{"text": "Let's plan the office party.", "label": 0}
+{"text": "Hi Bob, do you have time for a quick workout?", "label": 0}
+{"text": "Join me for basketball after work?", "label": 1}
+{"text": "Are there any updates on the client feedback?", "label": 0}
+{"text": "Play basketball at 8AM?", "label": 1}
+{"text": "Tea and a quick jog around 6:15?", "label": 1}
+{"text": "Can you confirm the deadline?", "label": 0}
+{"text": "Congrats on the promotion!", "label": 0}
+{"text": "Don't forget the team event.", "label": 0}
+{"text": "Please find attached the project plan.", "label": 0}
+{"text": "Hey Bob, exercise today?", "label": 1}
+{"text": "Can you give me feedback?", "label": 0}
+{"text": "Happy hour at 6PM tomorrow?", "label": 0}
+{"text": "Hey Bob, can you send the report?", "label": 0}
+{"text": "Drop by my desk when free.", "label": 0}
+{"text": "Would you like to bike in the morning?", "label": 1}
+{"text": "Up for a quick sports game?", "label": 1}
+{"text": "Soccer game tmrw?", "label": 1}
+{"text": "Meeting at 3pm?", "label": 0}
+{"text": "Should we hit the gym later?", "label": 1}
+{"text": "Coffee and a quick run at 6:30am?", "label": 1}
+{"text": "Would you like to join me for a morning run?", "label": 1}
+{"text": "Please find attached the budget spreadsheet.", "label": 0}
+{"text": "Watching the movie tonight?", "label": 0}
+{"text": "Are you attending the webinar?", "label": 0}
+{"text": "Morning basketball shootaround?", "label": 1}
+{"text": "Don\u2019t forget the team sync at 3PM.", "label": 0}
+{"text": "Run at 6AM?", "label": 1}
+{"text": "Workout tmrw in the gym?", "label": 1}
+{"text": "Let's hit the gym at 6:30?", "label": 1}
+{"text": "Check out the new project updates.", "label": 0}
+{"text": "Are you interested in a morning fitness class?", "label": 1}
+{"text": "Quick 15 min workout in the morning?", "label": 1}
+{"text": "Catch a quick run before 8?", "label": 1}
+{"text": "Run in the park tmrw?", "label": 1}
+{"text": "Ready for a bike ride at sunrise?", "label": 1}
+{"text": "Let's discuss the budget proposal.", "label": 0}
+{"text": "Run tmrw at 6AM?", "label": 1}
+{"text": "Feedback needed on the draft", "label": 0}
+{"text": "Happy hour drinks tomorrow?", "label": 0}
+{"text": "Want to do some morning calisthenics?", "label": 1}
+{"text": "Please review the presentation.", "label": 0}
+{"text": "Bob, hit the gym at 6?", "label": 1}
+{"text": "Please confirm your attendance for the event.", "label": 0}
+{"text": "Join me for a bike ride in the morning?", "label": 1}
+{"text": "Running meetup at 6:30?", "label": 1}
+{"text": "Do you want to grab a drink after work?", "label": 0}
+{"text": "Don't forget the quarterly report is due on Friday.", "label": 0}
+{"text": "Morning workout?", "label": 1}
+{"text": "Workout tmrw morning?", "label": 1}
+{"text": "Can you help me with the presentation slides?", "label": 0}
+{"text": "Are you available for a call this afternoon?", "label": 0}
+{"text": "Early bird workout tmrw?", "label": 1}
+{"text": "Bob, are you free for tennis this weekend?", "label": 1}
+{"text": "Reminder: submit the report by Friday.", "label": 0}
+{"text": "Want to get moving early?", "label": 1}
+{"text": "Can you provide feedback on the draft?", "label": 0}
+{"text": "Early bird workout?", "label": 1}
+{"text": "Don't forget to submit your timesheet.", "label": 0}
+{"text": "Dinner plans for Friday?", "label": 0}
+{"text": "Let's plan lunch on Friday.", "label": 0}
+{"text": "Sport at 7AM?", "label": 1}
+{"text": "Let's catch up later this week.", "label": 0}
+{"text": "Early morning tennis?", "label": 1}
+{"text": "Movie night this weekend? Let me know.", "label": 0}
+{"text": "Breakfast workout plan?", "label": 1}
+{"text": "Can you send the slides?", "label": 0}
+{"text": "Looking forward to our dinner plans.", "label": 0}
+{"text": "Lunch at 1pm today?", "label": 0}
+{"text": "Reminder: submit your timesheet by Friday.", "label": 0}
+{"text": "Let's schedule a team call tomorrow?", "label": 0}
+{"text": "Run at sunrise?", "label": 1}
+{"text": "Can you confirm the meeting time?", "label": 0}
+{"text": "Bob, can you send the budget spreadsheet?", "label": 0}
+{"text": "Run tmrw at 6am?", "label": 1}
+{"text": "Please review the attached proposal.", "label": 0}
+{"text": "Hi Bob, gym at 7?", "label": 1}
+{"text": "Bike ride tmrw early?", "label": 1}
+{"text": "Are you available for a call at 4PM?", "label": 0}
+{"text": "Happy hour drinks this Friday?", "label": 0}
+{"text": "Morning swim at 6am, interested?", "label": 1}
+{"text": "Want to join me for a quick workout?", "label": 1}
+{"text": "Quick check-in on the project?", "label": 0}
+{"text": "Don't forget the deadline on Monday.", "label": 0}
+{"text": "Meeting scheduled at 3 pm?", "label": 0}
+{"text": "Could you review the draft report?", "label": 0}
+{"text": "Can you send the updated budget spreadsheet?", "label": 0}
+{"text": "Are the budgets finalized?", "label": 0}
+{"text": "Exercise session at 7am?", "label": 1}
+{"text": "Want to hit the trail at dawn?", "label": 1}
+{"text": "Interested in a morning swim?", "label": 1}
+{"text": "Tennis tmrw morning?", "label": 1}
+{"text": "Don't forget the team lunch", "label": 0}
+{"text": "Happy hour drinks on Friday?", "label": 0}
+{"text": "Can we go for a run at 5:30?", "label": 1}
+{"text": "Bob, do you want to go cycling this morning?", "label": 1}
+{"text": "Want to hit the gym?", "label": 1}
+{"text": "What movies are you watching?", "label": 0}
+{"text": "Looking forward to the team dinner.", "label": 0}
+{"text": "Hey Bob, are you free for a morning hike?", "label": 1}
+{"text": "Want to do some calisthenics before work?", "label": 1}
+{"text": "Can you give me feedback on the draft?", "label": 0}
+{"text": "Hey Bob, early yoga tomorrow?", "label": 1}
+{"text": "Gym at 6:30am?", "label": 1}
+{"text": "Can we discuss the project updates?", "label": 0}
+{"text": "Hey Bob, want to go for a run?", "label": 1}
+{"text": "Let me know your availability for a call.", "label": 0}
+{"text": "Play tennis before work?", "label": 1}
+{"text": "Let's discuss the client feedback tomorrow.", "label": 0}
+{"text": "Reminder: meeting at 3PM.", "label": 0}
+{"text": "Let's plan lunch tomorrow.", "label": 0}
+{"text": "Let's plan the team lunch for next week.", "label": 0}
+{"text": "Hit the gym at 5:50?", "label": 1}
+{"text": "Are you available for a call at 4pm?", "label": 0}
+{"text": "Morning basketball game at 7?", "label": 1}
+{"text": "Early bird workout at 5:30am?", "label": 1}
+{"text": "Early bird gym session?", "label": 1}
+{"text": "Can you review the draft by EOD?", "label": 0}
+{"text": "Yoga session tmrw morning?", "label": 1}
+{"text": "Can you check the latest figures?", "label": 0}
+{"text": "Let's plan the weekend outing.", "label": 0}
+{"text": "Looking forward to our lunch tomorrow.", "label": 0}
+{"text": "Meet for tennis?", "label": 1}
+{"text": "Bob, early morning cycling ride?", "label": 1}
+{"text": "Want to do yoga in the morning?", "label": 1}
+{"text": "Early morning sports session?", "label": 1}
+{"text": "Let's catch up soon", "label": 0}
+{"text": "Are the deadlines confirmed for next week?", "label": 0}
+{"text": "Play soccer at 6:30?", "label": 1}
+{"text": "Meeting at 7PM today?", "label": 0}
+{"text": "Dinner reservation at 7:30?", "label": 0}
+{"text": "Morning run at 6am?", "label": 1}
+{"text": "Tmrw early run?", "label": 1}
+{"text": "Are we set for the client call?", "label": 0}
+{"text": "Wanna grab a quick coffee and stretch?", "label": 0}
+{"text": "Looking forward to our movie night.", "label": 0}
+{"text": "Want to do a sunrise yoga?", "label": 1}
+{"text": "Looking forward to catching up soon!", "label": 0}
+{"text": "Are you joining the team dinner?", "label": 0}
+{"text": "Are you free for a call?", "label": 0}
+{"text": "Run tmrw morning, cool?", "label": 1}
+{"text": "Meet for a quick stretch before work?", "label": 1}
+{"text": "Catch a game in the AM?", "label": 1}
+{"text": "Let's catch up for drinks later?", "label": 0}
+{"text": "Are you free for a call this afternoon?", "label": 0}
+{"text": "Please review the attached document.", "label": 0}
+{"text": "Got feedback on the presentation?", "label": 0}
+{"text": "Want to start the day with a run?", "label": 1}
+{"text": "Up for some frisbee at dawn?", "label": 1}
+{"text": "Looking forward to our lunch on Thursday.", "label": 0}
+{"text": "Want to hit the gym before work?", "label": 1}
+{"text": "Let's catch up over coffee.", "label": 0}
+{"text": "Quick workout before work?", "label": 1}
+{"text": "Want to train today?", "label": 1}
+{"text": "How was your day?", "label": 0}
+{"text": "Run tmrw at 6?", "label": 1}
+{"text": "Quick jog before breakfast?", "label": 1}
+{"text": "Hi Bob, can you tell me your availability for a quick call?", "label": 0}
+{"text": "Where's the latest sales report?", "label": 0}
+{"text": "Early basketball game tmrw?", "label": 1}
+{"text": "Let's plan a movie night", "label": 0}
+{"text": "See you at the gym later?", "label": 0}
+{"text": "Want to join me for an early jog?", "label": 1}
+{"text": "Want to do some stretching early?", "label": 1}
+{"text": "Could you give me feedback on the draft?", "label": 0}
+{"text": "Let's catch up over coffee later.", "label": 0}
+{"text": "Morning coffee and a walk?", "label": 1}
+{"text": "Let me know your feedback.", "label": 0}
+{"text": "Early morning cycling?", "label": 1}
+{"text": "Are you available for a quick call?", "label": 0}
+{"text": "Morning cycling plans?", "label": 1}
+{"text": "Morning tennis at 7?", "label": 1}
+{"text": "Crush a workout tmrw?", "label": 1}
+{"text": "Movie night on Saturday?", "label": 0}
+{"text": "Hey Bob, morning run tmrw?", "label": 1}
+{"text": "Let's discuss the marketing plan.", "label": 0}
+{"text": "Hey Bob, think about a run in the park?", "label": 1}
+{"text": "Meeting scheduled at 2PM today?", "label": 0}
+{"text": "Update on the project status?", "label": 0}
+{"text": "Do you want to do tennis this weekend?", "label": 1}
+{"text": "Can you update the project plan?", "label": 0}
+{"text": "Can you send me the latest sales figures?", "label": 0}
+{"text": "Can you send the report by 5?", "label": 0}
+{"text": "What's the deadline for the presentation?", "label": 0}
+{"text": "Let's discuss the new marketing strategy.", "label": 0}
+{"text": "Run today?", "label": 1}
+{"text": "Early workout session today?", "label": 1}
+{"text": "Bob, Can you send the budget spreadsheet?", "label": 0}
+{"text": "Sprint at 5:30?", "label": 1}
+{"text": "Are you up for a run tmrw?", "label": 1}
+{"text": "Want to do some sprints at 7?", "label": 1}
+{"text": "Coffee and a quick run?", "label": 1}
+{"text": "When is the client call scheduled?", "label": 0}
+{"text": "Let's meet to go over the project updates.", "label": 0}
+{"text": "Can you workout tmrw?", "label": 1}
+{"text": "Lunch plans this Friday?", "label": 0}
+{"text": "Get a quick workout in the morning?", "label": 1}
+{"text": "Up for a quick run before work?", "label": 1}
+{"text": "Can you check the attached files?", "label": 0}
+{"text": "Can you send the latest report?", "label": 0}
+{"text": "Bob, do you want to bike this weekend?", "label": 1}
+{"text": "Looking forward to the team lunch!", "label": 0}
+{"text": "Morning sports session?", "label": 1}
+{"text": "Movie night confirmed?", "label": 0}
+{"text": "Want to hit the gym at 8?", "label": 1}
+{"text": "Early bird workout tomorrow?", "label": 1}
+{"text": "Want to do a quick swim at 6?", "label": 1}
+{"text": "Exercise in the morning?", "label": 1}
+{"text": "Want to do some stretching at 6:15?", "label": 1}
+{"text": "Jogging session at sunrise?", "label": 1}
+{"text": "Bike ride 6:30AM?", "label": 1}
+{"text": "Basketball game at 7am?", "label": 1}
+{"text": "Are you free for a call at 3pm?", "label": 0}
+{"text": "Join us for the team lunch.", "label": 0}
+{"text": "Hi Bob, do you have the quarterly report?", "label": 0}
+{"text": "Reminder: project deadline on Friday.", "label": 0}
+{"text": "Early morning run around 5:30?", "label": 1}
+{"text": "Running before breakfast?", "label": 1}
+{"text": "Did you watch the game last night?", "label": 0}
+{"text": "Workout at 8AM?", "label": 1}
+{"text": "Let me know if you need any help with the project.", "label": 0}
+{"text": "Are you in for some early morning tennis?", "label": 1}
+{"text": "Dinner at 8 tonight?", "label": 0}
+{"text": "Are we still on for drinks tonight?", "label": 0}
+{"text": "Reminder about the project deadline.", "label": 0}
+{"text": "Can you confirm the client call?", "label": 0}
+{"text": "Are you free for a call today?", "label": 0}
+{"text": "Do you want to do morning Pilates?", "label": 1}
+{"text": "Celebrate at the bar after work?", "label": 0}
+{"text": "Up for some action early?", "label": 1}
+{"text": "Let's plan a weekend getaway.", "label": 0}
+{"text": "Hey, wanna do some morning sprints?", "label": 1}
+{"text": "Bob, workout plans today?", "label": 1}
+{"text": "Looking forward to dinner tomorrow", "label": 0}
+{"text": "Lunch at the new cafe?", "label": 0}
+{"text": "Morning sprint at 6:45?", "label": 1}
+{"text": "Hey! Gym session at 6am?", "label": 1}
+{"text": "Early cycling ride?", "label": 1}
+{"text": "Schedule the quarterly review for next week.", "label": 0}
+{"text": "Looking forward to our chat.", "label": 0}
+{"text": "Want to do yoga at 6:30am?", "label": 1}
+{"text": "Are you available for a call at 2PM?", "label": 0}
+{"text": "Morning cycling session?", "label": 1}
+{"text": "Short gym session tmrw?", "label": 1}
+{"text": "Want to do some stretching at 6:45?", "label": 1}
+{"text": "Update me on the presentation.", "label": 0}
+{"text": "Hit the gym before 8?", "label": 1}
+{"text": "Cycling at dawn?", "label": 1}
+{"text": "Let's catch up over drinks this weekend.", "label": 0}
+{"text": "Hey Bob, how about a quick run at 6am?", "label": 1}
+{"text": "Reminder: team meeting at 2PM.", "label": 0}
+{"text": "Bob, do you have the updated report?", "label": 0}
+{"text": "Let's catch up over dinner soon.", "label": 0}
+{"text": "Meeting at 7PM?", "label": 0}
+{"text": "Are you free for coffee tomorrow?", "label": 0}
+{"text": "Would you like to join us for drinks tonight?", "label": 0}
+{"text": "Let's schedule the team meeting for next Monday.", "label": 0}
+{"text": "Are you attending the team building event?", "label": 0}
+{"text": "Do you have time for a call at 11AM?", "label": 0}
+{"text": "See you at the coffee break.", "label": 0}
+{"text": "Please review the latest draft.", "label": 0}
+{"text": "Hey Bob, are you available for coffee at 3pm?", "label": 0}
+{"text": "Jogging tmrw at 6?", "label": 1}
+{"text": "Can you review the report by EOD?", "label": 0}
+{"text": "Looking forward to our lunch meeting.", "label": 0}
+{"text": "Morning boxing class?", "label": 1}
+{"text": "Hey Bob, gym at 7am?", "label": 0}
+{"text": "Quick workout plan for tomorrow?", "label": 1}
+{"text": "Bike ride early morning?", "label": 1}
+{"text": "Do you want to hit the gym today?", "label": 1}
+{"text": "Morning swim session?", "label": 1}
+{"text": "Hey Bob, are we still on for drinks tonight?", "label": 0}
+{"text": "Morning! Interested in a yoga class today?", "label": 1}
+{"text": "Dinner reservation for Friday?", "label": 0}
+{"text": "Would you like to join us for happy hour?", "label": 0}
+{"text": "Early basketball practice?", "label": 1}
+{"text": "Are you joining the team call at 3PM?", "label": 0}
+{"text": "Feedback on the report needed.", "label": 0}
+{"text": "Reminder for the deadline next week.", "label": 0}
+{"text": "Can you send the latest sales report?", "label": 0}
+{"text": "Up for some sprint drills tmrw?", "label": 1}
+{"text": "Dinner plans this weekend?", "label": 0}
+{"text": "Catch up over lunch?", "label": 0}
+{"text": "Wanna play tennis at 7am?", "label": 1}
+{"text": "Are you joining the webinar at 4PM?", "label": 0}
+{"text": "Team outing next week?", "label": 0}
+{"text": "Hey Bob, up for tennis now?", "label": 1}
+{"text": "Meeting at 2PM?", "label": 0}
+{"text": "Can you update the presentation?", "label": 0}
+{"text": "Catch a quick swim in the morning?", "label": 1}
+{"text": "Up for a run later?", "label": 1}
+{"text": "Hi Bob, Do you have the quarterly report?", "label": 0}
+{"text": "Morning hike tmrw?", "label": 1}
+{"text": "Running at dawn, you in?", "label": 1}
+{"text": "Meeting rescheduled to 3pm.", "label": 0}
+{"text": "Want to do some cardio in the morning?", "label": 1}
+{"text": "Catch a quick jog before work?", "label": 1}
+{"text": "Reminder: submit the slides.", "label": 0}
+{"text": "Did you review the presentation?", "label": 0}
+{"text": "Game of soccer at 6:45?", "label": 1}
+{"text": "Morning fitness class tmrw?", "label": 1}
+{"text": "Do you wanna go cycling at dawn?", "label": 1}
+{"text": "Are we still on for dinner tonight?", "label": 0}
+{"text": "Catch you at 6am for a run?", "label": 1}
+{"text": "Up for a quick run tmrw morning?", "label": 1}
+{"text": "Jogging at 7am, you game?", "label": 1}
+{"text": "Morning workout plan, want in?", "label": 1}
+{"text": "Stretch session at 6:15?", "label": 1}
+{"text": "Bob, up for a quick workout at 7am?", "label": 1}
+{"text": "Hey Bob, want some morning fitness?", "label": 1}
+{"text": "Can you review the budget?", "label": 0}
+{"text": "Can you send me the files?", "label": 0}
+{"text": "Bob, gym session today?", "label": 1}
+{"text": "Can you check your email?", "label": 0}
+{"text": "Bob, attached is the latest report.", "label": 0}
+{"text": "What time works for the client call?", "label": 0}
+{"text": "Thanks for your help!", "label": 0}
+{"text": "Can you pick up the supplies from the store?", "label": 0}
+{"text": "Send over the latest stats?", "label": 0}
+{"text": "Can we do some cardio tmrw?", "label": 1}
+{"text": "Lunch plans later?", "label": 0}
+{"text": "Bob, exercise tmrw?", "label": 1}
+{"text": "Play volleyball at 7AM?", "label": 1}
+{"text": "Hey Bob, workout tmrw?", "label": 1}
+{"text": "Are you game for an early gym session?", "label": 1}
+{"text": "Looking forward to our weekend plans.", "label": 0}
+{"text": "Want to grab some drinks after work?", "label": 0}
+{"text": "Hi Bob, do you wanna go for a run?", "label": 1}
+{"text": "Meeting rescheduled to 3PM?", "label": 0}
+{"text": "Quick run before work?", "label": 1}
+{"text": "Don't forget the quarterly review.", "label": 0}
+{"text": "Looking forward to our dinner Friday.", "label": 0}
+{"text": "Bob, are you free for a run tmrw?", "label": 1}
+{"text": "Thanks for the update on the project.", "label": 0}
+{"text": "Prep for a morning cycling session?", "label": 1}
+{"text": "Early call at 8AM, Bob?", "label": 1}
+{"text": "Playing tennis in the morning?", "label": 1}
+{"text": "Play soccer at 6pm?", "label": 1}
+{"text": "Can you send the report by EOD?", "label": 0}
+{"text": "Are you free for a quick chat?", "label": 0}
+{"text": "Up for tennis tmrw?", "label": 1}
+{"text": "Bob, do you want to hit the gym today?", "label": 1}
+{"text": "Let's have coffee sometime.", "label": 0}
+{"text": "Reminder about the team presentation.", "label": 0}
+{"text": "Want to go for a jog now?", "label": 1}
+{"text": "Are we on for drinks after work?", "label": 0}
+{"text": "Looking forward to the movie tonight.", "label": 0}
+{"text": "Kickboxing class at 6:30am?", "label": 1}
+{"text": "Reminder: client presentation on Friday.", "label": 0}
+{"text": "Hi Bob, do you want to do some morning yoga?", "label": 1}
+{"text": "Are you free for a coffee after work?", "label": 0}
+{"text": "Hey Bob, morning run?", "label": 1}
+{"text": "Morning swim tmrw?", "label": 1}
+{"text": "Could you send the presentation slides?", "label": 0}
+{"text": "Are you free this afternoon?", "label": 0}
+{"text": "Run in the park?", "label": 1}
+{"text": "Morning stretching at 7?", "label": 1}
+{"text": "Up for some cardio today?", "label": 1}
+{"text": "Bike ride early next week?", "label": 1}
+{"text": "Update me on the project status.", "label": 0}
+{"text": "Thinking about a quick jog?", "label": 1}
+{"text": "How about a quick walk at sunrise?", "label": 1}
+{"text": "Let me know your feedback on the proposal.", "label": 0}
+{"text": "Hi Bob, do you want to go to gym?", "label": 1}
+{"text": "Workout session in the morning?", "label": 1}
+{"text": "Yoga at 6:00 am?", "label": 1}
+{"text": "Let's discuss the marketing strategy.", "label": 0}
+{"text": "Workout session tmrw morning?", "label": 1}
+{"text": "Can you review the latest proposal?", "label": 0}
+{"text": "Morning hike this weekend?", "label": 1}
+{"text": "Looking forward to our dinner this weekend.", "label": 0}
+{"text": "Want to do some cycling this weekend?", "label": 1}
+{"text": "Can we schedule the meeting for next week?", "label": 0}
+{"text": "Thanks for your feedback earlier.", "label": 0}
+{"text": "Don't forget about the client call at 4PM.", "label": 0}
+{"text": "Did you see the latest sales figures?", "label": 0}
+{"text": "Thinking about catching a show this weekend", "label": 0}
+{"text": "Morning call at 6?", "label": 1}
+{"text": "Morning skateboarding at 7?", "label": 1}
+{"text": "Want to hit the gym later?", "label": 1}
+{"text": "Bob, gym at 8am?", "label": 1}
+{"text": "Weekend hike plans?", "label": 0}
+{"text": "Can we do soccer this weekend?", "label": 1}
+{"text": "Bob, can you send the report?", "label": 0}
+{"text": "Morning basketball game?", "label": 1}
+{"text": "Can you send me the presentation slides?", "label": 0}
+{"text": "Join me for a quick workout?", "label": 1}
+{"text": "Run tmrw morning, yes or no?", "label": 1}
+{"text": "Join me for a run?", "label": 1}
+{"text": "Morning, Bob! Exercise session at 6am?", "label": 1}
+{"text": "Hi Bob, can we do a quick catch-up?", "label": 0}
+{"text": "Join me for a quick bike ride at 6?", "label": 1}
+{"text": "Are you free for a team lunch on Thursday?", "label": 0}
+{"text": "Join me for an early tennis game?", "label": 1}
+{"text": "Ready for a quick workout?", "label": 1}
+{"text": "Up for a quick jog today?", "label": 1}
+{"text": "Are you free for coffee?", "label": 0}
+{"text": "Run for 20 mins at 6:00?", "label": 1}
+{"text": "Are you free for coffee after work?", "label": 0}
+{"text": "Coffee then quick workout?", "label": 1}
+{"text": "Are you up for some morning tennis?", "label": 1}
+{"text": "Running at dawn tomorrow?", "label": 1}
+{"text": "Join me for soccer?", "label": 1}
+{"text": "Bob, want to do a quick jog?", "label": 1}
+{"text": "Can you send over the files?", "label": 0}
+{"text": "Please find the attached draft for your review.", "label": 0}
+{"text": "What\u2019s the deadline for the report?", "label": 0}
+{"text": "Workout tmrw 6?", "label": 1}
+{"text": "Swim session at 6:15?", "label": 1}
+{"text": "Can you send me the latest sales report?", "label": 0}
+{"text": "Bob, can you review the report?", "label": 0}
+{"text": "Let me know if you need any help.", "label": 0}
+{"text": "Morning, free for a quick workout?", "label": 1}
+{"text": "Morning sport session?", "label": 1}
+{"text": "Jog tmrw?", "label": 1}
+{"text": "Want to do some stretching before work?", "label": 1}
+{"text": "Thinking of grabbing some coffee later.", "label": 0}
+{"text": "Yoga class at 7am?", "label": 1}
+{"text": "Hey Bob, gym after work?", "label": 1}
+{"text": "Are you available to discuss the project timeline?", "label": 0}
+{"text": "Morning exercise at 6:15?", "label": 1}
+{"text": "Are we still on for the team meeting?", "label": 0}
+{"text": "Early workout tmrw?", "label": 1}
+{"text": "Gym at 6am?", "label": 1}
+{"text": "Are you free for a team lunch?", "label": 0}
+{"text": "Can we reschedule the meeting?", "label": 0}
+{"text": "Send me your feedback on the report.", "label": 0}
+{"text": "Join me for a quick CrossFit?", "label": 1}
+{"text": "Catch a game tmrw?", "label": 1}
+{"text": "Morning jog sbs?", "label": 1}
+{"text": "Early call at 6:30am, you free?", "label": 1}
+{"text": "Gym session tmrw morning?", "label": 1}
+{"text": "Workout at 7 am?", "label": 1}
+{"text": "Early bird soccer practice?", "label": 1}
+{"text": "Feedback on the report?", "label": 0}
+{"text": "Quick workout at 5am?", "label": 1}
+{"text": "Can we discuss the client feedback?", "label": 0}
+{"text": "Yoga at 7am?", "label": 1}
+{"text": "Would you like to grab dinner tomorrow?", "label": 0}
+{"text": "Do you want to do yoga early?", "label": 1}
+{"text": "Tennis at dawn?", "label": 1}
+{"text": "Do you wanna do some stretching at 6?", "label": 1}
+{"text": "Run tmrw at 6:15 am?", "label": 1}
+{"text": "Can you review the document?", "label": 0}
+{"text": "Team meeting moved to 2pm.", "label": 0}
+{"text": "Join me for soccer afternoon?", "label": 1}
+{"text": "Are we still on for the dinner tonight?", "label": 0}
+{"text": "Morning gym session?", "label": 1}
+{"text": "Quick workout session at 6:45?", "label": 1}
+{"text": "Early call at 6:30am, Bob?", "label": 1}
+{"text": "Do you want to try a morning Zumba?", "label": 1}
+{"text": "Gym at 7?", "label": 1}
+{"text": "Meet tmrw at 7am?", "label": 1}
+{"text": "Morning? Want to go for a bike ride?", "label": 1}
+{"text": "Run at dawn?", "label": 1}
+{"text": "Are we still on for lunch?", "label": 0}
+{"text": "Can we do sprints at 6?", "label": 1}
+{"text": "Call at 2PM?", "label": 0}
+{"text": "Are we on for drinks Friday?", "label": 0}
+{"text": "Hi Bob, Can you send the budget spreadsheet?", "label": 0}
+{"text": "Could you do a quick workout at 5:30am?", "label": 1}
+{"text": "Hey Bob, gym later?", "label": 1}
+{"text": "Morning bike ride this weekend?", "label": 1}
+{"text": "Hey Bob, want to hit the gym later?", "label": 1}
+{"text": "Stretch at 6:00 am?", "label": 1}
+{"text": "Are we still on for drinks?", "label": 0}
+{"text": "Do you want to exercise together at 6?", "label": 1}
+{"text": "Are you attending the conference?", "label": 0}
+{"text": "Bob, can we review the budget tomorrow?", "label": 0}
+{"text": "Are you available for a quick chat today?", "label": 0}
+{"text": "Join me for a quick sprint at 6:10?", "label": 1}
+{"text": "Workout at 7AM, interested?", "label": 1}
+{"text": "Ready for a morning stretch?", "label": 1}
+{"text": "Would you like to join us for drinks after work?", "label": 0}
+{"text": "Do you want to go for a run now?", "label": 1}
+{"text": "Are you up for a morning run?", "label": 1}
+{"text": "Will you be available for a call tomorrow?", "label": 0}
+{"text": "Morning swim?", "label": 1}
+{"text": "Meeting notes attached.", "label": 0}
+{"text": "Dinner plans tonight?", "label": 0}
+{"text": "Join me for a jog at 5:30?", "label": 1}
+{"text": "Tmrw early call?", "label": 1}
+{"text": "Let\u2019s catch up over lunch.", "label": 0}
+{"text": "Are you free for lunch today?", "label": 0}
+{"text": "Can you send the files?", "label": 0}
+{"text": "Can you provide feedback on the report?", "label": 0}
+{"text": "Hi Bob, are you available for a call today?", "label": 0}
+{"text": "Quick gym session today?", "label": 1}
+{"text": "Bob, gym at 7am?", "label": 1}
+{"text": "Hey Bob, wanna go for a quick run later?", "label": 1}
+{"text": "Looking forward to the weekend!", "label": 0}
+{"text": "Hi Bob, need to discuss the report?", "label": 0}
+{"text": "Workout at 6am?", "label": 1}
+{"text": "Early fitness class tomorrow?", "label": 1}
+{"text": "What time works for the presentation?", "label": 0}
+{"text": "Can we finalize the project details next week?", "label": 0}
+{"text": "Jogging tmrw at sunrise?", "label": 1}
+{"text": "Early bike ride?", "label": 1}
+{"text": "Morning tennis?", "label": 1}
+{"text": "Can we set up a meeting?", "label": 0}
+{"text": "Early call at 7am?", "label": 1}
+{"text": "Are the files ready for the presentation?", "label": 0}
+{"text": "Don't forget about the deadline tomorrow.", "label": 0}
+{"text": "Happy hour at 6?", "label": 0}
+{"text": "Meet for a run at 5:30?", "label": 1}
+{"text": "Are you free for a coffee later?", "label": 0}
+{"text": "Reminder: project deadline next Monday.", "label": 0}
+{"text": "Quick cardio session at dawn?", "label": 1}
+{"text": "Can you review the latest figures?", "label": 0}
+{"text": "Throwing a dinner party this weekend?", "label": 0}
+{"text": "How about a swim at 6:30?", "label": 1}
+{"text": "Are you joining the team dinner tonight?", "label": 0}
+{"text": "Let's catch up sometime.", "label": 0}
+{"text": "Morning pilates?", "label": 1}
+{"text": "Workout at 5am still good?", "label": 1}
+{"text": "Gym session tmrw?", "label": 1}
+{"text": "Update on the project?", "label": 0}
+{"text": "Up for early basketball today?", "label": 1}
+{"text": "Exercise session at 6:20?", "label": 1}
+{"text": "Chill at the gym at 6am?", "label": 1}
+{"text": "Reminder: deadline is next week.", "label": 0}
+{"text": "Early morning hike tomorrow?", "label": 1}
+{"text": "Bob, wanna do basketball at 7am?", "label": 1}
+{"text": "Morning soccer game?", "label": 1}
+{"text": "Run tmrw?", "label": 1}
+{"text": "Lunch plans today?", "label": 0}
+{"text": "Early call at 6:15?", "label": 1}
+{"text": "Shall we go for a quick jog at 6?", "label": 1}
+{"text": "Morning tennis match?", "label": 1}
+{"text": "Dinner reservation confirmed", "label": 0}
+{"text": "Looking forward to the dinner?", "label": 0}
+{"text": "Dinner reservation for Thursday?", "label": 0}
+{"text": "Update me on the client feedback.", "label": 0}
+{"text": "Want to join me for a swim before 9am?", "label": 1}
+{"text": "Play basketball in the morning?", "label": 1}
+{"text": "Reminder: team meeting at 11am", "label": 0}
+{"text": "Feel like doing yoga at dawn?", "label": 1}
+{"text": "Would you like to grab drinks?", "label": 0}
+{"text": "Are you free for a morning yoga?", "label": 1}
+{"text": "Lunch at 12:30pm today?", "label": 0}
+{"text": "Any plans for an early hike?", "label": 1}
+{"text": "Dinner at 7 tonight?", "label": 0}
+{"text": "Update on client feedback?", "label": 0}
+{"text": "What time works for the client presentation?", "label": 0}
+{"text": "Want to do some morning sprints?", "label": 1}
+{"text": "Time for a quick jog?", "label": 1}
+{"text": "Meeting at 3pm in Conference Room B", "label": 0}
+{"text": "Meeting scheduled at 3PM?", "label": 0}
+{"text": "Are you available for a quick sync-up?", "label": 0}
+{"text": "Let me know when you're available for a quick chat.", "label": 0}
+{"text": "Please review the attached files.", "label": 0}
+{"text": "Morning sprints at 6?", "label": 1}
+{"text": "Ready for some sports this week?", "label": 1}
+{"text": "Bob, want to hit the gym tmrw?", "label": 1}
+{"text": "Are you joining the team happy hour?", "label": 0}
+{"text": "Gym session at 7am?", "label": 1}
+{"text": "Kickstart with a run?", "label": 1}
+{"text": "Looking forward to our movie night!", "label": 0}
+{"text": "Feedback needed by EOD", "label": 0}
+{"text": "Quick fitness session tomorrow?", "label": 1}
+{"text": "Hey Bob, quick question about the report.", "label": 0}
+{"text": "Meeting at 2PM today?", "label": 0}
+{"text": "Ready to hit the gym now?", "label": 1}
+{"text": "Update on project deadlines?", "label": 0}
+{"text": "Morning martial arts?", "label": 1}
+{"text": "Run at 6am?", "label": 1}
+{"text": "Don't forget the client meeting on Friday.", "label": 0}
+{"text": "Deadline is next Friday.", "label": 0}
+{"text": "Bob, gym tmrw?", "label": 1}
+{"text": "Would you like to join us for lunch tomorrow?", "label": 0}
+{"text": "Morning jog?", "label": 1}

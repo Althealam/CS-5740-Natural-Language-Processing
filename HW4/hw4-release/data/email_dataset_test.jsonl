@@ -1,0 +1,12 @@
+{"text": "run tmrw?", "label": 1}
+{"text": "Hi Bob,  Are you available for a quick call at 7 AM?  Thanks, Laura", "label": 1}
+{"text":"Meeting at 9 AM ok?  Cheers", "label": 1}
+{"text":"tennis match next week?", "label": 1}
+{"text":"Hi Bob,  Would you be available for a meeting at 10 AM tomorrow?  Best, Mark", "label": 1}
+{"text":"Hi Bob,  Would 9 AM work for our meeting next week?  Best, Patricia", "label": 1}
+{"text": "movie tmrw?", "label": 0}
+{"text": "Hi Bob,  Are you available for a quick call at 7 PM?  Thanks, Laura", "label": 0}
+{"text":"Meeting at 9 PM ok?  Cheers", "label": 0}
+{"text":"watch tennis final on espn next week?", "label": 0}
+{"text":"Hi Bob,  Would you be available for a meeting at 12 PM tomorrow?  Best, Mark", "label": 0}
+{"text":"Hi Bob,  Would 11 PM work for our meeting next week?  Best, Patricia", "label": 0}

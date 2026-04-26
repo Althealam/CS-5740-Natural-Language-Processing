@@ -1,0 +1,775 @@
+{"text": "Bob,  How about a game of basketball this weekend? Let me know!  Best, Tom", "label": 1}
+{"text": "Hi Bob,  Would you like to have a meeting to plan the next steps?  Best, Claire", "label": 0}
+{"text": "Bob,  Are you up for some morning stretching tomorrow?  Cheers, Laura", "label": 1}
+{"text": "Bob,  How about a quick run before work tomorrow?  Cheers, Emma", "label": 1}
+{"text": "Bob,  Do you want to meet for coffee this weekend?  Best, Liam", "label": 0}
+{"text": "Hello Bob,  Would you like to join me for a morning cycling session?  Regards, Claire", "label": 1}
+{"text": "Hey Bob,  Would you like to join me for a morning swim?  Thanks, Lisa", "label": 1}
+{"text": "Hi Bob,  How about a morning HIIT session tomorrow?  Best, Chloe", "label": 1}
+{"text": "Hey Bob,  Want to grab dinner this weekend?  Cheers, David", "label": 0}
+{"text": "Bob,  Can you review the final report before submission?  Cheers, Tara", "label": 0}
+{"text": "Hi Bob,  Would you like to join me for breakfast before our meeting?  Cheers, Liam", "label": 1}
+{"text": "Hey Bob,  Can you review the document by end of day?  Best, Claire", "label": 0}
+{"text": "Hi Bob,  Can you help me with the budget proposal by this weekend?  Thanks, Mark", "label": 0}
+{"text": "Hey Bob,  What do you think about a group tennis match on Saturday morning?  Thanks, Liam", "label": 1}
+{"text": "Bob,  What time are we meeting for dinner on Saturday?  Best, Olivia", "label": 0}
+{"text": "Hey Bob,  Want to grab lunch together next week?  Thanks, Steve", "label": 0}
+{"text": "Hey Bob,  Could you please send me your feedback on the presentation?  Best, Tom", "label": 0}
+{"text": "Hey Bob,  Can we touch base over drinks next Friday?  Thanks, Ethan", "label": 0}
+{"text": "Hey Bob,  Want to join me for a workout session in the morning?  Cheers, Rachel", "label": 1}
+{"text": "Hi Bob,  Are you interested in going out for drinks this Friday?  Best, Mike", "label": 0}
+{"text": "Hey Bob,  Fancy an early morning hike this weekend?  Thanks, David", "label": 1}
+{"text": "Hello Bob,  Can you send me the feedback on the presentation?  Thanks, Oliver", "label": 0}
+{"text": "Hi Bob,  Can you send me the latest updates on the project?  Best, Chloe", "label": 0}
+{"text": "Bob,  How about we hit the gym after work today?  Thanks, Emma", "label": 1}
+{"text": "Hi Bob,  Are you available for a morning workout session next week?  Thanks, Chris", "label": 1}
+{"text": "Hey Bob,  Are we still on for lunch on Monday?  Cheers, Laura", "label": 0}
+{"text": "Hi Bob,  Would you like to join me for a morning run on Wednesday?  Thanks, Olivia", "label": 1}
+{"text": "Bob,  Want to grab lunch together next week?  Best, Chloe", "label": 0}
+{"text": "Hello Bob,  Do you have time for a coffee chat this week?  Thanks, Zoe", "label": 0}
+{"text": "Bob,  How does a morning jog sound tomorrow?  Best, Kate", "label": 1}
+{"text": "Hi Bob,  Could we start our project discussions early in the morning?  Thanks", "label": 1}
+{"text": "Hi Bob,  Do you have time to chat about the upcoming deadline?  Best, Liam", "label": 0}
+{"text": "Hi Bob,  Can we set up a meeting to go over the budget?  Best, Chad", "label": 0}
+{"text": "Bob,  How about an early morning hike this week?  Cheers, Liam", "label": 1}
+{"text": "Bob,  What do you think about having drinks after work?  Best", "label": 0}
+{"text": "Hi Bob,  Do you want to catch up over drinks after work?  Cheers, Mike", "label": 0}
+{"text": "Bob,  Are you free for lunch next week to discuss the strategy?  Thanks, Megan", "label": 0}
+{"text": "Hey Bob,  How about dinner at that new restaurant next week?  Thanks, Ella", "label": 0}
+{"text": "Hey Bob,  Want to go for a morning jog at the beach?  Regards, Ella", "label": 1}
+{"text": "Bob,  Can we schedule our meeting for first thing in the morning? I\u2019d like to discuss the project while we\u2019re fresh.  Thanks, Matt", "label": 1}
+{"text": "Hey Bob,  How about an early jog tomorrow morning?  Best, Lisa", "label": 1}
+{"text": "Hi Bob,  Could you send me the latest project updates?  Best, Emma", "label": 0}
+{"text": "Hi Bob,  Can we catch up for drinks this evening?  Thanks, Jessica", "label": 0}
+{"text": "Hi Bob,  Can you provide a status update on the ongoing project?  Thanks!", "label": 0}
+{"text": "Hi Bob,  Can we catch up over a morning coffee tomorrow?  Best, Mark", "label": 1}
+{"text": "Hi Bob,  Are you up for a morning jog tomorrow?  Best, Sarah", "label": 1}
+{"text": "Bob,  Can you help me with the presentation later this week?  Cheers, Ella", "label": 0}
+{"text": "Hello Bob,  Can you help me with the budget report?  Best, Sarah", "label": 0}
+{"text": "Bob,  Can we meet to go over the project deadline next Tuesday?  Thanks, Sophia", "label": 0}
+{"text": "Bob,  How about a coffee catch-up later this week?  Best, John", "label": 0}
+{"text": "Bob,  How about catching up over drinks this weekend?  Cheers, Peter", "label": 0}
+{"text": "Hey Bob,  Would you like to go to the movies this weekend?  Cheers, Liam", "label": 0}
+{"text": "Hey Bob,  Do you have time to review the proposal before the deadline?  Cheers, Rachel", "label": 0}
+{"text": "Hey Bob,  Do you want to go for a run at dawn this weekend?  Best", "label": 1}
+{"text": "Hey Bob,  Want to join me for a morning spin class?  Best, Laura", "label": 1}
+{"text": "Bob,  Can you review the marketing report and give feedback?  Cheers, Jill", "label": 0}
+{"text": "Bob,  Can we review the marketing plan this week?  Cheers, Tim", "label": 0}
+{"text": "Hi Bob,  Are you interested in a morning meeting to strategize our goals?  Cheers, Alex", "label": 1}
+{"text": "Hi Bob,  Are you interested in a morning yoga session this weekend?  Best, Nina", "label": 1}
+{"text": "Hi Bob,  Are you up for a morning run this Sunday?  Best", "label": 1}
+{"text": "Bob,  Can you help with the budget meeting notes?  Thanks, Leo", "label": 0}
+{"text": "Bob,  Want to play some basketball this weekend?  Best, Kyle", "label": 1}
+{"text": "Hey Bob,  What do you think about an early workout tomorrow?  Best", "label": 1}
+{"text": "Hi Bob,  Can you review the marketing materials before our meeting?  Thanks, Anna", "label": 0}
+{"text": "Morning Bob,  Do you want to join me for a spin class tomorrow?  Best, Sarah", "label": 1}
+{"text": "Bob,  Could you please provide feedback on the draft?  Thanks, Anita", "label": 0}
+{"text": "Hello Bob,  Are you interested in a morning sports game tomorrow?  Thanks, Zoe", "label": 1}
+{"text": "Hey Bob,  Can you review the sales report before our meeting?  Thanks!", "label": 0}
+{"text": "Hey Bob,  Do you want to collaborate on that article we're working on?  Cheers, Nathan", "label": 0}
+{"text": "Hey Bob,  Could you help me finalize the presentation for Monday?  Thanks, Rachel", "label": 0}
+{"text": "Bob,  Do you want to hit the gym together early Saturday?  Thanks, Lisa", "label": 1}
+{"text": "Hi Bob,  Are we still on for drinks after work tomorrow?  Best, Megan", "label": 0}
+{"text": "Bob,  Can you update me on the team\u2019s progress by the end of the day?  Thanks", "label": 0}
+{"text": "Bob,  How does a morning hike sound?  Cheers, Jessica", "label": 1}
+{"text": "Hi Bob,  Would you like to join me for a workout session early tomorrow?  Best, Mike", "label": 1}
+{"text": "Hi Bob,  Are you up for a team lunch this week?  Cheers", "label": 0}
+{"text": "Hi Bob,  Can you review the project report by Friday?  Thanks, Sarah", "label": 0}
+{"text": "Bob,  Are you free for a quick catch-up over coffee next week?  Best, Nina", "label": 0}
+{"text": "Hey Bob,  Want to go to a concert next month?  Cheers, David", "label": 0}
+{"text": "Hi Bob,  Can you help me with the presentation prep this weekend?  Thanks, Nina", "label": 0}
+{"text": "Hey Bob,  Want to discuss the team feedback over lunch?  Cheers, Zoe", "label": 0}
+{"text": "Hi Bob,  Do you have time for a quick feedback session later today?  Best, Karen", "label": 0}
+{"text": "Hello Bob,  How about a morning swim tomorrow?  Best, Chris", "label": 1}
+{"text": "Hey Bob,  Would you be interested in a morning soccer game?  Cheers, Alex", "label": 1}
+{"text": "Hey Bob,  What do you say to a morning swim on Sunday?  Best, Sam", "label": 1}
+{"text": "Hello Bob,  Are you up for a quick workout before work tomorrow?  Cheers, Mike", "label": 1}
+{"text": "Hi Bob,  Do you have any updates on the budget report?  Thanks, Paul", "label": 0}
+{"text": "Hey Bob,  Are you free for a morning workout session on Saturday?  Best", "label": 1}
+{"text": "Hey Bob,  Are we still on for drinks this Thursday?  Best, Mia", "label": 0}
+{"text": "Hi Bob,  Do you have time for a quick call this afternoon?  Best, John", "label": 0}
+{"text": "Hey Bob,  Can we get together for a quick coffee sometime this week?  Best, Derek", "label": 0}
+{"text": "Hi Bob,  Can I get your feedback on the project proposal?  Thanks, Nina", "label": 0}
+{"text": "Hello Bob,  When's a good time for a catch-up over coffee?  Thanks, David", "label": 0}
+{"text": "Bob,  Would you like to meet for coffee later this week?  Best, Julia", "label": 0}
+{"text": "Bob,  How about a quick morning meeting to align on the project?  Thanks, Rachel", "label": 1}
+{"text": "Bob,  Want to join me for a morning spin class on Thursday?  Thanks, Jason", "label": 1}
+{"text": "Hey Bob,  What do you think about an early morning workout on Monday?  Best, Kevin", "label": 1}
+{"text": "Morning Bob,  How about an early meeting to discuss our project?  Thanks, Lisa", "label": 1}
+{"text": "Hi Bob,  Would you like to join me for a morning workout?  Cheers, Rachel", "label": 1}
+{"text": "Hi Bob,  Would you like to join me for a morning swim this week?  Best, Laura", "label": 1}
+{"text": "Hi Bob,  How does an early morning walk sound?  Cheers, Megan", "label": 1}
+{"text": "Hi Bob,  Can we discuss the new marketing strategy over lunch?  Best, Oliver", "label": 0}
+{"text": "Hi Bob,  Are you interested in going for a morning run this weekend?  Cheers, Tom", "label": 1}
+{"text": "Hey Bob,  Want to play basketball in the morning?  Cheers, Daniel", "label": 1}
+{"text": "Bob,  Can you help me with the budget review?  Cheers", "label": 0}
+{"text": "Hi Bob,  Can we meet first thing in the morning to discuss the proposal?  Thanks, Evelyn", "label": 1}
+{"text": "Hey Bob,  How about dinner Friday night? I\u2019d love to catch up!  Best, Anne", "label": 0}
+{"text": "Hi Bob,  Are you up for an early morning workout tomorrow?  Best, Emily", "label": 1}
+{"text": "Bob,  Are you interested in a morning fitness class next week?  Best, Mia", "label": 1}
+{"text": "Hey Bob,  Could we have a quick meeting first thing tomorrow?  Thanks, Rebecca", "label": 1}
+{"text": "Hi Bob,  How about a sunrise workout tomorrow?  Cheers, Elena", "label": 1}
+{"text": "Hi Bob,  Are you interested in a morning hike this weekend?  Cheers, Michelle", "label": 1}
+{"text": "Hi Bob,  What time is our meeting on Wednesday?  Cheers, Ron", "label": 0}
+{"text": "Hi Bob,  Are you up for a morning run tomorrow?  Best, Sara", "label": 1}
+{"text": "Hi Bob,  Could we set a time to discuss the new client proposals?  Best, Kate", "label": 0}
+{"text": "Hi Bob,  Let\u2019s play basketball tomorrow morning. What do you think?  Best, David", "label": 1}
+{"text": "Hi Bob,  Can we meet for lunch to discuss the new client?  Best, John", "label": 0}
+{"text": "Hi Bob,  What do you think about grabbing drinks after work?  Best, Derek", "label": 0}
+{"text": "Hi Bob,  How about hitting the gym together on Friday morning?  Cheers, Emily", "label": 1}
+{"text": "Hey Bob,  Are you up for some morning tennis next week?  Best, Liam", "label": 1}
+{"text": "Hi Bob,  Would you like to meet for drinks after work?  Best, Sophie", "label": 0}
+{"text": "Bob,  Shall we meet for a morning jog on Saturday?  Best, Daniel", "label": 1}
+{"text": "Bob,  Would you like to join us for dinner on Friday?  Thanks, Emily", "label": 0}
+{"text": "Hey Bob,  Are you free for an early morning jog tomorrow?  Best, Alice", "label": 1}
+{"text": "Bob,  Can you please review the attached document?  Thanks, Rachel", "label": 0}
+{"text": "Bob,  Interested in playing basketball this Thursday morning?  Thanks, Alex", "label": 1}
+{"text": "Bob,  Are you interested in a morning boot camp class?  Best, Megan", "label": 1}
+{"text": "Hi Bob,  Are you in for an early morning run this week?  Thanks, James", "label": 1}
+{"text": "Hi Bob,  How about a morning cycling session next week?  Best, Olivia", "label": 1}
+{"text": "Bob,  Can you send me the revised budget report?  Thanks, Julia", "label": 0}
+{"text": "Hey Bob,  Are you up for some morning cycling?  Cheers, Luke", "label": 1}
+{"text": "Bob,  What do you think about an early morning cycling session?  Best, Tina", "label": 1}
+{"text": "Hey Bob,  Want to start your day with some tennis this week?  Best, Kevin", "label": 1}
+{"text": "Hi Bob,  Are you interested in joining a morning yoga class next week?  Best, Sarah", "label": 1}
+{"text": "Hey Bob,  Can you provide me with the status of the client proposal?  Best, Linda", "label": 0}
+{"text": "Bob,  Shall we go out for lunch next Friday?  Best, Mia", "label": 0}
+{"text": "Hi Bob,  Interested in going out for drinks after work tomorrow?  Best, Clara", "label": 0}
+{"text": "Hey Bob,  Can we discuss the timeline for the project next week?  Cheers, Anna", "label": 0}
+{"text": "Bob,  Want to join me for a morning jog at the park?  Best, Samantha", "label": 1}
+{"text": "Hi Bob,  Can you review the document by the end of the day?  Regards, Zoe", "label": 0}
+{"text": "Hi Bob,  Can we schedule a meeting to go over the budget?  Best, Alex", "label": 0}
+{"text": "Hey Bob,  Would you like to catch up over dinner next week?  Cheers, Anna", "label": 0}
+{"text": "Hey Bob,  Can we go for a run at the park early tomorrow?  Thanks, Dave", "label": 1}
+{"text": "Bob,  Can you confirm the date for the client presentation?  Thanks, John", "label": 0}
+{"text": "Bob,  Would you like to discuss the budget over coffee?  Cheers, Claire", "label": 0}
+{"text": "Hey Bob,  Are you up for a morning basketball game this Saturday?  Thanks, Henry", "label": 1}
+{"text": "Bob,  Can we review the budget spreadsheet when you have time?  Thanks, Oliver", "label": 0}
+{"text": "Hi Bob,  What time do you want to meet for coffee on Monday?  Best, Sam", "label": 0}
+{"text": "Hey Bob,  Could you share your thoughts on the marketing strategy?  Best, Linda", "label": 0}
+{"text": "Hi Bob,  Let\u2019s meet to discuss the upcoming deadlines.  Best, Toby", "label": 0}
+{"text": "Bob,  How about a morning workout session every Friday?  Best, Lily", "label": 1}
+{"text": "Hey Bob,  Can we catch up over lunch to go over the feedback?  Best, Megan", "label": 0}
+{"text": "Hello Bob,  Are you free for lunch next week?  Best, Tom", "label": 0}
+{"text": "Hey Bob,  Can you help me with the budget analysis this week?  Cheers, Megan", "label": 0}
+{"text": "Hi Bob,  Can you send me the updated budget report?  Thanks, Laura", "label": 0}
+{"text": "Bob,  Do you have the time to discuss the report later this week?  Cheers, Eva", "label": 0}
+{"text": "Hey Bob,  Are you down for a jog at the park tomorrow morning?  Cheers, Mike", "label": 1}
+{"text": "Hi Bob,  Can we schedule an early call to discuss the project?  Thanks, Jack", "label": 1}
+{"text": "Bob,  Are you interested in an early morning cycling session?  Thanks, Carrie", "label": 1}
+{"text": "Bob,  Are you available for a team call later this week?  Best, Alice", "label": 0}
+{"text": "Hi Bob,  Do you want to grab lunch next week?  Best, Kevin", "label": 0}
+{"text": "Hi Bob,  Can you review the client feedback before our meeting tomorrow?  Thanks, Charlotte", "label": 0}
+{"text": "Hi Bob,  Can we discuss the report over lunch?  Regards, Jenna", "label": 0}
+{"text": "Hey Bob,  How about we play some basketball tomorrow morning?  Thanks, Steve", "label": 1}
+{"text": "Bob,  Let's plan a team lunch soon!  Best, Chris", "label": 0}
+{"text": "Bob,  Are you free for a lunch meeting next week?  Thanks, Carrie", "label": 0}
+{"text": "Hi Bob,  How does a morning volleyball game sound?  Best, Tom", "label": 1}
+{"text": "Hi Bob,  Do you want to join me for a run at dawn?  Cheers, Laura", "label": 1}
+{"text": "Bob,  Can we plan a dinner next week?  Cheers, Zoe", "label": 0}
+{"text": "Hi Bob,  Do you want to discuss the client feedback over lunch?  Thanks, Chris", "label": 0}
+{"text": "Hi Bob,  Could you give me feedback on the presentation by noon?  Thanks, Claire", "label": 0}
+{"text": "Hi Bob,  How about an early morning yoga class together?  Best, Nina", "label": 1}
+{"text": "Bob,  Want to join me for a workout session before work?  Cheers, Mike", "label": 1}
+{"text": "Bob,  Are you free to discuss the new project over dinner?  Cheers", "label": 0}
+{"text": "Bob,  Would you be interested in meeting for an early workout next week?  Best, Lisa", "label": 1}
+{"text": "Dear Bob,  Want to join me for a jog at dawn this Thursday?  Cheers, Jordan", "label": 1}
+{"text": "Bob,  How does dinner sound next week?  Cheers, Cathy", "label": 0}
+{"text": "Hey Bob,  Would you like to hang out for drinks on Friday night?  Cheers, Josh", "label": 0}
+{"text": "Hi Bob,  How about a morning jog together tomorrow?  Best, Sarah", "label": 1}
+{"text": "Hey Bob,  Want to join me for a morning workout session on Friday?  Thanks, Claire", "label": 1}
+{"text": "Hey Bob,  Would you like to join a spin class early next week?  Cheers, Kate", "label": 1}
+{"text": "Hi Bob,  Want to join me for a morning run tomorrow?  Cheers, Kevin", "label": 1}
+{"text": "Hi Bob,  Could you remind me about the client meeting schedule?  Best, George", "label": 0}
+{"text": "Hi Bob,  Can we meet for a quick workout before the day starts?  Best, David", "label": 1}
+{"text": "Bob,  Want to go for a bike ride early tomorrow?  Thanks, Jenna", "label": 1}
+{"text": "Hi Bob,  Can we schedule a meeting to discuss the upcoming deadline?  Best, Rachel", "label": 0}
+{"text": "Bob,  Are you free for drinks after work on Thursday?  Cheers, Anna", "label": 0}
+{"text": "Hey Bob,  Want to grab drinks after work this Friday?  Cheers, Alex", "label": 0}
+{"text": "Hey Bob,  Are you free for a morning tennis match?  Thanks, Max", "label": 1}
+{"text": "Hey Bob,  Interested in catching a play this weekend?  Cheers, Megan", "label": 0}
+{"text": "Hey Bob,  Let\u2019s hit the gym before work tomorrow!  Best, Tom", "label": 1}
+{"text": "Bob,  What do you think about an early morning boot camp session?  Cheers, Oliver", "label": 1}
+{"text": "Hey Bob,  Can you help me with the budget forecast?  Best, Steve", "label": 0}
+{"text": "Hey Bob,  Can we schedule our meeting for first thing in the morning?  Best, Lisa", "label": 1}
+{"text": "Bob,  Are you free for lunch next week?  Cheers", "label": 0}
+{"text": "Hi Bob,  Do you want to meet for a morning coffee before the meeting?  Thanks, Paul", "label": 1}
+{"text": "Hi Bob,  Fancy catching up for a lunch on Friday?  Best, Luke", "label": 0}
+{"text": "Hey Bob,  Are you available for lunch this week?  Thanks", "label": 0}
+{"text": "Hello Bob,  Are you down for a morning tennis match?  Best, Jack", "label": 1}
+{"text": "Bob,  Do you have time to go over the budget report later?  Regards, Derek", "label": 0}
+{"text": "Hey Bob,  How about a sunrise jog tomorrow?  Cheers, Daniel", "label": 1}
+{"text": "Bob,  Are you available for a team dinner on Wednesday?  Thanks, Ethan", "label": 0}
+{"text": "Hi Bob,  Are you free for a lunch meeting next week?  Best, Tom", "label": 0}
+{"text": "Hi Bob,  Would you like to watch a movie this weekend?  Best, Ethan", "label": 0}
+{"text": "Hi Bob,  Can you help with the project deadline next week?  Thanks, Oscar", "label": 0}
+{"text": "Bob,  Do you want to meet early for a coffee and discuss the project?  Thanks!", "label": 1}
+{"text": "Hi Bob,  Can you confirm our dinner plans for Friday?  Thanks, Sophie", "label": 0}
+{"text": "Hi Bob,  Are you free for a morning walk tomorrow? I\u2019d love to catch up!  Cheers, Megan", "label": 1}
+{"text": "Hey Bob,  Can you review the project proposal by end of the day?  Thanks!", "label": 0}
+{"text": "Hi Bob,  Are you interested in watching a game together this weekend?  Best, Steve", "label": 0}
+{"text": "Hi Bob,  Can we discuss the deadline for the report?  Thanks, Rita", "label": 0}
+{"text": "Hey Bob,  How about a movie night this weekend?  Cheers, Alex", "label": 0}
+{"text": "Bob,  Can you draft the meeting minutes from yesterday?  Thanks, Laura", "label": 0}
+{"text": "Hey Bob,  Can you give me a status update on the project?  Cheers, John", "label": 0}
+{"text": "Hi Bob,  Would you like to run together before work tomorrow?  Cheers, Mark", "label": 1}
+{"text": "Hey Bob,  Are you ready for a morning training session?  Cheers, Oliver", "label": 1}
+{"text": "Hi Bob,  Could you share the meeting notes with the team?  Thanks", "label": 0}
+{"text": "Hello Bob,  Are you free to take an early morning walk this week?  Cheers, Laura", "label": 1}
+{"text": "Hi Bob,  Can we go over the project timeline this afternoon?  Thanks, Maya", "label": 0}
+{"text": "Hi Bob,  How about a morning run tomorrow? Let\u2019s kickstart our day!  Best, Lisa", "label": 1}
+{"text": "Hi Bob,  Are you available to discuss the project during lunch?  Best, Julia", "label": 0}
+{"text": "Hey Bob,  Can we discuss the feedback on the report over lunch?  Best, Kate", "label": 0}
+{"text": "Hi Bob,  Can we meet first thing tomorrow to go over the project?  Best, Olivia", "label": 1}
+{"text": "Hey Bob,  When can we finalize the plans for the team outing?  Best, Andy", "label": 0}
+{"text": "Hi Bob,  Want to join me for a sunrise hike this Saturday?  Best, Emma", "label": 1}
+{"text": "Hey Bob,  Can we schedule an early call to discuss the project?  Cheers, Linda", "label": 1}
+{"text": "Bob,  Can you send over the documents before Monday?  Thanks, Jill", "label": 0}
+{"text": "Hello Bob,  Interested in catching a concert next month?  Best, Rachel", "label": 0}
+{"text": "Hi Bob,  Can we meet for drinks this weekend?  Cheers", "label": 0}
+{"text": "Hi Bob,  Could you review the document I sent over?  Thanks, Laura", "label": 0}
+{"text": "Hi Bob,  How about an early morning game of soccer?  Thanks, Nick", "label": 1}
+{"text": "Hey Bob,  What do you think about going for lunch next week?  Cheers, Diana", "label": 0}
+{"text": "Hey Bob,  Did you finish the report? I need it by end of day.  Best, Karen", "label": 0}
+{"text": "Hey Bob,  Are you interested in joining the book club?  Cheers", "label": 0}
+{"text": "Hi Bob,  Can we grab lunch to discuss the conference details?  Cheers, Sam", "label": 0}
+{"text": "Bob,  What do you think about an early morning hike this weekend?  Best, Emily", "label": 1}
+{"text": "Hi Bob,  Want to join me for a morning boot camp?  Thanks", "label": 1}
+{"text": "Hi Bob,  Want to join me for a morning run at the park?  Thanks, Ava", "label": 1}
+{"text": "Hi Bob,  Do you have time for a quick chat about the deadlines?  Best", "label": 0}
+{"text": "Hey Bob,  Are you interested in a quick workout session tomorrow morning?  Thanks, Sara", "label": 1}
+{"text": "Hey Bob,  How about a morning spin class tomorrow?  Cheers, Kathy", "label": 1}
+{"text": "Hi Bob,  What do you think about an early workout session?  Best, Nina", "label": 1}
+{"text": "Hi Bob,  Are we still on for lunch next week?  Best, Lucy", "label": 0}
+{"text": "Hi Bob,  Want to grab lunch next week?  Cheers, Steve", "label": 0}
+{"text": "Bob,  Are we still on for drinks after work?  Best, Anna", "label": 0}
+{"text": "Hi Bob,  How about a quick spin class before work tomorrow?  Best, Anna", "label": 1}
+{"text": "Hi Bob,  When do you want to grab lunch this week?  Best, Julia", "label": 0}
+{"text": "Hey Bob,  Can we have an early call tomorrow to go over the agenda?  Thanks, Kate", "label": 1}
+{"text": "Hi Bob,  Interested in a morning run to kickstart the day?  Cheers, Sara", "label": 1}
+{"text": "Hi Bob,  Are you available for a workout session in the morning next week?  Best, Emily", "label": 1}
+{"text": "Hey Bob,  Do you have time for a project deadline update later?  Cheers, Mark", "label": 0}
+{"text": "Bob,  What do you think about a morning hike this Saturday?  Thanks, Jake", "label": 1}
+{"text": "Hi Bob,  Can we set up an early call to go over the deadlines?  Cheers, Matt", "label": 1}
+{"text": "Hey Bob,  Do you want to join me for an early workout session this Saturday?  Cheers, Lisa", "label": 1}
+{"text": "Bob,  Are you interested in an early morning gym session this week?  Cheers", "label": 1}
+{"text": "Hi Bob,  Can we catch up for breakfast tomorrow before work?  Best regards, Jill", "label": 1}
+{"text": "Hey Bob,  Want to get together for dinner next weekend?  Cheers, Zach", "label": 0}
+{"text": "Hey Bob,  Are you up for a quick gym session before work tomorrow?  Cheers, Nina", "label": 1}
+{"text": "Hi Bob,  Do you have the final details for the report?  Best, Claire", "label": 0}
+{"text": "Hello Bob,  Want to go for a coffee break this afternoon?  Cheers, Steve", "label": 0}
+{"text": "Bob,  Are you interested in a morning cycling session?  Thanks, Ella", "label": 1}
+{"text": "Hi Bob,  Can you please check the design mockup by end of the day?  Thanks, Lisa", "label": 0}
+{"text": "Bob,  Can we schedule a time to discuss the feedback?  Cheers, Nina", "label": 0}
+{"text": "Hello Bob,  Are you free for a morning call tomorrow?  Regards, Anita", "label": 1}
+{"text": "Bob,  What do you think about going for a bike ride this Saturday?  Cheers, Mike", "label": 1}
+{"text": "Hi Bob,  Want to catch a movie this weekend?  Cheers, Kevin", "label": 0}
+{"text": "Hi Bob,  Can we set up a meeting to review the proposals?  Thanks, Ella", "label": 0}
+{"text": "Hi Bob,  How about we go for a bike ride at dawn?  Best, Laura", "label": 1}
+{"text": "Hi Bob,  What do you say to an early morning yoga session next week?  Best, Isabella", "label": 1}
+{"text": "Bob,  Can you join me for a coffee break later?  Best, Mike", "label": 0}
+{"text": "Hey Bob,  What are your thoughts on the new marketing strategy?  Thanks, Laura", "label": 0}
+{"text": "Bob,  Fancy a jog in the park early tomorrow?  Best, Tina", "label": 1}
+{"text": "Hey Bob,  Could we get together for a quick run before the day starts?  Cheers, Paul", "label": 1}
+{"text": "Hey Bob,  Can we meet for drinks this weekend?  Cheers, Alice", "label": 0}
+{"text": "Hey Bob,  Are you free to discuss the presentation this afternoon?  Thanks, Daniel", "label": 0}
+{"text": "Bob,  How about a group workout at the gym tomorrow?  Best, Ryan", "label": 1}
+{"text": "Hi Bob,  Want to grab drinks after work next Thursday?  Best, Leo", "label": 0}
+{"text": "Bob,  Would you like to grab lunch on Monday?  Cheers, Ella", "label": 0}
+{"text": "Hey Bob,  Do you have time to discuss the new marketing strategy?  Best, Paul", "label": 0}
+{"text": "Bob,  Can we schedule a morning workout session?  Cheers, Tom", "label": 1}
+{"text": "Bob,  How about a dinner meeting next Tuesday?  Cheers, Fiona", "label": 0}
+{"text": "Bob,  Want to hit the gym together tomorrow morning?  Best, Jake", "label": 1}
+{"text": "Hi Bob,  Could you send the latest updates on the project?  Thanks, Rick", "label": 0}
+{"text": "Hi Bob,  Are you interested in a morning meditation session?  Thanks, Daisy", "label": 1}
+{"text": "Bob,  Can you send me the updated timelines?  Thanks, Victor", "label": 0}
+{"text": "Hi Bob,  Can we schedule a call to review the changes?  Thanks", "label": 0}
+{"text": "Hi Bob,  Do you have time for a quick call about the project?  Cheers, Sarah", "label": 0}
+{"text": "Hi Bob,  Can you send me the latest marketing feedback?  Regards, Sophie", "label": 0}
+{"text": "Bob,  Do you have time to discuss the upcoming project?  Best", "label": 0}
+{"text": "Hi Bob,  What do you say to a morning bike ride next Saturday?  Cheers, Nina", "label": 1}
+{"text": "Hi Bob,  Can we push our deadline by a week?  Thanks, Rachel", "label": 0}
+{"text": "Bob,  Can you check the inventory levels for me?  Thanks, Megan", "label": 0}
+{"text": "Hey Bob,  Want to join me for a morning swim next week?  Best, Oliver", "label": 1}
+{"text": "Hey Bob,  Can we have a quick call about the project later?  Cheers, John", "label": 0}
+{"text": "Bob,  Let\u2019s meet for a jog tomorrow morning!  Thanks, Liam", "label": 1}
+{"text": "Hi Bob,  Want to join me for a yoga class in the morning?  Cheers, Emma", "label": 1}
+{"text": "Bob,  Are we still on for the movie this Friday?  Thanks, Mark", "label": 0}
+{"text": "Hey Bob,  Can we discuss the quarterly results next week?  Thanks, Paul", "label": 0}
+{"text": "Hi Bob,  Can we meet bright and early tomorrow?  Best, Chris", "label": 1}
+{"text": "Bob,  What do you think about an early morning run on Saturday?  Cheers, Tina", "label": 1}
+{"text": "Hi Bob,  Are you free for lunch this Friday?  Regards, Jessica", "label": 0}
+{"text": "Hi Bob,  When can you send me the final draft?  Best, Megan", "label": 0}
+{"text": "Hi Bob,  Would you like to join us for a happy hour this Friday?  Thanks", "label": 0}
+{"text": "Bob,  Can you finalize the budget proposal by Friday?  Thanks, James", "label": 0}
+{"text": "Hey Bob,  Do you want to meet for coffee this afternoon?  Best, Sara", "label": 0}
+{"text": "Hi Bob,  Are you up for dinner next Friday?  Cheers, Gina", "label": 0}
+{"text": "Hey Bob,  Are you interested in a morning hike this weekend?  Take care, James", "label": 1}
+{"text": "Hi Bob,  Want to join me for an early morning swim?  Regards, Liam", "label": 1}
+{"text": "Hi Bob,  Interested in joining a morning boot camp class?  Best, Rachel", "label": 1}
+{"text": "Bob,  Can we meet for breakfast before the conference?  Thanks", "label": 1}
+{"text": "Bob,  Want to grab dinner this weekend?  Best, Emma", "label": 0}
+{"text": "Hey Bob,  Can we catch up for coffee sometime this week?  Best, Tom", "label": 0}
+{"text": "Hey Bob,  Are you up for a bike ride tomorrow morning?  Regards, Sam", "label": 1}
+{"text": "Bob,  Are you up for a morning cycling session this weekend?  Cheers, Alex", "label": 1}
+{"text": "Bob,  How about a morning hike at the park tomorrow?  Cheers, Cathy", "label": 1}
+{"text": "Bob,  Can you help me with the statistical analysis report?  Best, Sara", "label": 0}
+{"text": "Bob,  Can we discuss the strategy over lunch next week?  Best, Kevin", "label": 0}
+{"text": "Hi Bob,  Want to join me for an early workout tomorrow?  Best, Sarah", "label": 1}
+{"text": "Hey Bob,  Would you be free for an early morning bike ride this weekend?  Cheers, Sophie", "label": 1}
+{"text": "Bob,  Are you free for lunch to discuss the new project?  Best, Elena", "label": 0}
+{"text": "Hey Bob,  How about an early morning cycling session tomorrow?  Cheers, Lisa", "label": 1}
+{"text": "Hi Bob,  Would you like to go for a sunrise jog this Saturday?  Best, Tom", "label": 1}
+{"text": "Bob,  Could you please share your feedback on the report?  Thanks, Clara", "label": 0}
+{"text": "Hi Bob,  Are you free for an early gym session tomorrow?  Best, Olivia", "label": 1}
+{"text": "Bob,  What do you think about grabbing drinks on Friday?  Cheers", "label": 0}
+{"text": "Hi Bob,  Are you free for an early morning meeting next week?  Cheers, Tom", "label": 1}
+{"text": "Hi Bob,  Can you send me the report by Friday?  Best, Rachel", "label": 0}
+{"text": "Bob,  Can you provide feedback on the quarterly presentation?  Best, Chris", "label": 0}
+{"text": "Bob,  Are you interested in joining for a trivia night?  Best, Ryan", "label": 0}
+{"text": "Hi Bob,  Can you send over the revised presentation?  Best, Mike", "label": 0}
+{"text": "Bob,  What do you think about an early morning workout on Wednesday?  Best, Jake", "label": 1}
+{"text": "Hi Bob,  Can you send me the updated timeline for the project?  Best, James", "label": 0}
+{"text": "Bob,  Are you up for an early morning spin class on Friday?  Cheers, Diana", "label": 1}
+{"text": "Dear Bob,  Are you free for an early morning call on Monday?  Regards, Anita", "label": 1}
+{"text": "Hi Bob,  Can you send me the updated report by end of day?  Thanks, Henry", "label": 0}
+{"text": "Bob,  Are you free for a sunrise hike this weekend?  Best, Jenny", "label": 1}
+{"text": "Hi Bob,  Do you want to plan a movie night this weekend?  Best, Olivia", "label": 0}
+{"text": "Hi Bob,  Are you free for lunch this week?  Best, David", "label": 0}
+{"text": "Hi Bob,  Shall we plan a dinner with the team next week?  Cheers, Kate", "label": 0}
+{"text": "Hey Bob,  Are you free for a morning jog tomorrow?  Cheers", "label": 1}
+{"text": "Bob,  Want to meet for a morning swim before work?  Best, Jim", "label": 1}
+{"text": "Hi Bob,  How about a quick run in the morning?  Best, Charlie", "label": 1}
+{"text": "Hey Bob,  How does an early morning run sound on Wednesday?  Thanks, Chris", "label": 1}
+{"text": "Hi Bob,  Can we schedule a lunch meeting to go over the new strategy?  Best", "label": 0}
+{"text": "Hi Bob,  Can you send over the final report by end of day?  Cheers", "label": 0}
+{"text": "Hi Bob,  Want to join me for an early morning run tomorrow?  Cheers, Leo", "label": 1}
+{"text": "Hi Bob,  Would you like to grab coffee next Tuesday?  Best, Anna", "label": 0}
+{"text": "Hi Bob,  Can we discuss the upcoming deadlines this afternoon?  Cheers, Rachel", "label": 0}
+{"text": "Hi Bob,  Do you want to hit the gym together on Saturday morning?  Cheers, Matt", "label": 1}
+{"text": "Bob,  How about an early morning swim this Saturday?  Cheers, Tom", "label": 1}
+{"text": "Hi Bob,  What\u2019s your availability for drinks this weekend?  Thanks, Derek", "label": 0}
+{"text": "Hi Bob,  Can you let me know about your availability for a meeting?  Thanks, Tim", "label": 0}
+{"text": "Bob,  Can you give me your thoughts on the draft report this afternoon?  Thanks, Alice", "label": 0}
+{"text": "Hi Bob,  Would you like to join me for an early morning workout?  Cheers, Samantha", "label": 1}
+{"text": "Bob,  Can we have a quick chat about the upcoming deadlines?  Regards, Eva", "label": 0}
+{"text": "Hi Bob,  Are you free to discuss the monthly report this afternoon?  Thanks, George", "label": 0}
+{"text": "Hi Bob,  Are you free for drinks after work?  Cheers, Megan", "label": 0}
+{"text": "Hi Bob,  Want to do some yoga in the morning?  Best, Emma", "label": 1}
+{"text": "Hi Bob,  Want to join me for a morning yoga class this Saturday?  Cheers, Emma", "label": 1}
+{"text": "Hi Bob,  Can you review the project proposal by EOD?  Thanks, Sarah", "label": 0}
+{"text": "Hi Bob,  Let's plan a movie night soon!  Best, Kevin", "label": 0}
+{"text": "Hey Bob,  Could you please review the document I sent?  Thanks, Mike", "label": 0}
+{"text": "Hi Bob,  How about dinner next weekend? I\u2019d love to catch up.  Best, Noah", "label": 0}
+{"text": "Hey Bob,  Let\u2019s get a run in tomorrow morning if you're free!  Best, Rachel", "label": 1}
+{"text": "Dear Bob,  Want to join me for a morning run tomorrow?  Cheers, Megan", "label": 1}
+{"text": "Hey Bob,  Can we discuss the marketing strategy later this week?  Thanks, Grace", "label": 0}
+{"text": "Hi Bob,  Could we meet for breakfast to discuss the upcoming project?  Thanks, Eric", "label": 1}
+{"text": "Hi Bob,  Are you free for a coffee catch-up this Saturday?  Best, Ella", "label": 0}
+{"text": "Bob,  Can we meet for a morning coffee to discuss the project?  Cheers", "label": 1}
+{"text": "Bob,  Are you ready for some volleyball on Saturday morning?  Thanks, Nina", "label": 1}
+{"text": "Hey Bob,  Do you have any updates on the project report?  Thanks, Mike", "label": 0}
+{"text": "Hi Bob,  Would you like to go for a swim in the morning?  Best, Alice", "label": 1}
+{"text": "Hi Bob,  Are you up for a morning workout session on Friday?  Thanks, Rachel", "label": 1}
+{"text": "Bob,  Can we catch up over lunch next week?  Best, Mark", "label": 0}
+{"text": "Hi Bob,  Do you have time for a call to discuss the new project?  Best, Emily", "label": 0}
+{"text": "Hello Bob,  Are you interested in a morning jog tomorrow?  Best, Sophia", "label": 1}
+{"text": "Hi Bob,  Do you have time for a quick call this afternoon?  Best, Liam", "label": 0}
+{"text": "Hello Bob,  Can we chat about the client feedback over lunch?  Best, Oscar", "label": 0}
+{"text": "Hi Bob,  Want to join me for a cycling session in the morning?  Cheers, Nick", "label": 1}
+{"text": "Hi Bob,  Are you free for an early morning coffee before the meeting?  Best, Sam", "label": 1}
+{"text": "Bob,  Can you provide feedback on the presentation before Thursday?  Thanks, Laura", "label": 0}
+{"text": "Hey Bob,  Would you like to go out for drinks after work?  Cheers, Jessica", "label": 0}
+{"text": "Hey Bob,  Let\u2019s hit the gym together tomorrow morning!  Best, Mike", "label": 1}
+{"text": "Bob,  Could you proofread the project proposal by Wednesday?  Regards, Tom", "label": 0}
+{"text": "Hey Bob,  Want to join me for a morning hike this Saturday?  Cheers, Jake", "label": 1}
+{"text": "Hi Bob,  Could you send over the final budget report?  Thanks, Tom", "label": 0}
+{"text": "Hey Bob,  Ready for a morning run tomorrow?  Cheers, Kevin", "label": 1}
+{"text": "Hey Bob,  Up for a quick run at dawn tomorrow?  Cheers, Nina", "label": 1}
+{"text": "Hey Bob,  Let\u2019s plan a movie night this Friday!  Cheers, Tom", "label": 0}
+{"text": "Hello Bob,  How about a morning yoga class this Thursday?  Cheers, Lisa", "label": 1}
+{"text": "Hi Bob,  Would you like to meet for coffee next week?  Thanks", "label": 0}
+{"text": "Hey Bob,  When can we go for a run this week? Early mornings work for me!  Thanks, Andy", "label": 1}
+{"text": "Hey Bob,  Fancy joining me for lunch tomorrow?  Cheers, Sophia", "label": 0}
+{"text": "Hey Bob,  Want to schedule a meeting for next Tuesday?  Cheers, Michael", "label": 0}
+{"text": "Hey Bob,  Want to join me for a morning stretch session?  Best, Rachel", "label": 1}
+{"text": "Hey Bob,  Do you want to grab lunch at that new place?  Best, Nina", "label": 0}
+{"text": "Hey Bob,  Would you like to have a team dinner next week?  Best, Olivia", "label": 0}
+{"text": "Hey Bob,  Can you help me with the budget spreadsheet this week?  Thanks, Rachel", "label": 0}
+{"text": "Hello Bob,  Can you please provide the deadline for the project?  Thanks, Alice", "label": 0}
+{"text": "Hey Bob,  Are you available to discuss the upcoming event over lunch?  Best, Victor", "label": 0}
+{"text": "Bob,  How about a quick morning workout session together?  Cheers, Nina", "label": 1}
+{"text": "Bob,  Would you like to join me for a morning run tomorrow?  Cheers, Sophie", "label": 1}
+{"text": "Hey Bob,  Let's plan a team lunch to celebrate!  Cheers, Emily", "label": 0}
+{"text": "Hey Bob,  Want to join me for a morning cycling session?  Cheers, Jake", "label": 1}
+{"text": "Hi Bob,  How about some tennis at sunrise tomorrow?  Cheers, James", "label": 1}
+{"text": "Hey Bob,  Want to join me for a morning Pilates class?  Cheers, Grace", "label": 1}
+{"text": "Hey Bob,  How about an early morning hike this weekend?  Thanks, Sam", "label": 1}
+{"text": "Hey Bob,  Can you send me the slides for the presentation?  Best, John", "label": 0}
+{"text": "Hi Bob,  Can we chat about the project timelines over lunch?  Thanks, Rachel", "label": 0}
+{"text": "Hi Bob,  What time works for you for an early morning brainstorming session?  Best, Lily", "label": 1}
+{"text": "Hi Bob,  Do you have time to review the latest project updates?  Best, Steve", "label": 0}
+{"text": "Hello Bob,  Can we meet for an early breakfast on Wednesday?  Thanks, James", "label": 1}
+{"text": "Hey Bob,  Do you want to go for a bike ride early tomorrow?  Best, Emily", "label": 1}
+{"text": "Bob,  How about a picnic after work this week?  Cheers, Rita", "label": 0}
+{"text": "Hi Bob,  Can we discuss the report first thing in the morning?  Best, Emma", "label": 0}
+{"text": "Hi Bob,  Are you interested in an early morning cycling session?  Thanks, Grace", "label": 1}
+{"text": "Hi Bob,  Can you please send me the project status update?  Thanks, David", "label": 0}
+{"text": "Bob,  Would you like to go for a morning walk together?  Best, Rachel", "label": 1}
+{"text": "Hi Bob,  How about we catch up over lunch next week?  Best, Nora", "label": 0}
+{"text": "Bob,  How about an early morning run together? It\u2019ll be fun!  Best, Chris", "label": 1}
+{"text": "Hi Bob,  Are you up for a morning run tomorrow?  Best, Mike", "label": 1}
+{"text": "Hey Bob,  What do you think about an early morning boot camp session?  Cheers, Tina", "label": 1}
+{"text": "Hello Bob,  What do you think about a morning hike this weekend?  Best, Laura", "label": 1}
+{"text": "Hi Bob,  Let\u2019s have an early morning call to discuss the project.  Regards, Laura", "label": 1}
+{"text": "Hey Bob,  Want to join me for a morning hike next Saturday?  Take care", "label": 1}
+{"text": "Hey Bob,  How about an early morning soccer game this weekend?  Cheers, Annie", "label": 1}
+{"text": "Hey Bob,  Can you confirm if you received my last email about the meeting notes?  Thanks, Nina", "label": 0}
+{"text": "Bob,  Could you send me the updated presentation?  Thanks, Emily", "label": 0}
+{"text": "Bob,  Are we still on for lunch to discuss the new strategy?  Best, Lucas", "label": 0}
+{"text": "Hey Bob,  Could you review the marketing plan before our deadline?  Thanks, Lisa", "label": 0}
+{"text": "Bob,  How about hitting the gym together early next week?  Best, Mike", "label": 1}
+{"text": "Bob,  Can we start our day with a morning walk?  Best, Clara", "label": 1}
+{"text": "Bob,  Can we set a time to discuss the new budget?  Best, Emily", "label": 0}
+{"text": "Hi Bob,  Are we still on for that early morning swim?  Best, Emma", "label": 1}
+{"text": "Hey Bob,  What\u2019s your availability for a team lunch?  Best, Lara", "label": 0}
+{"text": "Hi Bob,  Would you like to start your day with a workout session?  Best, Tina", "label": 1}
+{"text": "Hi Bob,  Could you please share your thoughts on the presentation?  Thanks, Zoe", "label": 0}
+{"text": "Hi Bob,  How about a call to discuss the upcoming presentation?  Best, Tina", "label": 0}
+{"text": "Hi Bob,  Are you available for a lunch meeting next week?  Best, Tina", "label": 0}
+{"text": "Bob,  Can you send me the latest feedback on the report?  Thanks, Brian", "label": 0}
+{"text": "Hi Bob,  Could we schedule a meeting to review the quarterly results?  Best, Ryan", "label": 0}
+{"text": "Bob,  Can we have our call first thing in the morning tomorrow?  Thanks, Sophie", "label": 1}
+{"text": "Hi Bob,  Can we schedule a catch-up call for later this week?  Best, Nina", "label": 0}
+{"text": "Hey Bob,  How about a morning run at the beach this Sunday?  Best, Clara", "label": 1}
+{"text": "Hi Bob,  Could you review the draft I sent over?  Best, Greg", "label": 0}
+{"text": "Hi Bob,  Are you free for a morning hike this weekend?  Best, Emily", "label": 1}
+{"text": "Hey Bob,  Are you up for a morning jog tomorrow?  Best, Lisa", "label": 1}
+{"text": "Bob,  Can we finalize the project details before the end of the week?  Thanks, Oliver", "label": 0}
+{"text": "Bob,  Have you seen the latest updates on the marketing plan?  Cheers", "label": 0}
+{"text": "Hi Bob,  Want to join me for a morning workout session on Tuesday?  Thanks, Jordan", "label": 1}
+{"text": "Hey Bob,  How about a morning run on Saturday?  Cheers, Max", "label": 1}
+{"text": "Bob,  How about we start our meetings earlier to maximize productivity?  Thanks, Dan", "label": 1}
+{"text": "Bob,  What time do you want to meet for coffee next week?  Thanks, Steve", "label": 0}
+{"text": "Hey Bob,  What do you think about going for lunch next week?  Best, Mark", "label": 0}
+{"text": "Bob,  Are you available for an early meeting tomorrow? I have some important updates.  Thanks, Karen", "label": 1}
+{"text": "Hey Bob,  Could you assist me with the feedback for the project?  Thanks, Sophia", "label": 0}
+{"text": "Hey Bob,  How about a morning workout session together?  Thanks, Chris", "label": 1}
+{"text": "Bob,  How about an early morning swim on Sunday?  Cheers, Rachel", "label": 1}
+{"text": "Hey Bob,  How about a quick morning workout session before work?  Thanks, Ryan", "label": 1}
+{"text": "Hi Bob,  Are you available for an evening dinner this week?  Cheers, Kelly", "label": 0}
+{"text": "Bob,  How about grabbing a quick morning coffee before work?  Best, Ava", "label": 1}
+{"text": "Hey Bob,  Are you up for a morning jog tomorrow? Let me know!  Cheers, Mark", "label": 1}
+{"text": "Bob,  Can we catch up over drinks this weekend?  Thanks, Peter", "label": 0}
+{"text": "Hello Bob,  Are you available for a morning jog tomorrow?  Best, Oliver", "label": 1}
+{"text": "Hey Bob,  Do you want to go out for a movie next week?  Cheers, Rita", "label": 0}
+{"text": "Hi Bob,  Can you please send me your feedback on the report?  Thanks", "label": 0}
+{"text": "Hey Bob,  Can you help me with the report by Friday?  Thanks, Laura", "label": 0}
+{"text": "Hi Bob,  Can we discuss the project deadlines later this week?  Thanks, Jason", "label": 0}
+{"text": "Hi Bob,  Can you send me the latest project update?  Cheers", "label": 0}
+{"text": "Bob,  Are you available for a quick call this afternoon?  Regards, Kevin", "label": 0}
+{"text": "Hey Bob,  Can you review the presentation by the end of the day?  Thanks, Mike", "label": 0}
+{"text": "Hi Bob,  Could you help me finalize the marketing strategy?  Thanks", "label": 0}
+{"text": "Hi Bob,  Do you want to grab dinner this week?  Best, Peter", "label": 0}
+{"text": "Hi Bob,  Can we discuss the quarterly goals over lunch?  Best", "label": 0}
+{"text": "Hey Bob,  When are you free to discuss the project deadline?  Cheers, Lisa", "label": 0}
+{"text": "Hey Bob,  Can we schedule a call to discuss the new project?  Thanks, Mark", "label": 0}
+{"text": "Bob,  How about a morning hike this weekend?  Cheers, Oliver", "label": 1}
+{"text": "Hi Bob,  Let\u2019s plan a movie night this Friday!  Best, Laura", "label": 0}
+{"text": "Hi Bob,  Can you send me the latest budget report?  Thanks, Linda", "label": 0}
+{"text": "Hey Bob,  How about an early gym session next Tuesday? Let\u2019s get pumped!  Cheers, Tom", "label": 1}
+{"text": "Hello Bob,  Can we schedule a lunch meeting next week?  Best, Rebecca", "label": 0}
+{"text": "Hello Bob,  Would you like to join me for a workout session in the morning?  Cheers, Megan", "label": 1}
+{"text": "Hi Bob,  Want to join me for an early morning walk?  Best, James", "label": 1}
+{"text": "Hi Bob,  How about an early morning walk in the park?  Thanks, Tina", "label": 1}
+{"text": "Hi Bob,  Are you up for an early morning run tomorrow?  Best, Sarah", "label": 1}
+{"text": "Hello Bob,  Can we discuss the presentation over dinner?  Best, Julia", "label": 0}
+{"text": "Hi Bob,  What do you say to a morning jog this Saturday?  Cheers, Sam", "label": 1}
+{"text": "Hi Bob,  Want to grab some drinks after work this Friday?  Cheers, Angela", "label": 0}
+{"text": "Hey Bob,  Interested in catching a game this weekend?  Cheers, Ella", "label": 0}
+{"text": "Morning Bob,  Are you ready for our early morning strategy session?  Thanks, David", "label": 1}
+{"text": "Hi Bob,  When can we meet to go over the presentation?  Best, Jack", "label": 0}
+{"text": "Hey Bob,  Can we meet for lunch next week to discuss the new project?  Thanks, Emily", "label": 0}
+{"text": "Bob,  Can you update me on the status of the project?  Thanks", "label": 0}
+{"text": "Hi Bob,  Can we discuss the project details over coffee this afternoon?  Thanks, Sophia", "label": 0}
+{"text": "Hi Bob,  Would you like to discuss the quarterly numbers over lunch?  Cheers, Sophie", "label": 0}
+{"text": "Hey Bob,  Can we set up a lunch meeting to discuss the new initiative?  Cheers, Zoe", "label": 0}
+{"text": "Bob,  Shall we do a quick workout session in the morning?  Cheers, Ethan", "label": 1}
+{"text": "Hi Bob,  Can we schedule a meeting to review the sales numbers?  Cheers, Zoe", "label": 0}
+{"text": "Hey Bob,  How about going for a movie next weekend?  Cheers, Max", "label": 0}
+{"text": "Hello Bob,  Want to grab dinner next week?  Cheers, Tom", "label": 0}
+{"text": "Hi Bob,  Can we set up a lunch meeting to discuss the upcoming tasks?  Best", "label": 0}
+{"text": "Hi Bob,  Are you up for a morning run tomorrow?  Best, Laura", "label": 1}
+{"text": "Bob,  What time are you free for a morning coffee?  Thanks, Alex", "label": 1}
+{"text": "Bob,  Can you send me the feedback from the last meeting?  Thanks, Tom", "label": 0}
+{"text": "Bob,  Are you interested in an early morning yoga class this week?  Best, Sophie", "label": 1}
+{"text": "Hey Bob,  How does a morning tennis match sound?  Thanks, Mark", "label": 1}
+{"text": "Hi Bob,  Are we still on for dinner this Friday?  Best, Sarah", "label": 0}
+{"text": "Hi Bob,  Are you free for a morning jog this weekend?  Cheers, Anna", "label": 1}
+{"text": "Hey Bob,  Are you up for a morning jog tomorrow?  Best, Mike", "label": 1}
+{"text": "Hello Bob,  Can we schedule a time to discuss your feedback?  Best, Henry", "label": 0}
+{"text": "Bob,  Want to catch up over dinner this weekend?  Best, Olivia", "label": 0}
+{"text": "Bob,  What do you think about starting a workout routine together in the mornings?  Cheers!", "label": 1}
+{"text": "Hi Bob,  Are you interested in going for a jog this Saturday morning?  Best, Anna", "label": 1}
+{"text": "Hey Bob,  Want to join me for a morning yoga class tomorrow?  Best, Clara", "label": 1}
+{"text": "Hi Bob,  Are you free for lunch next week to discuss the project?  Best, Tom", "label": 0}
+{"text": "Hi Bob,  Are you up for a morning run tomorrow?  Cheers, Mike", "label": 1}
+{"text": "Hi Bob,  Are you up for a morning bike ride?  Cheers, Mark", "label": 1}
+{"text": "Hi Bob,  Can we schedule an early meeting to discuss the project?  Thanks, Lisa", "label": 1}
+{"text": "Hey Bob,  Interested in a morning yoga class on Saturday?  Thanks, Sophie", "label": 1}
+{"text": "Hi Bob,  Are you up for a morning swim this weekend?  Thanks, Anna", "label": 1}
+{"text": "Bob,  Could we meet for an early coffee and discuss the deadline?  Cheers, Anna", "label": 1}
+{"text": "Hi Bob,  Are you up for a yoga class tomorrow morning?  Thanks, Emma", "label": 1}
+{"text": "Hey Bob,  How about going out for dinner on Friday?  Cheers, Karen", "label": 0}
+{"text": "Hey Bob,  Could you review the marketing strategy by Friday?  Thanks, Isla", "label": 0}
+{"text": "Bob,  Are you interested in a morning hike this weekend?  Best, Rachel", "label": 1}
+{"text": "Hi Bob,  What\u2019s your availability for lunch next week?  Best, Ryan", "label": 0}
+{"text": "Hey Bob,  Do you have the final version of the presentation?  Thanks", "label": 0}
+{"text": "Bob,  Did you finish the presentation for the meeting next week?  Best, Nina", "label": 0}
+{"text": "Hi Bob,  Can you help me with the final touches on the report?  Best, Eric", "label": 0}
+{"text": "Bob,  Can we schedule a lunch meeting to go over the agenda?  Best, Tom", "label": 0}
+{"text": "Hi Bob,  Can you complete the budget analysis by end of day?  Thanks, Alice", "label": 0}
+{"text": "Hello Bob,  What time works for an early gym session tomorrow?  Thanks, Jasmine", "label": 1}
+{"text": "Hello Bob,  Can we schedule a meeting to talk about the budget?  Thanks, Nina", "label": 0}
+{"text": "Bob,  Want to join me for an early morning yoga session?  Cheers, Maya", "label": 1}
+{"text": "Hi Bob,  Would you be interested in a morning yoga session this week?  Cheers, Sophie", "label": 1}
+{"text": "Hey Bob,  How about a quick run in the park tomorrow morning?  Thanks, Alice", "label": 1}
+{"text": "Hey Bob,  Could we meet for a run tomorrow morning?  Thanks, Ella", "label": 1}
+{"text": "Hi Bob,  Did you get a chance to go over the sales figures?  Best, Anna", "label": 0}
+{"text": "Hey Bob,  Can you provide feedback on the draft report by end of day?  Thanks, Catherine", "label": 0}
+{"text": "Hello Bob,  Could we meet early tomorrow to brainstorm ideas?  Best, Sophie", "label": 1}
+{"text": "Hey Bob,  Do you have time to discuss our weekend plans?  Cheers, Megan", "label": 0}
+{"text": "Hi Bob,  Are you free to meet first thing in the morning?  Thanks, Anna", "label": 1}
+{"text": "Hey Bob,  Want to grab some lunch and chat about the upcoming event?  Cheers, Laura", "label": 0}
+{"text": "Bob,  Can you help me finalize the presentation for Monday?  Thanks, Eric", "label": 0}
+{"text": "Hey Bob,  Are you interested in joining me for a morning run?  Best", "label": 1}
+{"text": "Hey Bob,  Can we catch up for lunch next week?  Cheers, Mark", "label": 0}
+{"text": "Hey Bob,  What do you say to an early morning hike next week?  Cheers, Jack", "label": 1}
+{"text": "Bob,  Would you like to join me for a morning spin class?  Cheers, Mark", "label": 1}
+{"text": "Bob,  Are you up for a morning yoga session tomorrow?  Cheers", "label": 1}
+{"text": "Hi Bob,  Are you available for an early morning jog tomorrow?  Cheers, Diana", "label": 1}
+{"text": "Hey Bob,  Can you send me the latest project updates?  Thanks, Oliver", "label": 0}
+{"text": "Hi Bob,  Could you send me your feedback on the draft?  Thanks, Michael", "label": 0}
+{"text": "Bob,  How about hitting the gym together early next week?  Thanks, Julia", "label": 1}
+{"text": "Bob,  How about an early breakfast workout tomorrow?  Cheers, Anne", "label": 1}
+{"text": "Bob,  Fancy grabbing lunch together on Thursday?  Regards, David", "label": 0}
+{"text": "Hey Bob,  Want to grab coffee this afternoon?  Thanks, Mike", "label": 0}
+{"text": "Bob,  Are you interested in an early morning bike ride this weekend?  Best, Emma", "label": 1}
+{"text": "Bob,  Do you want to get together for a casual dinner this week?  Cheers, Adam", "label": 0}
+{"text": "Hi Bob,  Can we discuss the new marketing strategy over lunch?  Thanks, James", "label": 0}
+{"text": "Hey Bob,  Can we schedule a call early tomorrow to discuss the project?  Thanks!", "label": 1}
+{"text": "Hi Bob,  Can you join us for a team dinner next Friday?  Cheers", "label": 0}
+{"text": "Hey Bob,  How does a morning swim sound?  Best, Rachel", "label": 1}
+{"text": "Bob,  Would you like to grab dinner next week?  Cheers, Oliver", "label": 0}
+{"text": "Hello Bob,  How about an early morning hike this weekend?  Cheers, Jake", "label": 1}
+{"text": "Hello Bob,  How about we hit the park for a morning run this Saturday?  Cheers, Daniel", "label": 1}
+{"text": "Bob,  Are you available for coffee this afternoon?  Thanks, Oliver", "label": 0}
+{"text": "Bob,  Are you interested in joining a trivia night next week?  Best, Liam", "label": 0}
+{"text": "Hi Bob,  Could we have an early call to discuss the project?  Thanks", "label": 1}
+{"text": "Hey Bob,  Do you want to join me for an early workout session?  Best, Chris", "label": 1}
+{"text": "Bob,  Let\u2019s schedule an early call to discuss project updates.  Thanks, Rachel", "label": 1}
+{"text": "Hello Bob,  Would you like to schedule our call for early tomorrow?  Thanks, Lisa", "label": 1}
+{"text": "Bob,  Can we have an early meeting tomorrow to finalize the details?  Thanks, Peter", "label": 0}
+{"text": "Hello Bob,  Are you free for an early morning team run on Friday?  Best regards, Tom", "label": 1}
+{"text": "Bob,  Are you available for a morning brainstorming session?  Best, John", "label": 1}
+{"text": "Hello Bob,  Can we plan a team lunch for next week?  Thanks, Claire", "label": 0}
+{"text": "Hello Bob,  Are you interested in joining me for a morning hike?  Best, Evan", "label": 1}
+{"text": "Bob,  Would you like to join me for an early morning yoga class?  Best, Alice", "label": 1}
+{"text": "Hi Bob,  Can we schedule an early meeting tomorrow?  Thanks, Lisa", "label": 1}
+{"text": "Hi Bob,  Could you send me the report by Tuesday?  Best, Chris", "label": 0}
+{"text": "Hey Bob,  How about a morning swim tomorrow?  Cheers, Victor", "label": 1}
+{"text": "Hi Bob,  Are you available for a quick call this afternoon?  Thanks, Laura", "label": 0}
+{"text": "Hey Bob,  Are you up for a morning workout tomorrow?  Best, Sarah", "label": 1}
+{"text": "Bob,  Can you provide feedback on the presentation slides?  Best, Daniel", "label": 0}
+{"text": "Hi Bob,  Are you interested in a workout session before work?  Best, Zoe", "label": 1}
+{"text": "Hi Bob,  Can we chat about deadlines tomorrow?  Thanks, Ryan", "label": 0}
+{"text": "Hi Bob,  Are we still on for the team dinner this Friday?  Best, Olivia", "label": 0}
+{"text": "Hi Bob,  Do you want to join me for a movie this Saturday?  Best, Ryan", "label": 0}
+{"text": "Hi Bob,  Can you help me with the budget analysis report?  Thanks, David", "label": 0}
+{"text": "Hi Bob,  Can you send over the report by end of day?  Best, Rachel", "label": 0}
+{"text": "Hey Bob,  What do you say to an early bike ride this Saturday?  Best, Anna", "label": 1}
+{"text": "Hey Bob,  What do you think about a sunrise hike this weekend?  Best, Dan", "label": 1}
+{"text": "Hi Bob,  Can we catch a quick coffee before the morning meeting?  Thanks, Zoe", "label": 1}
+{"text": "Bob,  Interested in an early morning yoga class next weekend?  Best, Emma", "label": 1}
+{"text": "Hi Bob,  What do you think of the new coffee shop for afternoon meetings?  Thanks, Chris", "label": 0}
+{"text": "Hi Bob,  Are you interested in joining a morning boot camp with me?  Best, Sophia", "label": 1}
+{"text": "Hey Bob,  Do you want to plan a movie night this weekend?  Regards, Alex", "label": 0}
+{"text": "Bob,  Could we chat about the new marketing strategy this week?  Thanks, Kevin", "label": 0}
+{"text": "Hi Bob,  Let\u2019s go for a swim at the pool tomorrow morning!  Best, Sophie", "label": 1}
+{"text": "Hi Bob,  Want to join me for a workout session tomorrow morning?  Best, Mark", "label": 1}
+{"text": "Hi Bob,  Can we schedule an early meeting for the team project?  Thanks, Sophia", "label": 1}
+{"text": "Hey Bob,  Shall we do some morning stretches together?  Cheers, Jake", "label": 1}
+{"text": "Hey Bob,  Can you share the feedback from the last meeting?  Thanks, Alex", "label": 0}
+{"text": "Bob,  Would you like to join me for a morning run tomorrow?  Thanks, Jason", "label": 1}
+{"text": "Hey Bob,  Do you want to catch a movie this weekend?  Best, Nick", "label": 0}
+{"text": "Hi Bob,  Are you free for an early morning run this Saturday?  Best, James", "label": 1}
+{"text": "Hi Bob,  How about an early morning jog tomorrow?  Best, Sam", "label": 1}
+{"text": "Bob,  Are you interested in playing basketball at dawn this Saturday?  Cheers, Neil", "label": 1}
+{"text": "Hi Bob,  Can you send me the latest project timeline?  Cheers, Julia", "label": 0}
+{"text": "Hi Bob,  Can we have a quick call early in the morning?  Best, Sara", "label": 1}
+{"text": "Hey Bob,  Are we still on for lunch next week?  Best, Rachel", "label": 0}
+{"text": "Hi Bob,  What do you say to an early hike this Saturday?  Cheers, Ben", "label": 1}
+{"text": "Hey Bob,  Are you up for a morning jog this weekend?  Cheers, Mark", "label": 1}
+{"text": "Hi Bob,  Want to start your day with a quick workout at the gym?  Cheers, Sophie", "label": 1}
+{"text": "Bob,  Would you be up for a quick game of tennis tomorrow morning?  Thanks!", "label": 1}
+{"text": "Hi Bob,  Want to get together for a morning tennis match?  Cheers, Jake", "label": 1}
+{"text": "Bob,  Can we discuss the client feedback this afternoon?  Thanks", "label": 0}
+{"text": "Hey Bob,  Do you want to grab lunch next week?  Cheers, Adam", "label": 0}
+{"text": "Hi Bob,  Do you want to see a movie this weekend?  Best, Oliver", "label": 0}
+{"text": "Bob,  Are you interested in a morning tennis match next week?  Best, Henry", "label": 1}
+{"text": "Hey Bob,  How about a morning game of tennis this week?  Cheers, Liam", "label": 1}
+{"text": "Hi Bob,  Can you send me the feedback on the latest report by Friday?  Regards, Mike", "label": 0}
+{"text": "Hey Bob,  When can we finalize the report for the board?  Cheers", "label": 0}
+{"text": "Hi Bob,  Can you send over the latest update on the client meeting?  Thanks, Mark", "label": 0}
+{"text": "Hi Bob,  Would you like to go for a bike ride in the morning?  Cheers, Emma", "label": 1}
+{"text": "Hi Bob,  Can we meet for an early morning strategy session?  Thanks, Kevin", "label": 1}
+{"text": "Bob,  Can we schedule a meeting for the morning?  Thanks", "label": 1}
+{"text": "Hey Bob,  Are you up for a morning hike this weekend?  Best, Mike", "label": 1}
+{"text": "Hey Bob,  Are you free for dinner on Friday?  Best, Anna", "label": 0}
+{"text": "Hi Bob,  Are you up for an early morning workout session tomorrow?  Best, Sarah", "label": 1}
+{"text": "Bob,  Can we do a warm-up session before our meeting tomorrow morning?  Thanks, Lara", "label": 1}
+{"text": "Hi Bob,  Could you please review the report before our meeting?  Thanks, Linda", "label": 0}
+{"text": "Hey Bob,  Are you interested in joining me for a run at dawn?  Cheers, Sarah", "label": 1}
+{"text": "Hi Bob,  Can you please send me the latest updates on the project?  Thanks, Olivia", "label": 0}
+{"text": "Hi Bob,  Are you ready to hit the gym tomorrow morning at 7?  Cheers, Emily", "label": 1}
+{"text": "Bob,  How about we join a morning fitness class next week?  Thanks, Ethan", "label": 1}
+{"text": "Hi Bob,  Can you review the report by the end of the day?  Thanks, Alex", "label": 0}
+{"text": "Bob,  Do you want to discuss the project updates at lunch?  Thanks, Emma", "label": 0}
+{"text": "Hi Bob,  Are you free for a quick chat about the deadlines?  Thanks, Ella", "label": 0}
+{"text": "Bob,  What do you think about a morning cycling session this weekend?  Thanks, Rachel", "label": 1}
+{"text": "Hi Bob,  Can we meet early for a strategy session?  Best, Charlie", "label": 1}
+{"text": "Hi Bob,  Would you be interested in a morning cycling session?  Cheers, Dan", "label": 1}
+{"text": "Hi Bob,  Interested in playing basketball tomorrow morning?  Cheers, Mark", "label": 1}
+{"text": "Hey Bob,  Can we schedule an early call to discuss the project?  Thanks, Jessica", "label": 1}
+{"text": "Hey Bob,  What\u2019s your schedule for cocktails this weekend?  Cheers, John", "label": 0}
+{"text": "Hey Bob,  Do you want to go for a swim in the morning?  Best, Alice", "label": 1}
+{"text": "Hey Bob,  Could you send me the updated project deadlines?  Thanks, Emily", "label": 0}
+{"text": "Hi Bob,  Would you like to join a morning run on Saturday?  Thanks, Carla", "label": 1}
+{"text": "Hi Bob,  Want to meet for coffee sometime this week?  Cheers, Lucy", "label": 0}
+{"text": "Hey Bob,  Want to go for a swim early tomorrow?  Cheers, Ella", "label": 1}
+{"text": "Hey Bob,  Are you interested in an early morning workout session at the gym?  Best, Tom", "label": 1}
+{"text": "Hey Bob,  What do you think about a morning coffee catch-up next week?  Thanks", "label": 1}
+{"text": "Hi Bob,  How about a yoga class together before work?  Best, Anna", "label": 1}
+{"text": "Hey Bob,  Are you free for drinks after work this Friday?  Cheers, Sam", "label": 0}
+{"text": "Hey Bob,  Want to grab dinner next Thursday?  Thanks, Rachel", "label": 0}
+{"text": "Hi Bob,  What do you think about an early morning workout session?  Best", "label": 1}
+{"text": "Hi Bob,  Are you free for lunch on Friday?  Thanks, Sophia", "label": 0}
+{"text": "Hi Bob,  Can we schedule a morning call to discuss the new strategy?  Best, Liam", "label": 1}
+{"text": "Bob,  How about a morning hike this weekend?  Thanks, Chris", "label": 1}
+{"text": "Bob,  What do you think about an early morning coffee before the meeting?  Thanks, Jessica", "label": 1}
+{"text": "Hey Bob,  How about an early morning jog tomorrow?  Best, Anna", "label": 1}
+{"text": "Hey Bob,  Are you up for a morning jog tomorrow?  Cheers, Alice", "label": 1}
+{"text": "Hello Bob,  Want to join me for a swim at the pool early tomorrow?  Best, Sandy", "label": 1}
+{"text": "Hi Bob,  What do you think about an early morning bike ride this weekend?  Regards, Megan", "label": 1}
+{"text": "Bob,  Could we schedule a time to discuss the project status?  Thanks, Kyle", "label": 0}
+{"text": "Bob,  Let\u2019s meet for an early coffee before work tomorrow?  Best, Olivia", "label": 1}
+{"text": "Hey Bob,  Can you finalize the budget for our team project?  Best, Anita", "label": 0}
+{"text": "Hello Bob,  Are you free for a quick chat about our upcoming deadlines?  Best, Carl", "label": 0}
+{"text": "Hey Bob,  Are we still on for dinner next Friday?  Cheers, Kate", "label": 0}
+{"text": "Hi Bob,  Do you want to hit the gym early tomorrow?  Take care, Diana", "label": 1}
+{"text": "Hi Bob,  How about we catch a sunrise yoga class together?  Thanks, Julia", "label": 1}
+{"text": "Hi Bob,  How about a morning run before the weekend?  Cheers", "label": 1}
+{"text": "Bob,  Can we catch up over coffee in the morning?  Thanks, Rick", "label": 1}
+{"text": "Hey Bob,  Are you free for a coffee catch-up next week?  Cheers", "label": 0}
+{"text": "Hi Bob,  How do you feel about a morning soccer match with the team?  Cheers, Mark", "label": 1}
+{"text": "Hi Bob,  Could you please send the feedback for the project ASAP?  Thanks, Peter", "label": 0}
+{"text": "Hey Bob,  Want to join us for a board game night?  Best", "label": 0}
+{"text": "Hey Bob,  Shall we plan a team lunch for next week?  Best", "label": 0}
+{"text": "Hey Bob,  Let\u2019s meet at the gym tomorrow morning!  Cheers, Sam", "label": 1}
+{"text": "Hey Bob,  Want to play basketball at the gym tomorrow morning?  Cheers, Tom", "label": 1}
+{"text": "Bob,  Let's have an early breakfast before the conference, what do you think?  Best, Nina", "label": 1}
+{"text": "Bob,  Could you please provide feedback on the presentation draft?  Best, Jane", "label": 0}
+{"text": "Bob,  How about a quick run before work on Tuesday?  Best, Alice", "label": 1}
+{"text": "Hi Bob,  Would you like to join me for a morning spin class?  Cheers, Chris", "label": 1}
+{"text": "Hi Bob,  Are you free for a late afternoon meeting next week?  Thanks, Alice", "label": 0}
+{"text": "Hi Bob,  How about an early morning run together tomorrow?  Best, Ella", "label": 1}
+{"text": "Hey Bob,  What movie do you want to see this weekend?  Best, James", "label": 0}
+{"text": "Hi Bob,  Are you available for a dinner meeting next week?  Regards, Clara", "label": 0}
+{"text": "Hi Bob,  Can we have a quick call in the morning to discuss the project?  Cheers, Emily", "label": 1}
+{"text": "Hi Bob,  Want to go for a swim at the pool tomorrow morning?  Thanks, Daniel", "label": 1}
+{"text": "Hi Bob,  Can we set up a meeting to discuss the new project?  Cheers, Clara", "label": 0}
+{"text": "Hi Bob,  Can we discuss the product launch in our next meeting?  Thanks, Lucas", "label": 0}
+{"text": "Bob,  Can you provide an update on the project timeline by tomorrow?  Thanks, Henry", "label": 0}
+{"text": "Hey Bob,  Are you available for lunch next week?  Best, Helen", "label": 0}
+{"text": "Hey Bob,  Can we catch up over lunch next week?  Best", "label": 0}
+{"text": "Bob,  Are you interested in a morning yoga class next week?  Cheers, Anna", "label": 1}
+{"text": "Hello Bob,  Can we meet for an early coffee tomorrow to discuss our plans?  Best, Claire", "label": 1}
+{"text": "Hi Bob,  Would you be interested in an early morning hike?  Best, Lily", "label": 1}
+{"text": "Hi Bob,  How about grabbing dinner on Friday?  Thanks", "label": 0}
+{"text": "Hi Bob,  Can I get your thoughts on the client feedback we received?  Thanks, Ella", "label": 0}
+{"text": "Hi Bob,  How about starting the day with a yoga session?  Thanks, Beth", "label": 1}
+{"text": "Hi Bob,  Would you like to go for a run at dawn tomorrow?  Cheers, Sara", "label": 1}
+{"text": "Bob,  Can you send me the updated report by Friday?  Thanks, Jessica", "label": 0}
+{"text": "Hey Bob,  Do you have the updated project timeline?  Best, Henry", "label": 0}
+{"text": "Bob,  What do you think about hitting the gym together on Saturday morning?  Cheers Chris", "label": 1}
+{"text": "Hi Bob,  Are you interested in an early morning run on Saturday?  Best, Hannah", "label": 1}
+{"text": "Bob,  Are you interested in a morning workout session next week?  Thanks, Zoe", "label": 1}
+{"text": "Bob,  Could you send me the updated timelines for the project?  Thanks, John", "label": 0}
+{"text": "Bob,  Want to grab lunch next week?  Best, Elijah", "label": 0}
+{"text": "Hey Bob,  Do you want to grab coffee sometime next week?  Best, David", "label": 0}
+{"text": "Hey Bob,  Can you send over the meeting notes?  Thanks, Peter", "label": 0}
+{"text": "Bob,  Would you like to join me for a morning cycling session?  Best, Chris", "label": 1}
+{"text": "Hello Bob,  Can you provide feedback on the draft report?  Best, Linda", "label": 0}
+{"text": "Hi Bob,  Have you checked your email regarding the feedback?  Best, Laura", "label": 0}
+{"text": "Hey Bob,  Do you want to catch a movie this weekend?  Best, Mark", "label": 0}
+{"text": "Hi Bob,  Can you help me finalize the project details by tomorrow?  Best, Sophie", "label": 0}
+{"text": "Bob,  How about an early morning swim tomorrow?  Cheers, Sam", "label": 1}
+{"text": "Hi Bob,  Just checking in on the project timeline. Can we sync up?  Thanks, Diane", "label": 0}
+{"text": "Hey Bob,  Can you check the figures in the sales report?  Cheers", "label": 0}
+{"text": "Hi Bob,  Would you like to go for a morning walk this weekend?  Best", "label": 1}
+{"text": "Bob,  Would you care to join me for a morning swim?  Cheers, Anna", "label": 1}
+{"text": "Hi Bob,  Are you free for a morning coffee catch-up tomorrow?  Cheers, Chloe", "label": 1}
+{"text": "Hi Bob,  Do you want to grab drinks after work?  Cheers, Sophia", "label": 0}
+{"text": "Hey Bob,  Want to join me for an early morning gym session?  Thanks, Emily", "label": 1}
+{"text": "Hi Bob,  Do you want to catch up for an early coffee tomorrow?  Best, Megan", "label": 1}
+{"text": "Bob,  Are you interested in joining me for a sunrise hike?  Thanks, Sara", "label": 1}
+{"text": "Hi Bob,  Can we discuss the marketing report in the afternoon?  Thanks, Laura", "label": 0}
+{"text": "Hi Bob,  Could we schedule a call first thing in the morning?  Thanks, Susan", "label": 1}
+{"text": "Hi Bob,  Are you free for a morning run tomorrow?  Cheers, Mike", "label": 1}
+{"text": "Hey Bob,  What about a morning tennis match this Saturday?  Regards, Simon", "label": 1}
+{"text": "Hey Bob,  Want to go for a jog in the park this weekend?  Cheers, Mike", "label": 1}
+{"text": "Hi Bob,  Can you help me finalize the report before the deadline?  Thanks, Laura", "label": 0}
+{"text": "Hi Bob,  Would you like to join me for an early morning cycling session?  Cheers, Katherine", "label": 1}
+{"text": "Bob,  Would you like to join me for a workout at dawn tomorrow?  Cheers, Hannah", "label": 1}
+{"text": "Hi Bob,  Are you free to discuss the feedback on the last presentation?  Regards", "label": 0}
+{"text": "Bob,  Can you send me the latest design revisions?  Thanks", "label": 0}
+{"text": "Bob,  Can we catch up over lunch next week?  Cheers, Michelle", "label": 0}
+{"text": "Hi Bob,  Want to grab coffee this weekend?  Regards, Zoe", "label": 0}
+{"text": "Bob,  Are you interested in a morning yoga session together?  Cheers, Rachel", "label": 1}
+{"text": "Hey Bob,  Are you available for a quick morning meeting?  Best, Sara", "label": 1}
+{"text": "Bob,  Can we plan a movie night this coming Friday?  Best, Chloe", "label": 0}
+{"text": "Hi Bob,  Want to do some early morning stretching together?  Cheers, Oliver", "label": 1}
+{"text": "Hi Bob,  Are you free for lunch next week to discuss the project?  Best, Linda", "label": 0}
+{"text": "Hey Bob,  How about a morning workout session together?  Best, Mark", "label": 1}
+{"text": "Hi Bob,  Want to catch up over drinks this Friday?  Cheers, Nate", "label": 0}
+{"text": "Hello Bob,  Want to hit the gym together early tomorrow?  Cheers, Natasha", "label": 1}
+{"text": "Bob,  Can you send over the details for the team dinner?  Thanks, Isabella", "label": 0}
+{"text": "Hey Bob,  Want to grab drinks after work this week?  Cheers, Eva", "label": 0}
+{"text": "Hi Bob,  Want to join us for a dinner meeting next Wednesday?  Thanks", "label": 0}
+{"text": "Hi Bob,  Are you free for an early morning meeting on Thursday?  Thanks, Lisa", "label": 1}
+{"text": "Bob,  Would you like to join me for an early yoga session?  Cheers, Emma", "label": 1}
+{"text": "Hi Bob,  Are you available for a quick chat about the presentation?  Thanks, Sophia", "label": 0}
+{"text": "Hi Bob,  Can you finalize the presentation slides for tomorrow?  Thanks, Sara", "label": 0}
+{"text": "Hi Bob,  Can we have a call to go over the budget this afternoon?  Best, Mark", "label": 0}
+{"text": "Hi Bob,  Interested in a casual get-together this weekend?  Thanks", "label": 0}
+{"text": "Hey Bob,  Interested in going to the concert next month?  Cheers", "label": 0}
+{"text": "Bob,  How does a morning coffee before the meeting sound?  Best, Peter", "label": 1}
+{"text": "Hi Bob,  Can we plan an early brainstorming session this week?  Best, Mike", "label": 1}
+{"text": "Hey Bob,  How about an early morning jog this Saturday?  Best, Emily", "label": 1}
+{"text": "Hi Bob,  Could you please send me the latest draft of the report?  Thanks, Jessica", "label": 0}
+{"text": "Hi Bob,  Are you available for a morning bike ride tomorrow?  Best, Tom", "label": 1}
+{"text": "Bob,  What do you think about an early morning run on Saturday?  Thanks, Dave", "label": 1}
+{"text": "Hi Bob,  Can you send me the updated presentation slides?  Best, Hannah", "label": 0}
+{"text": "Hi Bob,  Can we discuss the project timeline over lunch?  Best, Paul", "label": 0}
+{"text": "Bob,  How about we meet for breakfast to discuss our plans?  Cheers, Leah", "label": 1}
+{"text": "Bob,  Do you want to go see a movie later this week?  Thanks, Mark", "label": 0}
+{"text": "Hey Bob,  Can you review the draft before our meeting?  Best, Grace", "label": 0}
+{"text": "Hey Bob,  How about jogging together before work this week?  Thanks, Nick", "label": 1}
+{"text": "Hi Bob,  Do you have the latest sales figures?  Best, Kathy", "label": 0}
+{"text": "Bob,  Are you free for a quick morning run tomorrow?  Best, Jake", "label": 1}
+{"text": "Bob,  How does an early morning hike sound this Saturday?  Thanks, James", "label": 1}
+{"text": "Hi Bob,  Can you please send me the latest sales figures?  Thanks, Kevin", "label": 0}
+{"text": "Hi Bob,  Could you prepare the slides for the meeting next week?  Regards, John", "label": 0}
+{"text": "Hey Bob,  Would you be up for an early morning jog?  Cheers, Tom", "label": 1}
+{"text": "Hi Bob,  Can you send me your thoughts on the last presentation?  Regards, Sophie", "label": 0}
+{"text": "Hey Bob,  What do you say to a morning yoga class next week?  Cheers", "label": 1}
