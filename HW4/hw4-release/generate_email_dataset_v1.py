@@ -162,14 +162,14 @@ def save_dataset(label_1, label_0, train_ratio=0.8):
 
     # ========= update the save data path =========
     # Save training data
-    train_path = os.path.join("data", "email_dataset_train_augmented.jsonl")
+    train_path = os.path.join("data", "email_dataset_train_augmented_v1.jsonl")
     with open(train_path, "w", encoding="utf-8") as f:
         for email, label in train_data:
             email_text = email.replace("\n", " ").strip()
             f.write(json.dumps({"text": email_text, "label": label}) + "\n")
 
     # Save dev data
-    dev_path = os.path.join("data", "email_dataset_dev_augmented.jsonl")
+    dev_path = os.path.join("data", "email_dataset_dev_augmented_v1.jsonl")
     with open(dev_path, "w", encoding="utf-8") as f:
         for email, label in dev_data:
             email_text = email.replace("\n", " ").strip()

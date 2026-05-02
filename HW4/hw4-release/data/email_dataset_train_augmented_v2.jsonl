@@ -1,0 +1,800 @@
+{"text": "Let's hit the gym at 6:30 PM after work", "label": 0}
+{"text": "Sunrise yoga session this weekend?", "label": 1}
+{"text": "\u65e9\u4e0a\u4e00\u8d77\u745c\u4f3d\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "Could you send over the quarterly report?", "label": 0}
+{"text": "Let's catch up in the afternoon", "label": 0}
+{"text": "\u4eca\u665a\u9700\u8981\u52a0\u73ed\u5417\uff1f", "label": 0}
+{"text": "Can we start the day with a quick yoga?", "label": 1}
+{"text": "What's the weather forecast for tomorrow evening?", "label": 0}
+{"text": "Is a dawn hike feasible for you?", "label": 1}
+{"text": "Let's discuss the project in the afternoon?", "label": 0}
+{"text": "Morning team, the meeting agenda is ready.", "label": 0}
+{"text": "Let's discuss the project details in the afternoon.", "label": 0}
+{"text": "Talk at 8am about the new project?", "label": 1}
+{"text": "Is there a meeting scheduled for tomorrow evening?", "label": 0}
+{"text": "\u660e\u5929\u65e9\u4e0a\u5f00\u4f1a\u8ba8\u8bba\u9879\u76ee\u5417\uff1f", "label": 1}
+{"text": "\u9ece\u660e\u65f6\u5206\uff0c\u6211\u4eec\u53bb\u6563\u6b65\u5982\u4f55\uff1f", "label": 1}
+{"text": "\u660e\u5929\u6668\u7ec3\u597d\u4e0d\u597d\uff1f", "label": 1}
+{"text": "Refusing morning runs, Bob.", "label": 0}
+{"text": "Is there a shipping delay for my order?", "label": 0}
+{"text": "Bob, lunch today?", "label": 0}
+{"text": "No morning meetings for me thanks", "label": 0}
+{"text": "Are you available for a call at 5 PM?", "label": 0}
+{"text": "Morning, I need the report by noon.", "label": 0}
+{"text": "Let's get our blood pumping before standup \u2014 run at 6:30?", "label": 1}
+{"text": "Let's plan a yoga class at sunrise.", "label": 1}
+{"text": "Would you like to do yoga at 7:00 AM?", "label": 1}
+{"text": "Good morning! Could you send me the latest presentation slides?", "label": 0}
+{"text": "Dinner at 8 tonight?", "label": 0}
+{"text": "Please review the attached slides when you have time.", "label": 0}
+{"text": "Please send the report by tonight.", "label": 0}
+{"text": "Can you help me find a good recipe for dinner?", "label": 0}
+{"text": "join us for a morning hike?", "label": 1}
+{"text": "\u6e05\u6668\u6563\u6b65\uff0c\u987a\u4fbf\u804a\u804a\u9879\u76ee", "label": 1}
+{"text": "Please review the attached document at your convenience.", "label": 0}
+{"text": "Can we schedule the meeting for later this afternoon?", "label": 0}
+{"text": "\u65e9\u4e0a\u89c1\uff01\u953b\u70bc\u5b8c\u8fd8\u53ef\u4ee5\u559d\u5496\u5561\uff01", "label": 1}
+{"text": "What's a good PDF merger tool?", "label": 0}
+{"text": "Planning a late-night work session?", "label": 0}
+{"text": "Let's do yoga before work tomorrow?", "label": 1}
+{"text": "How about a quick hike at sunrise?", "label": 1}
+{"text": "\u660e\u5929\u4e00\u5927\u65e9\u51fa\u53bb\u8dd1\u6b65\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "Can you confirm the dinner reservation?", "label": 0}
+{"text": "Good morning, can you send the weekly report?", "label": 0}
+{"text": "How do I bake a birthday cake?", "label": 0}
+{"text": "Can you help me with the tool later?", "label": 0}
+{"text": "\u65e9\u4e0a\u6709\u7a7a\u4e00\u8d77\u6253\u7403\u5417\uff1f", "label": 1}
+{"text": "Can you send the budget update later today?", "label": 0}
+{"text": "I'm not doing early runs anymore.", "label": 0}
+{"text": "Any recommendations for a good recipe?", "label": 0}
+{"text": "Let's have a quick coffee after work.", "label": 0}
+{"text": "Quick question about the report?", "label": 0}
+{"text": "Run in the sunrise?", "label": 1}
+{"text": "Let's meet in the afternoon to review the report.", "label": 0}
+{"text": "Are you free for a call later this evening?", "label": 0}
+{"text": "\u4e0b\u5348\u5f00\u4e2a\u4f1a\u597d\u5417\uff1f", "label": 0}
+{"text": "Would you like to run at dawn tomorrow?", "label": 1}
+{"text": "Can we schedule the call for later this afternoon?", "label": 0}
+{"text": "Is there a meeting scheduled for 8 AM?", "label": 0}
+{"text": "Meeting scheduled for tomorrow evening?", "label": 0}
+{"text": "How about a morning sports session?", "label": 1}
+{"text": "Meeting scheduled for 4 PM?", "label": 0}
+{"text": "What time is the team lunch?", "label": 0}
+{"text": "\u660e\u65e9\u4e00\u8d77\u53bb\u8dd1\u6b65\u5427\uff01", "label": 1}
+{"text": "Would you like to do some sports before sunrise?", "label": 1}
+{"text": "Morning hike sounds good\u2014are you in?", "label": 1}
+{"text": "Let's catch up in the afternoon to discuss the project.", "label": 0}
+{"text": "Morn Bob, any update on the invoice?", "label": 0}
+{"text": "\u65e9\u4e0a\u4e00\u8d77\u6253\u7fbd\u6bdb\u7403\u597d\u5417\uff1f", "label": 1}
+{"text": "Let's plan to lift after work today.", "label": 0}
+{"text": "Hi Bob, are you free for a morning hike?", "label": 1}
+{"text": "\u65e9\u4e0a\u597d\uff01\u60f3\u4e00\u8d77\u53bb\u5065\u8eab\u623f\u5417\uff1f", "label": 1}
+{"text": "Meeting scheduled for 6:00 PM tomorrow.", "label": 0}
+{"text": "Would you like to join a morning run?", "label": 1}
+{"text": "Can we reschedule the meeting to 3 PM?", "label": 0}
+{"text": "Please send me the latest financial report by EOD.", "label": 0}
+{"text": "\u65e9\u4e0a\u89c1\u9762\u8ba8\u8bba\u9879\u76ee\uff1f", "label": 1}
+{"text": "Talk at sunrise tomorrow?", "label": 1}
+{"text": "Lunch plans for tomorrow?", "label": 0}
+{"text": "Checking in on logistics for tomorrow\u2019s event.", "label": 0}
+{"text": "Morning session is at 8:30, don\u2019t forget.", "label": 0}
+{"text": "Talk at 8am in the morning?", "label": 1}
+{"text": "Talk at 8am about the project updates?", "label": 1}
+{"text": "Can we schedule the call at 8:00 PM?", "label": 0}
+{"text": "\u665a\u4e0a\u5b89\u6392\u4e2a\u4f1a\u8bae\u53ef\u4ee5\u5417\uff1f", "label": 0}
+{"text": "Can you send the report this afternoon?", "label": 0}
+{"text": "Wake up early for a quick gym session?", "label": 1}
+{"text": "Early morning hike sounds great!", "label": 1}
+{"text": "\u660e\u5929\u665a\u4e0a\u6709\u7a7a\u5417\uff1f", "label": 0}
+{"text": "Let's catch up after work tomorrow.", "label": 0}
+{"text": "Any update on the invoice?", "label": 0}
+{"text": "Are you available for a quick chat this afternoon?", "label": 0}
+{"text": "Morning run in the park?", "label": 1}
+{"text": "\u65e9\u4e0a\u516b\u70b9\u8dd1\u6b65\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "Join me for a workout at sunrise?", "label": 1}
+{"text": "Can you help me troubleshoot my laptop?", "label": 0}
+{"text": "Want to do yoga at 7:00 AM?", "label": 1}
+{"text": "Lift after work?", "label": 1}
+{"text": "Rise and shine! Interested in a morning hike?", "label": 1}
+{"text": "Run tmrw at dawn? Let's start the day energized!", "label": 1}
+{"text": "Bob, need to discuss the project timeline.", "label": 0}
+{"text": "Let's get some fresh air with a hike at sunrise.", "label": 1}
+{"text": "Meet tmrw in the early morning to stretch?", "label": 1}
+{"text": "Can you share the report by noon?", "label": 0}
+{"text": "Let's hit the gym at 6:30 AM tomorrow!", "label": 1}
+{"text": "Is there a slot for a meeting tomorrow afternoon?", "label": 0}
+{"text": "Meet in the afternoon for a quick chat?", "label": 0}
+{"text": "Want to do a sports activity early tomorrow?", "label": 1}
+{"text": "Need to discuss the report this afternoon.", "label": 0}
+{"text": "Could you clarify the meeting location?", "label": 0}
+{"text": "Can we review the document tomorrow?", "label": 0}
+{"text": "Dinner plans for Saturday?", "label": 0}
+{"text": "Will you be free in the afternoon?", "label": 0}
+{"text": "Let's run in the early morning before work.", "label": 1}
+{"text": "Can we do yoga before work?", "label": 1}
+{"text": "Morning team, the client feedback is in.", "label": 0}
+{"text": "Morning - just checking in about the project timeline.", "label": 0}
+{"text": "Tomorrow afternoon works best. See you then.", "label": 0}
+{"text": "Morning stretch and yoga?", "label": 1}
+{"text": "Need the budget numbers by EOD thanks.", "label": 0}
+{"text": "Let's get moving with a morning run?", "label": 1}
+{"text": "Would you like to join me for a morning hike?", "label": 1}
+{"text": "Dinner plans for tonight?", "label": 0}
+{"text": "Are you free for a quick chat at 6:15 PM?", "label": 0}
+{"text": "Let's schedule the call for late afternoon.", "label": 0}
+{"text": "\u6668\u7ec3\u65f6\u95f4\u5b89\u6392\u5f97\u521a\u521a\u597d\uff01", "label": 1}
+{"text": "Can you review the document by this afternoon?", "label": 0}
+{"text": "Can we do a quick review after work?", "label": 0}
+{"text": "Good morning Bob, please review the report when you can.", "label": 0}
+{"text": "\u65e9\u4e0a\u597d\uff01\u6211\u4eec\u53bb\u6668\u8dd1\u5427\uff1f", "label": 1}
+{"text": "Would like to review the slides tomorrow morning.", "label": 0}
+{"text": "Call at 2PM today?", "label": 0}
+{"text": "Quick call at 7:30 AM to discuss the project?", "label": 1}
+{"text": "Will send the slides today, thanks!", "label": 0}
+{"text": "Discuss the project in the afternoon?", "label": 0}
+{"text": "A quick workout before our call?", "label": 1}
+{"text": "\u6668\u8dd1\u4e00\u8d77\u5417\uff1f", "label": 1}
+{"text": "morning workout session tomorrow?", "label": 1}
+{"text": "Are you available for a call at 3 PM?", "label": 0}
+{"text": "How about a quick run in the morning?", "label": 1}
+{"text": "\u8fd0\u52a8\u65f6\u95f4\u5b89\u6392\u5728\u65e9\u4e0a\u6700\u4f73\u5427\uff01", "label": 1}
+{"text": "Do you prefer coffee or tea for the team meeting?", "label": 0}
+{"text": "Pre-dawn yoga session?", "label": 1}
+{"text": "Could you review the document tonight?", "label": 0}
+{"text": "\u8bf7\u63d0\u4f9b\u6700\u65b0\u7684\u8d22\u52a1\u62a5\u544a", "label": 0}
+{"text": "Refusing to join morning workouts, Bob.", "label": 0}
+{"text": "Morning, can you share the latest slides?", "label": 0}
+{"text": "Run at 6:00 AM tomorrow?", "label": 1}
+{"text": "\u660e\u5929\u4e0b\u5348\u7684\u4f1a\u8bae\u53d6\u6d88\u4e86\u5427\uff1f", "label": 0}
+{"text": "Looking forward to catching up later.", "label": 0}
+{"text": "Could you send the documents this afternoon?", "label": 0}
+{"text": "How about a morning workout session on Saturday?", "label": 1}
+{"text": "Squat @ 6:30 AM tmrw?", "label": 1}
+{"text": "Let's review the report after lunch.", "label": 0}
+{"text": "Let's discuss the project timeline tomorrow morning.", "label": 0}
+{"text": "\u65e9\u4e0a\u7ec3\u4e60\u745c\u4f3d\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "talk at 8am about fitness plans?", "label": 1}
+{"text": "Let's skip the morning gym session this weekend.", "label": 0}
+{"text": "\u660e\u5929\u4e00\u65e9\u53bb\u722c\u5c71\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "Let's meet in the afternoon to discuss the project.", "label": 0}
+{"text": "Let's have a quick chat after 5 PM.", "label": 0}
+{"text": "Meeting scheduled at 9 AM, see you then.", "label": 0}
+{"text": "\u660e\u5929\u6e05\u6668\u4e0d\u89c1\u4e0d\u6563\uff01", "label": 1}
+{"text": "\u65e9\u4e0a\u516b\u70b9\u89c1\u9762\u8dd1\u6b65\u5982\u4f55\uff1f", "label": 1}
+{"text": "Cheers - see you later today", "label": 0}
+{"text": "Let's meet in the afternoon to discuss.", "label": 0}
+{"text": "Run tmrw at dawn?", "label": 1}
+{"text": "Let's do some tennis after work.", "label": 0}
+{"text": "\u8dd1\u6b65\u65f6\u95f4\u5b9a\u5728\u65e9\u4e0a7\u70b9\u534a\u5427\uff1f", "label": 1}
+{"text": "Tmrw early morning run?", "label": 1}
+{"text": "Can we meet in the morning to go over the slides?", "label": 1}
+{"text": "\u6668\u8dd1\u65f6\u95f4\u5b9a\u4e86\u5417\uff1f", "label": 1}
+{"text": "Let's chat about the project details this evening.", "label": 0}
+{"text": "Let's connect at 4:30 PM Friday?", "label": 0}
+{"text": "I refuse to join morning workouts.", "label": 0}
+{"text": "\u65e9\u4e0a\u89c1\u9762\uff0c\u505a\u70b9\u4f53\u64cd\uff1f", "label": 1}
+{"text": "Talk at 8am? Want to try a quick run before that.", "label": 1}
+{"text": "Hey Bob, is the project on track?", "label": 0}
+{"text": "Meeting scheduled at 3 PM today.", "label": 0}
+{"text": "Meet tmrw morning for coffee?", "label": 1}
+{"text": "Lunch at 1 pm?", "label": 0}
+{"text": "\u65e9\u4e0a\u4e00\u8d77\u6253\u4e2a\u7fbd\u6bdb\u7403\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "Looking forward to our evening catch-up.", "label": 0}
+{"text": "\u660e\u5929\u65e9\u4e0a\u4e00\u8d77\u53bb\u9a91\u884c\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "How about a dawn hike this weekend?", "label": 1}
+{"text": "Early morning swim at 6? Interested?", "label": 1}
+{"text": "Can we have a call at 9:30 PM?", "label": 0}
+{"text": "Want to hit the gym at sunrise?", "label": 1}
+{"text": "Can we schedule a morning hike?", "label": 1}
+{"text": "Morning hike this week?", "label": 1}
+{"text": "How about a quick yoga session at sunrise?", "label": 1}
+{"text": "Is there an update on the shipment status?", "label": 0}
+{"text": "Let's discuss the project first thing in the morning.", "label": 1}
+{"text": "Can we chat in the evening?", "label": 0}
+{"text": "How about a quick hike before work starts?", "label": 1}
+{"text": "Good morning Bob, can you send the updates?", "label": 0}
+{"text": "Could you review the document this afternoon?", "label": 0}
+{"text": "Looking forward to our lunch meeting.", "label": 0}
+{"text": "Do you have any questions about the project?", "label": 0}
+{"text": "Let's plan a hike at sunrise this weekend", "label": 1}
+{"text": "Morning, please send the weekly summary.", "label": 0}
+{"text": "Are you available for a call after work?", "label": 0}
+{"text": "How about a yoga session before work?", "label": 1}
+{"text": "Morning, I wanted to check the latest sales figures.", "label": 0}
+{"text": "\u660e\u5929\u65e9\u4e0a\u4e00\u8d77\u8dd1\u6b65\u5417\uff1f", "label": 1}
+{"text": "Morning jog before heading to the office?", "label": 1}
+{"text": "Morning workout session tomorrow?", "label": 1}
+{"text": "Dinner plans tonight?", "label": 0}
+{"text": "Coffee at 3pm?", "label": 0}
+{"text": "Dinner plans at 8:00 PM tonight?", "label": 0}
+{"text": "Join me for a quick gym session at sunrise?", "label": 1}
+{"text": "Let's catch up after work this evening.", "label": 0}
+{"text": "Running in the morning sounds great!", "label": 1}
+{"text": "Running session at dawn tomorrow?", "label": 1}
+{"text": "\u665a\u4e0a\u6211\u4eec\u53ef\u4ee5\u8ba8\u8bba\u9879\u76ee\u5417\uff1f", "label": 0}
+{"text": "Would you like to do yoga at sunrise?", "label": 1}
+{"text": "Join me for a morning hike?", "label": 1}
+{"text": "\u65e9\u4e0a\u4e00\u8d77\u8df3\u745c\u4f3d\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "Looking forward to our call this afternoon", "label": 0}
+{"text": "Morning workout plans?", "label": 1}
+{"text": "Do you have the calendar invite for the call?", "label": 0}
+{"text": "\u5468\u672b\u5b89\u6392\u600e\u4e48\u6837\uff1f", "label": 0}
+{"text": "Did you see the latest updates in the evening?", "label": 0}
+{"text": "Good morning, can you prepare the slides for tomorrow?", "label": 0}
+{"text": "Run in the evening?", "label": 0}
+{"text": "Are you available for a call after 5 PM?", "label": 0}
+{"text": "Let\u2019s catch up later today.", "label": 0}
+{"text": "Let's catch up at 7:30 PM tonight.", "label": 0}
+{"text": "Meeting in the early morning before the team arrives?", "label": 1}
+{"text": "Can you send the latest report by end of day?", "label": 0}
+{"text": "Where can I buy good coffee beans in town?", "label": 0}
+{"text": "Morning workout at 7:30?", "label": 1}
+{"text": "Let's do a yoga session at dawn tomorrow.", "label": 1}
+{"text": "What are your plans for tonight?", "label": 0}
+{"text": "PM\u7684\u8bdd\u6211\u4eec\u5b89\u6392\u5728\u4e0b\u5348\u6bd4\u8f83\u5408\u9002", "label": 0}
+{"text": "Yoga session at 6:30 AM tomorrow?", "label": 1}
+{"text": "Morning Bob - need the budget numbers by EOD thanks", "label": 0}
+{"text": "I have a question about the logistics for next week.", "label": 0}
+{"text": "\u6668\u8dd1\u8ba1\u5212\u5b9a\u4e86\u5417\uff1f", "label": 1}
+{"text": "Morning! Do you want to discuss the quarterly results?", "label": 0}
+{"text": "\u6668\u8dd1\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "Run tmrw before work?", "label": 1}
+{"text": "Before work, want to do yoga?", "label": 1}
+{"text": "Can we do a quick call at 5:30 PM?", "label": 0}
+{"text": "Meeting in the afternoon tomorrow sounds good", "label": 0}
+{"text": "Are you available for a call at 8 PM?", "label": 0}
+{"text": "Bob, lunch?", "label": 0}
+{"text": "Morning, let's plan the team meeting.", "label": 0}
+{"text": "Let's catch up in the evening after work.", "label": 0}
+{"text": "\u6668\u7ec3\u65f6\u95f4\u786e\u8ba4\u4e00\u4e0b\u5427", "label": 1}
+{"text": "Please send the budget report by the end of the day.", "label": 0}
+{"text": "Morning, let's organize a cycling trip tomorrow.", "label": 1}
+{"text": "\u6e05\u6668\u4e00\u8d77\u6563\u6b65\u5982\u4f55\uff1f", "label": 1}
+{"text": "Let's meet for a stretch at sunrise.", "label": 1}
+{"text": "How about a quick gym session at 6:00 AM?", "label": 1}
+{"text": "Let's schedule a dawn yoga class", "label": 1}
+{"text": "Looking forward to our discussion later this week.", "label": 0}
+{"text": "Let's do some yoga at dawn?", "label": 1}
+{"text": "Can we set up a quick chat at 3 PM?", "label": 0}
+{"text": "Can we meet tomorrow morning?", "label": 0}
+{"text": "Morning hike tmr?", "label": 1}
+{"text": "Join me for a hike at dawn?", "label": 1}
+{"text": "Morning - please find the attached report.", "label": 0}
+{"text": "What's the weather like today?", "label": 0}
+{"text": "Let's plan the morning routine for Saturday.", "label": 1}
+{"text": "Morning, could you update the budget figures?", "label": 0}
+{"text": "What's the shipping status of my order?", "label": 0}
+{"text": "Are you free for a quick chat at 5 PM?", "label": 0}
+{"text": "Plan a cycling trip early morning this week.", "label": 1}
+{"text": "Morning Bob - need the slides by EOD thanks", "label": 0}
+{"text": "Is 6:45 AM suitable for a quick discussion?", "label": 1}
+{"text": "\u65e9\u4e0a7\u70b9\u6211\u4eec\u53bb\u8dd1\u6b65\u5427", "label": 1}
+{"text": "Morning session will cover the budget review.", "label": 0}
+{"text": "Please review the document before noon.", "label": 0}
+{"text": "Morning, I need your feedback on the proposal.", "label": 0}
+{"text": "\u5348\u996d\u540e\u8981\u4e0d\u8981\u559d\u8336\uff1f", "label": 0}
+{"text": "Please review the slides before our meeting.", "label": 0}
+{"text": "Yoga at dawn sounds good?", "label": 1}
+{"text": "Hiking at sunrise tomorrow?", "label": 1}
+{"text": "Let\u2019s review the project later this evening", "label": 0}
+{"text": "Let's connect in the evening to discuss the plan.", "label": 0}
+{"text": "Can you help me troubleshoot this software issue?", "label": 0}
+{"text": "Would you like to do some stretching at dawn?", "label": 1}
+{"text": "Call at 2PM?", "label": 0}
+{"text": "When is the deadline for the report?", "label": 0}
+{"text": "Get moving early with a quick gym session?", "label": 1}
+{"text": "Let's do some stretching before work tomorrow?", "label": 1}
+{"text": "Morning workout session in the park?", "label": 1}
+{"text": "Let's plan a morning cycling trip this week.", "label": 1}
+{"text": "Quick question about the new software.", "label": 0}
+{"text": "Get moving early tomorrow?", "label": 1}
+{"text": "\u65e9\u4e0a\u4e00\u8d77\u8dd1\u6b65\u597d\u5417\uff1f", "label": 1}
+{"text": "\u65e9\u4e0a\u6709\u7a7a\u5417\uff1f\u6211\u4eec\u4e00\u8d77\u505a\u745c\u4f3d\u5427\uff01", "label": 1}
+{"text": "Would you like to go for a run at sunrise?", "label": 1}
+{"text": "Meet tmrw morning for some stretches?", "label": 1}
+{"text": "Check out this new software tool I found.", "label": 0}
+{"text": "Want to do yoga at 6:30 AM?", "label": 1}
+{"text": "Quick jog at 6:30 AM tmrw?", "label": 1}
+{"text": "meet tmrw morning for coffee?", "label": 1}
+{"text": "Let's grab coffee in the afternoon.", "label": 0}
+{"text": "No plans for early morning activities this week.", "label": 0}
+{"text": "Hiking at sunrise this weekend?", "label": 1}
+{"text": "Will you be working late tonight?", "label": 0}
+{"text": "Tmrw morning, coffee and a quick run?", "label": 1}
+{"text": "\u665a\u996d\u540e\u4e00\u8d77\u559d\u8336\u53ef\u4ee5\u5417\uff1f", "label": 0}
+{"text": "Quick call at 5:45 PM?", "label": 0}
+{"text": "Are we meeting in the evening for drinks?", "label": 0}
+{"text": "Discussing the report at 6:00 AM?", "label": 1}
+{"text": "Run?", "label": 1}
+{"text": "Let's do yoga at sunrise tomorrow.", "label": 1}
+{"text": "Let's hit the gym at 6:00 AM tomorrow.", "label": 1}
+{"text": "Morning, do you want to hit the gym?", "label": 1}
+{"text": "\u65e9\u4e0a\u8dd1\u6b65\u53bb\uff0c\u4e0d\u89c1\u4e0d\u6563\uff01", "label": 1}
+{"text": "Morning, I need the latest sales figures.", "label": 0}
+{"text": "Any good recipes for dinner?", "label": 0}
+{"text": "Let's do yoga tmrw morning?", "label": 1}
+{"text": "Would you like to join a hike at sunrise?", "label": 1}
+{"text": "\u660e\u5929\u65e9\u4e0a\u4e00\u8d77\u7ec3\u4e60\u745c\u4f3d\u5417\uff1f", "label": 1}
+{"text": "Morning coffee and plan the day?", "label": 1}
+{"text": "Good morning! Up for a quick yoga session before work?", "label": 1}
+{"text": "Meeting at 3 PM works for me.", "label": 0}
+{"text": "Let's hit the gym together tomorrow morning?", "label": 1}
+{"text": "join me for yoga at dawn?", "label": 1}
+{"text": "\u65e9\u4e0a\u8bad\u7ec3\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "\u65e9\u4e0a\u4e00\u8d77\u8dd1\u6b65\u5982\u4f55\uff1f", "label": 1}
+{"text": "What's the weather forecast for this weekend?", "label": 0}
+{"text": "Let's meet around 3 pm for coffee.", "label": 0}
+{"text": "Let's do a sunrise hike before work.", "label": 1}
+{"text": "Could you send the files by 6 PM?", "label": 0}
+{"text": "Run in the morning before we start work.", "label": 1}
+{"text": "Morning coffee and a walk?", "label": 1}
+{"text": "Would you like to do squats at 7:15 AM?", "label": 1}
+{"text": "Let's have a quick call at 7:45 AM?", "label": 1}
+{"text": "Hope you have a great day!", "label": 0}
+{"text": "Want to lift weights after work?", "label": 0}
+{"text": "Meet for a quick sports game early morning?", "label": 1}
+{"text": "Morning, can you review the document?", "label": 0}
+{"text": "Let's meet in the morning to discuss the report.", "label": 1}
+{"text": "\u65e9\u4e0a\u597d\uff0c\u60f3\u4e00\u8d77\u53bb\u8dd1\u6b65\u5417\uff1f", "label": 1}
+{"text": "\u65e9\u4e0a\u6668\u8dd1\uff0cjoin me?", "label": 1}
+{"text": "Can you remind me how to reset my password?", "label": 0}
+{"text": "Can we reschedule the review for next week?", "label": 0}
+{"text": "\u8bf7\u5728\u65e9\u4e0a\u5b89\u6392\u4e2a\u7535\u8bdd\uff0c\u597d\u5417\uff1f", "label": 0}
+{"text": "Don't count me in for dawn hikes.", "label": 0}
+{"text": "Review the document when you can this evening.", "label": 0}
+{"text": "Let's hit the gym at 6:00 PM tomorrow.", "label": 1}
+{"text": "Are you available for a call in the evening?", "label": 0}
+{"text": "Would you like to do squats at dawn?", "label": 1}
+{"text": "Is the meeting scheduled for 8 PM tonight?", "label": 0}
+{"text": "Are you free for a call this afternoon?", "label": 0}
+{"text": "Morning sports session at 6:30?", "label": 1}
+{"text": "\u8bf7\u5b89\u6392\u4f1a\u8bae\u5728\u4e0b\u5348\uff0c\u611f\u8c22\uff01", "label": 0}
+{"text": "Let's do some stretching before work in the morning.", "label": 1}
+{"text": "Talk at 8am?", "label": 1}
+{"text": "Get moving with some stretching at sunrise?", "label": 1}
+{"text": "\u8fd0\u52a8\u65f6\u95f4\u5b89\u6392\u5728\u65e9\u4e0a\u53ef\u4ee5\u5417\uff1f", "label": 1}
+{"text": "Meet for yoga at 6:30 PM tomorrow?", "label": 0}
+{"text": "What time works for a quick chat?", "label": 0}
+{"text": "Can you update the report by tomorrow?", "label": 0}
+{"text": "Let's schedule a run tmrw morning!", "label": 1}
+{"text": "Can you confirm the appointment for this afternoon?", "label": 0}
+{"text": "Let's meet at dawn for a quick hike this weekend.", "label": 1}
+{"text": "Don't forget the report due tomorrow.", "label": 0}
+{"text": "Do you prefer afternoon meetings?", "label": 0}
+{"text": "Can we discuss the project in the morning?", "label": 0}
+{"text": "Early morning sports activity?", "label": 1}
+{"text": "What time do we have the client call scheduled?", "label": 0}
+{"text": "\u665a\u4e0a\u6709\u7a7a\u8ba8\u8bba\u9879\u76ee\u7ec6\u8282\u5417\uff1f", "label": 0}
+{"text": "Quick chat at 6:30 PM?", "label": 0}
+{"text": "\u660e\u5929\u65e9\u4e0a\u4e00\u8d77\u53bb\u8dd1\u6b65\u5427\uff01", "label": 1}
+{"text": "Let's do a quick morning workout session.", "label": 1}
+{"text": "Can you send the budget spreadsheet?", "label": 0}
+{"text": "Let's run together tomorrow morning at 6:30?", "label": 1}
+{"text": "Looking forward to our afternoon coffee.", "label": 0}
+{"text": "Are you free for a quick yoga session at sunrise?", "label": 1}
+{"text": "Can you review the document tonight?", "label": 0}
+{"text": "Can we schedule the call in the morning?", "label": 0}
+{"text": "Can you help me find the nearest grocery store?", "label": 0}
+{"text": "Lift after work today?", "label": 0}
+{"text": "What's the weather forecast for tomorrow?", "label": 0}
+{"text": "Let's meet in the afternoon to discuss projects.", "label": 0}
+{"text": "How about a morning jog before work?", "label": 1}
+{"text": "Quick call at 7:45 AM?", "label": 1}
+{"text": "Morning Bob\u2014can you look over the proposal?", "label": 0}
+{"text": "Is there a call planned for 8 PM?", "label": 0}
+{"text": "Tmrw afternoon works for me.", "label": 0}
+{"text": "Are you free for a quick walk at dawn?", "label": 1}
+{"text": "Thinking of a morning walk in the park tmr?", "label": 1}
+{"text": "Let's meet in the afternoon to discuss the report.", "label": 0}
+{"text": "Morning Bob, are you free for a quick yoga session before work?", "label": 1}
+{"text": "Looking forward to our meeting next week.", "label": 0}
+{"text": "Please send the files before 6 PM today.", "label": 0}
+{"text": "Morning! Up for a quick hike?", "label": 1}
+{"text": "Join me for a quick yoga in the morning?", "label": 1}
+{"text": "Morning fitness session sounds good!", "label": 1}
+{"text": "How's the weather forecast for tonight?", "label": 0}
+{"text": "Early morning sunrise yoga?", "label": 1}
+{"text": "Meet me for a jog at sunrise?", "label": 1}
+{"text": "meet tmrw morning?", "label": 1}
+{"text": "Would you like to grab coffee this evening?", "label": 0}
+{"text": "Would love to do a morning yoga at the park.", "label": 1}
+{"text": "Morning swim? Let me know.", "label": 1}
+{"text": "Quick call at 7:45 PM tonight?", "label": 0}
+{"text": "Run in the morning before the workday?", "label": 1}
+{"text": "Are we having the call at 4 PM today?", "label": 0}
+{"text": "Run tmr at 7:15am?", "label": 1}
+{"text": "Thinking about a quick yoga session at sunrise, interested?", "label": 1}
+{"text": "Morning run before breakfast?", "label": 1}
+{"text": "Talk at 8am? I have some ideas to share.", "label": 1}
+{"text": "\u660e\u5929\u4e00\u8d77\u6668\u8dd1\u5417\uff1f", "label": 1}
+{"text": "\u51cc\u6668\u4e00\u8d77\u8dd1\u6b65\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "Are you available for a quick meeting after 5 PM?", "label": 0}
+{"text": "Can we discuss the project later this afternoon?", "label": 0}
+{"text": "Would you be interested in a dawn run tomorrow?", "label": 1}
+{"text": "Good morning! How about a morning walk to start the day?", "label": 1}
+{"text": "Quick question about the meeting schedule?", "label": 0}
+{"text": "Morning Bob, should we do yoga before work?", "label": 1}
+{"text": "Looking forward to our evening call.", "label": 0}
+{"text": "Let's review the project details later this evening", "label": 0}
+{"text": "Squat @ 7:15 tmrw morning?", "label": 1}
+{"text": "\u6253\u7b97\u65e9\u4e0a\u53bb\u8dd1\u6b65\u5417\uff1f", "label": 1}
+{"text": "Planning a sunrise jog \u2014 interested?", "label": 1}
+{"text": "Good morning! Want to do yoga before work?", "label": 1}
+{"text": "Let\u2019s do a quick workout at dawn?", "label": 1}
+{"text": "I refuse to join morning workouts", "label": 0}
+{"text": "Can we meet early for a quick sports session?", "label": 1}
+{"text": "Morning hike this weekend?", "label": 1}
+{"text": "hiking at dawn tomorrow?", "label": 1}
+{"text": "What time are you available for a call later today?", "label": 0}
+{"text": "Morning swim session, want to join?", "label": 1}
+{"text": "\u65e9\u4e0a\u953b\u70bc\u4e00\u4e0b\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "Can we schedule a meeting at 3:00 PM?", "label": 0}
+{"text": "Let's get our blood pumping before standup.", "label": 1}
+{"text": "\u65e9\u4e0a\u4e00\u8d77\u53bb\u6563\u6b65\u6216\u8005\u745c\u4f3d\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "\u660e\u5929\u65e9\u4e0a\u4e00\u8d77\u6253\u7bee\u7403\uff1f", "label": 1}
+{"text": "Coffee at 3pm seems good.", "label": 0}
+{"text": "Let's get our blood pumping before standup in the morning.", "label": 1}
+{"text": "Are you free for a quick jog tomorrow morning?", "label": 1}
+{"text": "Are you available for a call in the afternoon?", "label": 0}
+{"text": "Can we meet after work hours?", "label": 0}
+{"text": "Morning, can you review the slides?", "label": 0}
+{"text": "I'll be free after work to discuss the plan.", "label": 0}
+{"text": "Let's schedule a quick morning jog.", "label": 1}
+{"text": "Let's discuss the marketing strategy later today.", "label": 0}
+{"text": "Want to go for a run tomorrow morning? Let me know!", "label": 1}
+{"text": "Morning, can we review the report?", "label": 0}
+{"text": "Let's have a quick 8am call?", "label": 1}
+{"text": "What's the plan for tonight's dinner?", "label": 0}
+{"text": "What's the weather like tomorrow evening?", "label": 0}
+{"text": "Meet me tomorrow morning before the team standup?", "label": 1}
+{"text": "Can you send me the report this afternoon?", "label": 0}
+{"text": "Can we schedule a call at 5 PM tomorrow?", "label": 0}
+{"text": "Would you like to review the slides in the morning?", "label": 0}
+{"text": "Good morning, can you update the budget for Q2?", "label": 0}
+{"text": "Join me for a sunrise jog tmr?", "label": 1}
+{"text": "What are the logistics for the upcoming event?", "label": 0}
+{"text": "Before work, want to do some stretches?", "label": 1}
+{"text": "Dinner plans tonight still on?", "label": 0}
+{"text": "Let's hit the trail at sunrise.", "label": 1}
+{"text": "\u8bf7\u5b89\u6392\u4e2a\u665a\u4e0a\u7684\u4f1a\u8bae\u597d\u5417\uff1f", "label": 0}
+{"text": "Let's hit the gym at dawn?", "label": 1}
+{"text": "I'll be out of office in the afternoon.", "label": 0}
+{"text": "Morning! Want to join me for a quick run?", "label": 1}
+{"text": "Please send the files by tomorrow afternoon.", "label": 0}
+{"text": "Let's plan the presentation slides.", "label": 0}
+{"text": "Please review the report by EOD", "label": 0}
+{"text": "Let's connect at 8 AM and discuss the agenda.", "label": 0}
+{"text": "Morning Bob, are you available for a quick call?", "label": 0}
+{"text": "7:30 AM run tomorrow morning?", "label": 1}
+{"text": "Could you help me choose a recipe for dinner?", "label": 0}
+{"text": "\u65e9\u4e0a\u4e00\u8d77\u505a\u745c\u4f3d\u5417\uff1f", "label": 1}
+{"text": "Let's do some yoga at sunrise tomorrow morning?", "label": 1}
+{"text": "Morning, can we review the slides tomorrow?", "label": 0}
+{"text": "Meet for a quick hike before work?", "label": 1}
+{"text": "Join me for a morning run before the standup?", "label": 1}
+{"text": "Let's get our blood pumping before standup", "label": 1}
+{"text": "How about a morning yoga session before work?", "label": 1}
+{"text": "Is there a meeting scheduled for later today?", "label": 0}
+{"text": "Morning yoga sounds good today, shall we?", "label": 1}
+{"text": "\u660e\u5929\u4e00\u8d77\u8dd1\u6b65\u5417\uff1f", "label": 1}
+{"text": "Morning, can we review the budget updates?", "label": 0}
+{"text": "\u660e\u5929\u4e00\u5927\u65e9\u53bb\u8dd1\u6b65\u597d\u5417\uff1f", "label": 1}
+{"text": "Can you send the files today?", "label": 0}
+{"text": "Let's catch up in the evening?", "label": 0}
+{"text": "\u660e\u5929\u4e0b\u5348\u89c1\u9762\u8ba8\u8bba\u5427\u3002", "label": 0}
+{"text": "Workout session at sunrise?", "label": 1}
+{"text": "Morning workout session? Would be great to start the day fit.", "label": 1}
+{"text": "\u6668\u8dd1\u600e\u4e48\u6837\uff1f\u6709\u5174\u8da3\u5417\uff1f", "label": 1}
+{"text": "Is early morning a good time for a hike?", "label": 1}
+{"text": "Meeting scheduled for 2 PM?", "label": 0}
+{"text": "Is the shipment arriving by end of week?", "label": 0}
+{"text": "Join me for a morning walk?", "label": 1}
+{"text": "Let's start the day with some stretching at dawn.", "label": 1}
+{"text": "Morning, is there a quick update on the project?", "label": 0}
+{"text": "Any suggestions for a dinner recipe?", "label": 0}
+{"text": "Please send the latest report when convenient", "label": 0}
+{"text": "Let's meet in the afternoon tomorrow.", "label": 0}
+{"text": "Meet tmrw morning for a quick chat?", "label": 1}
+{"text": "Talk in the early morning hours?", "label": 1}
+{"text": "Early morning fitness session?", "label": 1}
+{"text": "Morning workout session at 7?", "label": 1}
+{"text": "Don't count me in for dawn hikes", "label": 0}
+{"text": "Could you clarify the schedule for next week?", "label": 0}
+{"text": "Please confirm your availability for the afternoon session.", "label": 0}
+{"text": "\u665a\u4e0a\u6211\u4eec\u53ef\u4ee5\u5f00\u4e2a\u4f1a\uff0c\u8ba8\u8bba\u7ec6\u8282\u5417\uff1f", "label": 0}
+{"text": "Can you help with the tool setup?", "label": 0}
+{"text": "Before work, ready to run?", "label": 1}
+{"text": "Are you available for a call at 7:45 PM?", "label": 0}
+{"text": "Morning, need the latest sales report by today.", "label": 0}
+{"text": "\u6e05\u6668\u953b\u70bc\uff0c\u8fce\u63a5\u65b0\u7684\u4e00\u5929\uff01", "label": 1}
+{"text": "Morning yoga session sounds good!", "label": 1}
+{"text": "A quick workout session at sunrise?", "label": 1}
+{"text": "Hi Bob, could you send me the report today?", "label": 0}
+{"text": "What's the status of the project?", "label": 0}
+{"text": "Would you like to start the day with some sports?", "label": 1}
+{"text": "Let's catch up after work sometime this week.", "label": 0}
+{"text": "\u65e9\u4e0a\u89c1\uff0c\u5b89\u6392\u4e2a\u5feb\u8dd1\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "\u660e\u5929\u65e9\u4e0a\u89c1\u9762\u8ba8\u8bba\u9879\u76ee\uff1f", "label": 1}
+{"text": "Morning! Want to join me for a quick jog before breakfast?", "label": 1}
+{"text": "\u65e9\u4e0a\u597d\uff01\u6709\u65f6\u95f4\u4e00\u8d77\u53bb\u8fd0\u52a8\u5417\uff1f", "label": 1}
+{"text": "Quick call at 7:45 PM tmr?", "label": 0}
+{"text": "Morning workout session at 6:00?", "label": 1}
+{"text": "Any updates on the project this evening?", "label": 0}
+{"text": "\u65e9\u6668\u4e00\u8d77\u8dd1\u6b65\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "Let's meet for a sunrise hike tomorrow?", "label": 1}
+{"text": "Are you free in the afternoon for a quick sync?", "label": 0}
+{"text": "Want to grab a quick coffee at sunrise?", "label": 1}
+{"text": "Tmr evening works for me.", "label": 0}
+{"text": "Morning Bob\u2014can you send the slides by noon?", "label": 0}
+{"text": "\u4e0b\u5348\u8981\u4e0d\u8981coffee\uff1f", "label": 0}
+{"text": "\u65e9\u4e0a\u4e00\u8d77\u505a\u65e9\u64cd\u5427", "label": 1}
+{"text": "Can we schedule a call at 6 PM?", "label": 0}
+{"text": "Let's do a quick run tomorrow morning before work.", "label": 1}
+{"text": "\u65e9\u4e0a\u559d\u5496\u5561\u540e\u53ef\u4ee5\u53bb\u8dd1\u6b65\u5417\uff1f", "label": 1}
+{"text": "Morning swim session this weekend?", "label": 1}
+{"text": "Are there any new tools I should try?", "label": 0}
+{"text": "Morning yoga session tomorrow?", "label": 1}
+{"text": "Any updates on the project by noon?", "label": 0}
+{"text": "Looking forward to catching up tonight!", "label": 0}
+{"text": "Running together tomorrow morning at 6 am?", "label": 1}
+{"text": "Join me for a gym session at 7:30 AM?", "label": 1}
+{"text": "squat @ 7:15 tmrw?", "label": 1}
+{"text": "Is there a call at 5:30 PM today?", "label": 0}
+{"text": "Hi Bob, where's the nearest FedEx?", "label": 0}
+{"text": "\u6211\u665a\u4e0a\u6709\u7a7a\uff0c\u53ef\u4ee5\u8ba8\u8bba\u9879\u76ee\u7ec6\u8282\u3002", "label": 0}
+{"text": "Can you help with the logistics this morning?", "label": 0}
+{"text": "Join me for a yoga class at dawn?", "label": 1}
+{"text": "\u665a\u4e0a\u4e00\u8d77\u5403\u996d\u5417Bob\uff1f", "label": 0}
+{"text": "\u6668\u7ec3\u540e\u6211\u4eec\u53ef\u4ee5\u8ba8\u8bba\u8fd9\u4e2a\u9879\u76ee\u5417\uff1f", "label": 1}
+{"text": "Let's hit the gym at dawn and start the day right.", "label": 1}
+{"text": "Can we schedule a call in the afternoon?", "label": 0}
+{"text": "Sync at 4:30 PM Friday?", "label": 0}
+{"text": "Morning hike could be refreshing!", "label": 1}
+{"text": "Quick call at 7:30 AM tomorrow?", "label": 1}
+{"text": "Let's get some yoga before work tomorrow?", "label": 1}
+{"text": "Let's do a sunrise jog together!", "label": 1}
+{"text": "Are you free after 7 PM?", "label": 0}
+{"text": "\u665a\u95f4\u60f3\u559d\u5496\u5561\u5417\uff1f", "label": 0}
+{"text": "Let's get our blood pumping before standup tomorrow morning.", "label": 1}
+{"text": "talk at 8am?", "label": 1}
+{"text": "Any updates on the project timeline?", "label": 0}
+{"text": "Let's do a yoga class first thing in the morning?", "label": 1}
+{"text": "Join me for a sunrise hike in the morning?", "label": 1}
+{"text": "Can we schedule a yoga session at sunrise tomorrow?", "label": 1}
+{"text": "Good morning! How about a quick jog before work?", "label": 1}
+{"text": "Please send the report by EOD.", "label": 0}
+{"text": "Join me for a morning yoga class?", "label": 1}
+{"text": "Hi Bob\uff0creport\u4eca\u5929\u80fd\u53d1\u6211\u5417\uff1f", "label": 0}
+{"text": "Let's do yoga at 7:15 AM tomorrow?", "label": 1}
+{"text": "Run tmrw?", "label": 1}
+{"text": "\u65e9\u4e0a\u6563\u6b65\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "How about a morning bike ride?", "label": 1}
+{"text": "Quick call at 7:45 AM to plan the week?", "label": 1}
+{"text": "Morning workout session before work?", "label": 1}
+{"text": "\u4eca\u5929\u4e0b\u5348\u6709\u7a7a\u5417\uff1f\u6211\u4eec\u9700\u8981\u8ba8\u8bba\u4e00\u4e0b", "label": 0}
+{"text": "Send me the report by 5 pm?", "label": 0}
+{"text": "Let's plan the dinner tonight?", "label": 0}
+{"text": "Good morning Bob, please review the attached doc when you can.", "label": 0}
+{"text": "Would you like to do some stretching before our team call?", "label": 1}
+{"text": "\u65e9\u4e0a\u89c1\u9762\u6253\u4e2a\u7403\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "Gym at 6:30 PM?", "label": 0}
+{"text": "\u65e9\u4e0a\u4e00\u8d77\u53bb\u745c\u4f3d\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "Early morning run tomorrow?", "label": 1}
+{"text": "Good morning, can you confirm the meeting time?", "label": 0}
+{"text": "What's the latest on the client project?", "label": 0}
+{"text": "Can you review the slides in the afternoon?", "label": 0}
+{"text": "Want to hit the gym at 6:30 AM tomorrow?", "label": 1}
+{"text": "Let's run in the early dawn tomorrow?", "label": 1}
+{"text": "\u6668\u7ec3\u4e00\u8d77\u8d70\u5427\uff1f", "label": 1}
+{"text": "\u65e9\u4e0a\u4e00\u8d77\u8dd1\u6b65\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "\u665a\u4e0a\u4e00\u8d77\u559d\u5496\u5561\uff1f", "label": 0}
+{"text": "Run in the morning tomorrow?", "label": 1}
+{"text": "Would you like to do some sports early morning this week?", "label": 1}
+{"text": "Plan a quick call at 7:30 AM?", "label": 1}
+{"text": "Morning yoga session at 7:30 AM?", "label": 1}
+{"text": "Thanks, let's touch base later today", "label": 0}
+{"text": "Run in the early hours tomorrow?", "label": 1}
+{"text": "\u662f\u4e0d\u662f\u65e9\u4e0a7\u70b9\u53ef\u4ee5\uff1f", "label": 1}
+{"text": "What's the plan for tonight's meeting?", "label": 0}
+{"text": "\u65e9\u8d77\u953b\u70bc\uff0c\u4fdd\u6301\u72b6\u6001\uff01", "label": 1}
+{"text": "Quick bike ride at dawn?", "label": 1}
+{"text": "Morning call to go over the sales targets?", "label": 1}
+{"text": "How about a hike tmrw morning before work?", "label": 1}
+{"text": "Please send the report by tomorrow evening.", "label": 0}
+{"text": "Let's have a meeting in the afternoon.", "label": 0}
+{"text": "\u660e\u5929\u4e00\u65e9\u53bb\u8dd1\u6b65\u53ef\u4ee5\u5417\uff1f", "label": 1}
+{"text": "Are we meeting in the afternoon?", "label": 0}
+{"text": "Morning meeting at 9 AM confirmed.", "label": 0}
+{"text": "Meet in the early morning for some stretching?", "label": 1}
+{"text": "Referring to the agenda, we need to finalize the report.", "label": 0}
+{"text": "Getting some exercise at sunrise, interested?", "label": 1}
+{"text": "Squat @ 7:15 tmrw?", "label": 1}
+{"text": "Are you free for a morning gym session?", "label": 1}
+{"text": "Please send the presentation in the afternoon.", "label": 0}
+{"text": "Are you available for a chat this evening?", "label": 0}
+{"text": "Join me for a morning yoga session?", "label": 1}
+{"text": "Let's plan a hike at dawn.", "label": 1}
+{"text": "\u6e05\u6668\u4e00\u8d77\u8dd1\u6b65\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "Planning a run tomorrow morning?", "label": 1}
+{"text": "Let's meet in the dawn for a quick cycling ride", "label": 1}
+{"text": "How about a sunrise yoga class?", "label": 1}
+{"text": "Meet for coffee at 6:30 AM?", "label": 1}
+{"text": "Meet tmrw morning?", "label": 1}
+{"text": "Let's do a quick yoga session in the morning!", "label": 1}
+{"text": "Good morning, can you review the budget?", "label": 0}
+{"text": "Are you free for a call this evening?", "label": 0}
+{"text": "Let's catch up in the evening.", "label": 0}
+{"text": "Don't forget our meeting at 6:30 PM.", "label": 0}
+{"text": "Morning, I need the report by end of day.", "label": 0}
+{"text": "Join for a quick sunrise hike?", "label": 1}
+{"text": "Morning yoga session tmrw?", "label": 1}
+{"text": "Can we do a quick yoga session at sunrise?", "label": 1}
+{"text": "Please send the slides before the meeting tomorrow.", "label": 0}
+{"text": "How about a quick hike at dawn?", "label": 1}
+{"text": "Morning jog tomorrow?", "label": 1}
+{"text": "Would you like to join me for a hike at sunrise?", "label": 1}
+{"text": "Can you review the quarterly report?", "label": 0}
+{"text": "Good morning\u2014please send the updated report.", "label": 0}
+{"text": "Let's aim for a sunrise hike.", "label": 1}
+{"text": "How do I reset my password?", "label": 0}
+{"text": "Let's do a morning hike this weekend.", "label": 1}
+{"text": "Going for a hike before breakfast tomorrow?", "label": 1}
+{"text": "Catch up after work?", "label": 0}
+{"text": "Can I get your feedback on the report?", "label": 0}
+{"text": "Can you send the report by 3 PM today?", "label": 0}
+{"text": "Would you be available for a call at 4 PM?", "label": 0}
+{"text": "7:30 AM walk in the park?", "label": 1}
+{"text": "\u4f60\u80fd\u53d1\u6211\u90a3\u4e2a\u5de5\u5177\u7684\u94fe\u63a5\u5417\uff1f", "label": 0}
+{"text": "Quick call at 7:45 PM tomorrow?", "label": 0}
+{"text": "Morning Bob, just wanted to follow up on the draft document.", "label": 0}
+{"text": "Can we set up a meeting in the evening?", "label": 0}
+{"text": "Is there a session at dawn tomorrow?", "label": 0}
+{"text": "\u6668\u7ec3\u65f6\u95f4\u5b9a\u4e86\u5417\uff1f", "label": 1}
+{"text": "Do you have time for coffee later?", "label": 0}
+{"text": "Can you send the report by EOD?", "label": 0}
+{"text": "\u6668\u7ec3\uff0c\u8fce\u63a5\u65b0\u7684\u4e00\u5929\uff01", "label": 1}
+{"text": "Plan a quick hike at sunrise?", "label": 1}
+{"text": "\u8bf7\u95ee\u660e\u5929\u7684\u4f1a\u8bae\u5b89\u6392\uff1f", "label": 0}
+{"text": "\u65e9\u4e0a\u4e00\u8d77\u7ec3\u745c\u4f3d\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "Can we schedule a morning yoga class?", "label": 1}
+{"text": "\u4e0b\u5348\u4e09\u70b9\u7684\u4f1a\u8bae\u5b89\u6392\u53ef\u4ee5\u5417\uff1f", "label": 0}
+{"text": "Run in the morning?", "label": 1}
+{"text": "Let's plan a hike at dawn this weekend.", "label": 1}
+{"text": "\u665a\u4e0a\u6211\u4eec\u9700\u8981\u8ba8\u8bba\u9884\u7b97\u95ee\u9898", "label": 0}
+{"text": "gym at 6:30 PM?", "label": 0}
+{"text": "Morning hike at dawn?", "label": 1}
+{"text": "Would you like to do a quick gym session early morning?", "label": 1}
+{"text": "Would you like to join us for yoga at sunrise?", "label": 1}
+{"text": "Can we do a quick run before work?", "label": 1}
+{"text": "Bob, can you send the budget spreadsheet?", "label": 0}
+{"text": "Let's schedule the call for 7:00 AM?", "label": 1}
+{"text": "Could you share the logistics plan at your earliest convenience?", "label": 0}
+{"text": "\u65e9\u4e0a\u4e00\u8d77\u6253\u7403\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "Morning, please prepare the presentation slides.", "label": 0}
+{"text": "Can we do some stretching before work tomorrow?", "label": 1}
+{"text": "Planning an early morning hike or run?", "label": 1}
+{"text": "Join me for a quick run before our standup?", "label": 1}
+{"text": "\u4e00\u8d77\u505a\u4e2a\u65e5\u51fa\u745c\u4f3d\u5427\uff01", "label": 1}
+{"text": "Join me for a quick yoga session at dawn?", "label": 1}
+{"text": "Can we review the slides tomorrow?", "label": 0}
+{"text": "Please review the document when you get a chance.", "label": 0}
+{"text": "Open to a quick morning yoga?", "label": 1}
+{"text": "Good morning, please send the updates.", "label": 0}
+{"text": "\u665a\u996d\u540e\u6563\u6b65\u600e\u4e48\u6837\uff1f\u60f3\u4e00\u8d77\u53bb\u5417\uff1f", "label": 0}
+{"text": "Can you help me with the tool setup?", "label": 0}
+{"text": "Looking forward to the lunch meeting", "label": 0}
+{"text": "\u6709\u7a7a\u7684\u8bdd\uff0c\u5e2e\u6211\u67e5\u67e5\u7269\u6d41\u72b6\u6001", "label": 0}
+{"text": "tmr in the evening works for me.", "label": 0}
+{"text": "Let's meet in the afternoon tomorrow", "label": 0}
+{"text": "\u63d0\u524d\u4e86\u89e3\u4e00\u4e0b\u4f60\u7684\u884c\u7a0b\u5b89\u6392\uff0c\u8c22\u8c22", "label": 0}
+{"text": "Let's check the reports in the afternoon.", "label": 0}
+{"text": "Would you like to join me for a morning run?", "label": 1}
+{"text": "Meet for a quick yoga session at dawn?", "label": 1}
+{"text": "\u660e\u5929\u65e9\u4e0a\u4e00\u8d77\u53bb\u8dd1\u6b65\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "Let's meet for a morning yoga class.", "label": 1}
+{"text": "Morning stretching session?", "label": 1}
+{"text": "Join me for a morning yoga session tomorrow?", "label": 1}
+{"text": "Please review the document and send feedback.", "label": 0}
+{"text": "Do you know how to fix this issue?", "label": 0}
+{"text": "Let's connect later today about the project.", "label": 0}
+{"text": "\u6668\u8dd1\uff0c\u660e\u5929\u65e9\u4e0a\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "Quick call at 7:45 PM?", "label": 0}
+{"text": "Is there a time we could discuss the report in the evening?", "label": 0}
+{"text": "Would you like to do a quick morning workout?", "label": 1}
+{"text": "Let's meet in the late afternoon to discuss.", "label": 0}
+{"text": "I'm not doing early runs anymore", "label": 0}
+{"text": "Can we have a quick chat this afternoon?", "label": 0}
+{"text": "\u660e\u5929\u65e9\u4e0a\u6253\u4e2a\u76f9\u4e4b\u524d\uff0c\u8fd0\u52a8\u4e00\u4e0b\u5982\u4f55\uff1f", "label": 1}
+{"text": "Refuse to join morning workouts", "label": 0}
+{"text": "Let's grab coffee in the morning?", "label": 1}
+{"text": "Please send the latest sales figures.", "label": 0}
+{"text": "Morning yoga class in the park?", "label": 1}
+{"text": "\u6668\u7ec3\u5b89\u6392\u5728\u660e\u65e9\u5417\uff1f", "label": 1}
+{"text": "TMrw morning run?", "label": 1}
+{"text": "\u65e9\u9910\u540e\u6211\u4eec\u53bb\u8dd1\u6b65\u5417\uff1f", "label": 0}
+{"text": "Are you available for a call at 3PM?", "label": 0}
+{"text": "Morning meeting to discuss the project?", "label": 1}
+{"text": "run at 6am tomorrow?", "label": 1}
+{"text": "Any updates on the budget?", "label": 0}
+{"text": "Morning Bob\u2014could you send the files later today?", "label": 0}
+{"text": "Any recipes you recommend?", "label": 0}
+{"text": "Let's get our blood pumping before standup tomorrow.", "label": 1}
+{"text": "Let's review the slides later today.", "label": 0}
+{"text": "Can you help me with the spreadsheet?", "label": 0}
+{"text": "Is there a window for a chat after work?", "label": 0}
+{"text": "\u660e\u5929\u6e05\u6668\u8dd1\u6b65\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "Let's hit the gym at 6:30 AM tomorrow?", "label": 1}
+{"text": "Evening workout planned?", "label": 0}
+{"text": "\u660e\u5929\u65e9\u4e0a\u4e00\u8d77\u53bb\u6563\u6b65\uff1f", "label": 1}
+{"text": "Morning, let's discuss the project timeline.", "label": 0}
+{"text": "Morning Bob, can you help review the budget?", "label": 0}
+{"text": "Would you like to do yoga before work?", "label": 1}
+{"text": "Bob, can we do a quick call tomorrow morning?", "label": 0}
+{"text": "Can we have a call at 9:00 AM?", "label": 1}
+{"text": "Morning Bob, how about a sunrise jog?", "label": 1}
+{"text": "Please review the attached documents when you get a chance.", "label": 0}
+{"text": "Morning! Just wanted to check the deadline for the deliverables.", "label": 0}
+{"text": "Please send me the project update later today.", "label": 0}
+{"text": "Interested in a dawn hike this weekend?", "label": 1}
+{"text": "Can you help me set up the new software?", "label": 0}
+{"text": "Could you confirm the meeting time?", "label": 0}
+{"text": "Would you like to go for a morning run?", "label": 1}
+{"text": "Early morning sports practice tomorrow?", "label": 1}
+{"text": "Let's schedule the call for 8:30 PM.", "label": 0}
+{"text": "Can we reschedule the session to evening?", "label": 0}
+{"text": "Run tomorrow morning?", "label": 1}
+{"text": "\u65e9\u4e0a\u4e03\u70b9\u89c1\u9762\u505a\u62c9\u4f38\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "\u8bf7\u5728\u4e0b\u5348\u56de\u590d\u4f60\u7684\u610f\u89c1\u3002", "label": 0}
+{"text": "Planning a call at sunrise?", "label": 1}
+{"text": "Morning hike sounds good?", "label": 1}
+{"text": "Run tmrw morning?", "label": 1}
+{"text": "Are there any updates on the shipping logistics?", "label": 0}
+{"text": "Morning, I\u2019ll be working on the report today.", "label": 0}
+{"text": "Any update on the invoice? Let me know.", "label": 0}
+{"text": "No morning meetings for me thanks.", "label": 0}
+{"text": "Can we schedule a quick workout before the meeting?", "label": 1}
+{"text": "Morning sun salutations?", "label": 1}
+{"text": "Shall we do a quick run at sunrise?", "label": 1}
+{"text": "Good morning, can we discuss the project updates?", "label": 0}
+{"text": "Meet for coffee after work?", "label": 0}
+{"text": "\u953b\u70bc\u65f6\u95f4\uff0c\u65e9\u4e0a\u89c1\uff01", "label": 1}
+{"text": "Is the meeting scheduled for next week?", "label": 0}
+{"text": "Let's hit the gym before our 9 AM call tomorrow!", "label": 1}
+{"text": "Reminder: team sync at 2 PM tomorrow.", "label": 0}
+{"text": "Looking forward to our call tomorrow morning.", "label": 0}
+{"text": "A quick fitness session before work?", "label": 1}
+{"text": "Let's have a quick chat at noon.", "label": 0}
+{"text": "Quick chat in the afternoon about the review?", "label": 0}
+{"text": "I dislike morning runs and avoid early workouts.", "label": 0}
+{"text": "Mornings are perfect for a quick workout.", "label": 0}
+{"text": "Can we catch up early in the morning?", "label": 1}
+{"text": "Please review the attached slides before our meeting.", "label": 0}
+{"text": "Morning, want to hit the gym together?", "label": 1}
+{"text": "Dinner plans at 7 PM?", "label": 0}
+{"text": "\u65e9\u4e0a\u597d\uff01\u60f3\u4e00\u8d77\u7ec3\u745c\u4f3d\u5417\uff1f", "label": 1}
+{"text": "What time is the meeting scheduled for tomorrow?", "label": 0}
+{"text": "Long hike early in the morning sounds good. Are you in?", "label": 1}
+{"text": "Refusing to join morning workouts lately.", "label": 0}
+{"text": "Plan a hike early morning this weekend?", "label": 1}
+{"text": "\u65e9\u4e0a\u5496\u5561\u65f6\u95f4\u804a\u4e00\u804a\uff1f", "label": 1}
+{"text": "Join me for a morning stretch?", "label": 1}
+{"text": "Do you know where the nearest FedEx is?", "label": 0}
+{"text": "Where's the nearest FedEx?", "label": 0}
+{"text": "\u65e9\u4e0a7\u70b9\u5f00\u4f1a\u53ef\u4ee5\u5417\uff1f", "label": 1}
+{"text": "Early bird special: gym session at 6:30 AM?", "label": 1}
+{"text": "\u6668\u8dd1\u5b89\u6392\u597d\u4e86\u5417\uff1f\u660e\u5929\u65e9\u4e0a\u4e00\u8d77\u53bb\u5427\uff01", "label": 1}
+{"text": "Can we go for a run before work?", "label": 1}
+{"text": "Morning! Can we meet for a quick yoga session?", "label": 1}
+{"text": "Can we do a meeting in the afternoon?", "label": 0}
+{"text": "\u660e\u5929\u65e9\u6668\u53bb\u722c\u5c71\u597d\u5417\uff1f", "label": 1}
+{"text": "Is there any update on the AM meeting?", "label": 0}
+{"text": "Let's meet in the afternoon", "label": 0}
+{"text": "Morning call to schedule the gym session?", "label": 1}
+{"text": "Stretch and sweat at dawn?", "label": 1}
+{"text": "Quick call at 6:45 AM?", "label": 1}
+{"text": "\u671d\u9633\u4e0b\u6563\u6b65\u600e\u4e48\u6837\uff1f", "label": 1}
+{"text": "Good morning! Want to join a quick yoga session?", "label": 1}
+{"text": "Morning sports meet-up?", "label": 1}
+{"text": "Let's hit the gym before our 9 AM meeting!", "label": 1}
+{"text": "Remind me how to reset my password?", "label": 0}
+{"text": "\u65e9\u5b89\uff0c\u660e\u5929\u6e05\u6668\u89c1\u9762\uff1f", "label": 1}

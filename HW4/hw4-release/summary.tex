@@ -1,0 +1,42 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+
+\title{\textbf{CS 5740 Homework 4 Written Summary}\\
+\large Safety Classifier (Bob)}
+\author{Althea Lam, Ziwei Liu}
+\date{May 2026}
+
+\begin{document}
+
+\maketitle
+
+\section{Task 1: Training data strategy and fine-tuning}
+
+We fine-tuned \texttt{distilbert/distilbert-base-uncased} using \texttt{safety\_classifier\_finetune.ipynb}. Labels are binary: 1\,=\,unsafe (morning scheduling or physical exercise), 0\,=\,safe.
+
+\textbf{Baseline.}
+We first trained only on the course-provided train/dev splits to obtain an initial best checkpoint (logged on Weights \& Biases).
+
+\textbf{Round 1 --- shorter / informal emails.}
+We used \texttt{generate\_email\_dataset\_v1.py} to generate about 1{,}000 extra emails focused on \emph{shorter} and more \emph{informal} wording (abbreviations, brief prompts). We merged these with the official training file into \texttt{email\_dataset\_train\_combined\_v1.jsonl} (and a matching dev merge \texttt{email\_dataset\_dev\_combined\_v1.jsonl}). On validation, this model reached about \textbf{99.24\%} accuracy and \textbf{F1 $\approx$ 0.992}.
+
+\textbf{Round 2 --- jailbreak-style training mix.}
+We automatically generated \texttt{jailbreaks.jsonl} (100 rows; see Task~2) with \texttt{generate\_jailbreaks.py}, then merged jailbreak rows into the train/dev combined files (still together with the official data and our augmented mail). Example tricks included spelling substitutions (\texttt{m0rning}, \texttt{ex3rcise}), multilingual text, negation-style prompts, implicit wording for exercise, and explicit clock times (e.g.\ 9\,AM). We trained another checkpoint from this mixture.
+
+\textbf{Round 3 --- targeted fixes after error analysis.}
+We inspected failures of the current model (e.g.\ afternoon/evening slots misclassified as unsafe, ``Morning'' used as a greeting, negation such as ``I avoid yoga,'' benign general questions, and short Chinese--English mixes). We then used \texttt{generate\_email\_dataset\_v2.py} to generate about 1{,}000 additional examples aimed at these patterns and merged everything into \texttt{email\_dataset\_train\_combined\_v2.jsonl} (and dev combined v2). Validation accuracy/F1 for this run was about \textbf{97.99\%}, \emph{lower} than Round~1.
+
+\textbf{Which checkpoint we submit.}
+Because Round~3 under-performed Round~1 on validation, we submit the \textbf{best model from the stronger validation run} (the Round~1 combined setting above), not the last Round~3 checkpoint.
+
+\section{Task 2: Jailbreak dataset strategy}
+
+Task~2 requires an automated pipeline (not hand-written one-offs). We implemented \texttt{generate\_jailbreaks.py} to generate \texttt{jailbreaks.jsonl} with \textbf{100} examples, \textbf{50} per label, all unique strings. Strategies mix templates and simple perturbations so examples are not dominated only by ``very short'' mail or ``explicit time'' alone (per homework intent): spelling obfuscation, multilingual prompts, negation/implicit phrasing, polite wrappers, and light character substitutions. We balanced labels and checked format matches the course JSONL schema (\texttt{text}, \texttt{label}).
+
+\section{Experiment tracking}
+
+Training runs were logged under the course Weights \& Biases project \texttt{safety-classifier}; key runs correspond to the baseline, augmented+v1 merge, jailbreak-augmented merge, and v2-targeted merge described above.
+
+\end{document}
